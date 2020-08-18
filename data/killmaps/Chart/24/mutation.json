@@ -1,0 +1,425 @@
+[
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "72",
+    "mkp": 8,
+    "mkf": 0,
+    "mnp": 6,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "72",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 13,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "72",
+    "mkp": 8,
+    "mkf": 0,
+    "mnp": 6,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "72",
+    "mkp": 8,
+    "mkf": 0,
+    "mnp": 6,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "85",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "85",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "85",
+    "mkp": 9,
+    "mkf": 0,
+    "mnp": 5,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "87",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "89",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "90",
+    "mkp": 2,
+    "mkf": 0,
+    "mnp": 12,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "101",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "112",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "124",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "125",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "127",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "127",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "128",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "145",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "146",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "149",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "151",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "152",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "152",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "152",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "153",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "155",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "155",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "155",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "156",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "158",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.renderer.GrayPaintScale",
+    "location": "170",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 14,
+    "mnf": 1
+  }
+]

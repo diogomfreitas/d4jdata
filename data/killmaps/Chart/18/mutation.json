@@ -1,0 +1,4826 @@
+[
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "82",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "95",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "96",
+    "mkp": 183,
+    "mkf": 0,
+    "mnp": 140,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "107",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "118",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "119",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "121",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "132",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "144",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "160",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "161",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "170",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "184",
+    "mkp": 179,
+    "mkf": 0,
+    "mnp": 144,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "185",
+    "mkp": 179,
+    "mkf": 0,
+    "mnp": 144,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "185",
+    "mkp": 179,
+    "mkf": 0,
+    "mnp": 144,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "185",
+    "mkp": 158,
+    "mkf": 0,
+    "mnp": 165,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "185",
+    "mkp": 179,
+    "mkf": 0,
+    "mnp": 144,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "185",
+    "mkp": 179,
+    "mkf": 0,
+    "mnp": 144,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "185",
+    "mkp": 160,
+    "mkf": 0,
+    "mnp": 163,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "185",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "185",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "185",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "185",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "185",
+    "mkp": 179,
+    "mkf": 0,
+    "mnp": 144,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "185",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "185",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "186",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "187",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "187",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "187",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "187",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "187",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "187",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "187",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "205",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "206",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "207",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "218",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "231",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "232",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "233",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "233",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "233",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.AbstractDataset",
+    "location": "255",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "54",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "64",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "64",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "73",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "74",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "76",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "85",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "96",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "107",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "108",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "111",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "113",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "114",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "114",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "115",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetGroup",
+    "location": "117",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "77",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "95",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "104",
+    "mkp": 144,
+    "mkf": 0,
+    "mnp": 179,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "105",
+    "mkp": 144,
+    "mkf": 0,
+    "mnp": 179,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "106",
+    "mkp": 137,
+    "mkf": 0,
+    "mnp": 186,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "107",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "118",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "129",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "144",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "145",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "146",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "149",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "150",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "150",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "150",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "150",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "150",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "151",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "154",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "168",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "182",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "183",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "185",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "185",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "186",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "189",
+    "mkp": 125,
+    "mkf": 0,
+    "mnp": 198,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "201",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "216",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "230",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "231",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "233",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "244",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "261",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "262",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "264",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "265",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "269",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "269",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "270",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "277",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "278",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "278",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "278",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "278",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "278",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "281",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "282",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "282",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "282",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "282",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "282",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "285",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "303",
+    "mkp": 78,
+    "mkf": 0,
+    "mnp": 245,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "320",
+    "mkp": 135,
+    "mkf": 0,
+    "mnp": 188,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "322",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "322",
+    "mkp": 135,
+    "mkf": 0,
+    "mnp": 188,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "322",
+    "mkp": 6,
+    "mkf": 0,
+    "mnp": 317,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "322",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "322",
+    "mkp": 135,
+    "mkf": 0,
+    "mnp": 188,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "323",
+    "mkp": 88,
+    "mkf": 0,
+    "mnp": 235,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "326",
+    "mkp": 135,
+    "mkf": 0,
+    "mnp": 188,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "327",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "327",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "328",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "328",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "328",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "328",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "328",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "328",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "328",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "328",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "328",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "329",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "330",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "333",
+    "mkp": 71,
+    "mkf": 0,
+    "mnp": 252,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "334",
+    "mkp": 123,
+    "mkf": 0,
+    "mnp": 200,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "337",
+    "mkp": 60,
+    "mkf": 0,
+    "mnp": 263,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "339",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "340",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "340",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "340",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "340",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "340",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "341",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "356",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "359",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "360",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "361",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "363",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "363",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "363",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "363",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "363",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "363",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "365",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "366",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "366",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "367",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "371",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "371",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "372",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "373",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "377",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "377",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "380",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "380",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "380",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "380",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "380",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "380",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "382",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "383",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "384",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "384",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "384",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "384",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "384",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "384",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "384",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "384",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "384",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "384",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "385",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "385",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "386",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "390",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "390",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "393",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "394",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "395",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "395",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "395",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "395",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "395",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "396",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "399",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "412",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "413",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "425",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "437",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "438",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "455",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "457",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "458",
+    "mkp": 0,
+    "mkf": 1,
+    "mnp": 323,
+    "mnf": 3
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "460",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "467",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "468",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "469",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "481",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "482",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "484",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "485",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "489",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "491",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "492",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "492",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "493",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "495",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "495",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "496",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "498",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "499",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "499",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "499",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "500",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "503",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "504",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "504",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "504",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "505",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "508",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "508",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "508",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "508",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "508",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "510",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "511",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "512",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "513",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "514",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "518",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "518",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "519",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "524",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "534",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "535",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "535",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "535",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "535",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "535",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "535",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "535",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "535",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "535",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "535",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "535",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "536",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "536",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "536",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "536",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "536",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "536",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "536",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "536",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "536",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "536",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "536",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "537",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "549",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "552",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "553",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "556",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues2D",
+    "location": "557",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetChangeEvent",
+    "location": "72",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.DatasetChangeEvent",
+    "location": "83",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "81",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "99",
+    "mkp": 178,
+    "mkf": 0,
+    "mnp": 145,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "100",
+    "mkp": 178,
+    "mkf": 0,
+    "mnp": 145,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "101",
+    "mkp": 179,
+    "mkf": 0,
+    "mnp": 144,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "110",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "123",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "136",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "150",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "151",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "153",
+    "mkp": 77,
+    "mkf": 0,
+    "mnp": 246,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "154",
+    "mkp": 176,
+    "mkf": 0,
+    "mnp": 147,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "155",
+    "mkp": 176,
+    "mkf": 0,
+    "mnp": 147,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "155",
+    "mkp": 176,
+    "mkf": 0,
+    "mnp": 147,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "157",
+    "mkp": 41,
+    "mkf": 0,
+    "mnp": 282,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "166",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "181",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "182",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "182",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "182",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "182",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "182",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "183",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "185",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "197",
+    "mkp": 4,
+    "mkf": 0,
+    "mnp": 319,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "209",
+    "mkp": 12,
+    "mkf": 0,
+    "mnp": 311,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "219",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "229",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "230",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "232",
+    "mkp": 175,
+    "mkf": 0,
+    "mnp": 148,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "233",
+    "mkp": 6,
+    "mkf": 1,
+    "mnp": 317,
+    "mnf": 3
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "233",
+    "mkp": 175,
+    "mkf": 0,
+    "mnp": 148,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "233",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "233",
+    "mkp": 6,
+    "mkf": 1,
+    "mnp": 317,
+    "mnf": 3
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "233",
+    "mkp": 175,
+    "mkf": 0,
+    "mnp": 148,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "234",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "235",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "238",
+    "mkp": 83,
+    "mkf": 0,
+    "mnp": 240,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "239",
+    "mkp": 140,
+    "mkf": 0,
+    "mnp": 183,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "240",
+    "mkp": 133,
+    "mkf": 0,
+    "mnp": 190,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "240",
+    "mkp": 135,
+    "mkf": 0,
+    "mnp": 188,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "240",
+    "mkp": 42,
+    "mkf": 0,
+    "mnp": 281,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "240",
+    "mkp": 134,
+    "mkf": 0,
+    "mnp": 189,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "240",
+    "mkp": 135,
+    "mkf": 0,
+    "mnp": 188,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "240",
+    "mkp": 133,
+    "mkf": 0,
+    "mnp": 190,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "240",
+    "mkp": 80,
+    "mkf": 0,
+    "mnp": 243,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "256",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "272",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "274",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "275",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "277",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "278",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "278",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "278",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "279",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "283",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "283",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "283",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "283",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "283",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "284",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "285",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "288",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "289",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "290",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "299",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "300",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "300",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 322,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "300",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "300",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 322,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "300",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "301",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "302",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "316",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "317",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "318",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "318",
+    "mkp": 0,
+    "mkf": 2,
+    "mnp": 323,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "318",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "319",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "333",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "334",
+    "mkp": 0,
+    "mkf": 1,
+    "mnp": 323,
+    "mnf": 3
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "334",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "334",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "334",
+    "mkp": 0,
+    "mkf": 1,
+    "mnp": 323,
+    "mnf": 3
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "334",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "335",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "337",
+    "mkp": 0,
+    "mkf": 1,
+    "mnp": 323,
+    "mnf": 3
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "346",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "347",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "348",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "357",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "358",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "360",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "360",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "360",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "360",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "360",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "361",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "365",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "367",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "368",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "370",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "370",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "370",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "370",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "370",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "371",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "372",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "384",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "385",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "386",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "386",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "386",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "386",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "386",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "387",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "393",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "395",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "396",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "396",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "396",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "396",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "396",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "397",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "398",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "410",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "411",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "415",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "418",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "419",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "420",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "420",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "420",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "421",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "424",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "424",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "424",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "424",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "424",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "425",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "426",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "427",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "427",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "428",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "430",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "431",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "432",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "433",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "434",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "438",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "438",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "439",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "443",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "452",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "452",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "452",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "464",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "465",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "466",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "467",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.DefaultKeyedValues",
+    "location": "468",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "65",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "74",
+    "mkp": 121,
+    "mkf": 0,
+    "mnp": 202,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "85",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "96",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "110",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "124",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "138",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "149",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "162",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "176",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "187",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "203",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "218",
+    "mkp": 57,
+    "mkf": 0,
+    "mnp": 266,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "219",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "233",
+    "mkp": 46,
+    "mkf": 0,
+    "mnp": 277,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "248",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "249",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "264",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "281",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "282",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "283",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "285",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "285",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "285",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "285",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "285",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "298",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "299",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "311",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "312",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "324",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "325",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "337",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "338",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "350",
+    "mkp": 0,
+    "mkf": 1,
+    "mnp": 323,
+    "mnf": 3
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "351",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "359",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "360",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "372",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "373",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "377",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "380",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "381",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "381",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "382",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "385",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "385",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "386",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "389",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "390",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "392",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "392",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "392",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "392",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "392",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "393",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "394",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "395",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "396",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "397",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "400",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "400",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "401",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "414",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "426",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "427",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.category.DefaultCategoryDataset",
+    "location": "428",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 323,
+    "mnf": 4
+  }
+]

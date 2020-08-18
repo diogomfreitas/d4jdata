@@ -1,0 +1,326 @@
+1:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObject:60:2677930479256885863L |==> 0L
+2:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObject@<init>:75:this.key = key |==> <NO-OP>
+3:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObject@<init>:76:this.object = object |==> <NO-OP>
+4:STD:CALL:<NO-OP>:org.jfree.data.KeyedObject@getKey:85:this.key |==> null
+5:STD:CALL:<NO-OP>:org.jfree.data.KeyedObject@getObject:94:this.object |==> null
+6:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObject@setObject:103:this.object = object |==> <NO-OP>
+7:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObject@clone:117:(KeyedObject)super.clone() |==> null
+8:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObject@clone:119:(PublicCloneable)this.object |==> null
+9:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObject@clone:120:clone.object = pc.clone() |==> <NO-OP>
+10:STD:CALL:<NO-OP>:org.jfree.data.KeyedObject@clone:122:clone |==> null
+11:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObject@equals:134:obj == this |==> false
+12:LVR:TRUE:FALSE:org.jfree.data.KeyedObject@equals:135:true |==> false
+13:LVR:FALSE:TRUE:org.jfree.data.KeyedObject@equals:139:false |==> true
+14:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObject@equals:141:(KeyedObject)obj |==> null
+15:COR:ObjectUtilities.equal(this.key, that.key):TRUE:org.jfree.data.KeyedObject@equals:142:ObjectUtilities.equal(this.key, that.key) |==> false
+16:COR:ObjectUtilities.equal(this.key, that.key):FALSE:org.jfree.data.KeyedObject@equals:142:ObjectUtilities.equal(this.key, that.key) |==> true
+17:LVR:FALSE:TRUE:org.jfree.data.KeyedObject@equals:143:false |==> true
+18:COR:ObjectUtilities.equal(this.object, that.object):TRUE:org.jfree.data.KeyedObject@equals:146:ObjectUtilities.equal(this.object, that.object) |==> false
+19:COR:ObjectUtilities.equal(this.object, that.object):FALSE:org.jfree.data.KeyedObject@equals:146:ObjectUtilities.equal(this.object, that.object) |==> true
+20:LVR:FALSE:TRUE:org.jfree.data.KeyedObject@equals:147:false |==> true
+21:LVR:TRUE:FALSE:org.jfree.data.KeyedObject@equals:150:true |==> false
+22:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects:59:1321582394193530984L |==> 0L
+23:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects@<init>:68:this.data = new java.util.ArrayList() |==> <NO-OP>
+24:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects@getItemCount:77:this.data.size() |==> 0
+25:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getObject:91:(KeyedObject)this.data.get(item) |==> null
+26:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@getObject:92:kobj != null |==> true
+27:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects@getObject:93:result = kobj.getObject() |==> <NO-OP>
+28:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects@getObject:95:result |==> null
+29:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getKey:111:(KeyedObject)this.data.get(index) |==> null
+30:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@getKey:112:item != null |==> true
+31:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects@getKey:113:result = item.getKey() |==> <NO-OP>
+32:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects@getKey:115:result |==> null
+33:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@getIndex:128:key == null |==> false
+34:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects@getIndex:129:"Null \'key\' argument." |==> null
+35:LVR:0:POS:org.jfree.data.KeyedObjects@getIndex:131:0 |==> 1
+36:LVR:0:NEG:org.jfree.data.KeyedObjects@getIndex:131:0 |==> -1
+37:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getIndex:132:this.data.iterator() |==> null
+38:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getIndex:134:(KeyedObject)iterator.next() |==> null
+39:COR:ko.getKey().equals(key):TRUE:org.jfree.data.KeyedObjects@getIndex:135:ko.getKey().equals(key) |==> false
+40:COR:ko.getKey().equals(key):FALSE:org.jfree.data.KeyedObjects@getIndex:135:ko.getKey().equals(key) |==> true
+41:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects@getIndex:136:i |==> 0
+42:STD:<INC/DEC>:<NO-OP>:org.jfree.data.KeyedObjects@getIndex:138:i++ |==> <NO-OP>
+43:LVR:NEG:0:org.jfree.data.KeyedObjects@getIndex:140:-1 |==> 0
+44:LVR:NEG:POS:org.jfree.data.KeyedObjects@getIndex:140:-1 |==> 1
+45:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getKeys:149:new java.util.ArrayList() |==> null
+46:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getKeys:150:this.data.iterator() |==> null
+47:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getKeys:152:(KeyedObject)iterator.next() |==> null
+48:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@getKeys:153:result.add(ko.getKey()) |==> <NO-OP>
+49:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects@getKeys:155:result |==> null
+50:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getObject:169:getIndex(key) |==> 0
+51:LVR:0:POS:org.jfree.data.KeyedObjects@getObject:170:0 |==> 1
+52:LVR:0:NEG:org.jfree.data.KeyedObjects@getObject:170:0 |==> -1
+53:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects@getObject:170:index < 0 |==> index != 0
+54:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects@getObject:170:index < 0 |==> index <= 0
+55:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects@getObject:170:index < 0 |==> false
+56:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects@getObject:171:"The key (" |==> null
+57:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects@getObject:172:") is not recognised." |==> null
+58:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects@getObject:174:getObject(index) |==> null
+59:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@addObject:187:setObject(key, object) |==> <NO-OP>
+60:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@setObject:201:getIndex(key) |==> 0
+61:LVR:0:POS:org.jfree.data.KeyedObjects@setObject:202:0 |==> 1
+62:LVR:0:NEG:org.jfree.data.KeyedObjects@setObject:202:0 |==> -1
+63:ROR:>=(int,int):==(int,int):org.jfree.data.KeyedObjects@setObject:202:keyIndex >= 0 |==> keyIndex == 0
+64:ROR:>=(int,int):>(int,int):org.jfree.data.KeyedObjects@setObject:202:keyIndex >= 0 |==> keyIndex > 0
+65:ROR:>=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects@setObject:202:keyIndex >= 0 |==> true
+66:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@setObject:203:(KeyedObject)this.data.get(keyIndex) |==> null
+67:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@setObject:204:ko.setObject(object) |==> <NO-OP>
+68:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@setObject:207:new KeyedObject(key, object) |==> null
+69:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@setObject:208:this.data.add(ko) |==> <NO-OP>
+70:LVR:0:POS:org.jfree.data.KeyedObjects@insertValue:225:0 |==> 1
+71:LVR:0:NEG:org.jfree.data.KeyedObjects@insertValue:225:0 |==> -1
+72:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects@insertValue:225:position < 0 |==> position != 0
+73:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects@insertValue:225:position < 0 |==> position <= 0
+74:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects@insertValue:225:position < 0 |==> false
+75:ROR:>(int,int):!=(int,int):org.jfree.data.KeyedObjects@insertValue:225:position > this.data.size() |==> position != this.data.size()
+76:ROR:>(int,int):>=(int,int):org.jfree.data.KeyedObjects@insertValue:225:position > this.data.size() |==> position >= this.data.size()
+77:ROR:>(int,int):FALSE(int,int):org.jfree.data.KeyedObjects@insertValue:225:position > this.data.size() |==> false
+78:COR:||(boolean,boolean):!=(boolean,boolean):org.jfree.data.KeyedObjects@insertValue:225:position < 0 || position > this.data.size() |==> position < 0 != position > this.data.size()
+79:COR:||(boolean,boolean):LHS(boolean,boolean):org.jfree.data.KeyedObjects@insertValue:225:position < 0 || position > this.data.size() |==> position < 0
+80:COR:||(boolean,boolean):RHS(boolean,boolean):org.jfree.data.KeyedObjects@insertValue:225:position < 0 || position > this.data.size() |==> position > this.data.size()
+81:COR:||(boolean,boolean):TRUE(boolean,boolean):org.jfree.data.KeyedObjects@insertValue:225:position < 0 || position > this.data.size() |==> true
+82:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects@insertValue:226:"\'position\' out of bounds." |==> null
+83:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@insertValue:228:key == null |==> false
+84:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects@insertValue:229:"Null \'key\' argument." |==> null
+85:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@insertValue:231:getIndex(key) |==> 0
+86:LVR:0:POS:org.jfree.data.KeyedObjects@insertValue:232:0 |==> 1
+87:LVR:0:NEG:org.jfree.data.KeyedObjects@insertValue:232:0 |==> -1
+88:ROR:>=(int,int):==(int,int):org.jfree.data.KeyedObjects@insertValue:232:pos >= 0 |==> pos == 0
+89:ROR:>=(int,int):>(int,int):org.jfree.data.KeyedObjects@insertValue:232:pos >= 0 |==> pos > 0
+90:ROR:>=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects@insertValue:232:pos >= 0 |==> true
+91:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@insertValue:233:this.data.remove(pos) |==> <NO-OP>
+92:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@insertValue:235:new KeyedObject(key, value) |==> null
+93:ROR:<=(int,int):<(int,int):org.jfree.data.KeyedObjects@insertValue:236:position <= this.data.size() |==> position < this.data.size()
+94:ROR:<=(int,int):==(int,int):org.jfree.data.KeyedObjects@insertValue:236:position <= this.data.size() |==> position == this.data.size()
+95:ROR:<=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects@insertValue:236:position <= this.data.size() |==> true
+96:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@insertValue:237:this.data.add(position, item) |==> <NO-OP>
+97:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@insertValue:240:this.data.add(item) |==> <NO-OP>
+98:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@removeValue:252:this.data.remove(index) |==> <NO-OP>
+99:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@removeValue:266:getIndex(key) |==> 0
+100:LVR:0:POS:org.jfree.data.KeyedObjects@removeValue:267:0 |==> 1
+101:LVR:0:NEG:org.jfree.data.KeyedObjects@removeValue:267:0 |==> -1
+102:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects@removeValue:267:index < 0 |==> index != 0
+103:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects@removeValue:267:index < 0 |==> index <= 0
+104:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects@removeValue:267:index < 0 |==> false
+105:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects@removeValue:268:"The key (" |==> null
+106:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects@removeValue:269:") is not recognised." |==> null
+107:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@removeValue:271:removeValue(index) |==> <NO-OP>
+108:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@clear:280:this.data.clear() |==> <NO-OP>
+109:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@clone:293:(KeyedObjects)super.clone() |==> null
+110:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects@clone:294:clone.data = new java.util.ArrayList() |==> <NO-OP>
+111:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@clone:295:this.data.iterator() |==> null
+112:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@clone:297:(KeyedObject)iterator.next() |==> null
+113:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@clone:298:clone.data.add(ko.clone()) |==> <NO-OP>
+114:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects@clone:300:clone |==> null
+115:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@equals:312:obj == this |==> false
+116:LVR:TRUE:FALSE:org.jfree.data.KeyedObjects@equals:313:true |==> false
+117:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects@equals:316:false |==> true
+118:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@equals:318:(KeyedObjects)obj |==> null
+119:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@equals:319:getItemCount() |==> 0
+120:ROR:!=(int,int):<(int,int):org.jfree.data.KeyedObjects@equals:320:count != that.getItemCount() |==> count < that.getItemCount()
+121:ROR:!=(int,int):>(int,int):org.jfree.data.KeyedObjects@equals:320:count != that.getItemCount() |==> count > that.getItemCount()
+122:ROR:!=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects@equals:320:count != that.getItemCount() |==> true
+123:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects@equals:321:false |==> true
+124:LVR:0:POS:org.jfree.data.KeyedObjects@equals:324:0 |==> 1
+125:LVR:0:NEG:org.jfree.data.KeyedObjects@equals:324:0 |==> -1
+126:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects@equals:324:i < count |==> i != count
+127:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects@equals:324:i < count |==> i <= count
+128:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects@equals:324:i < count |==> false
+129:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@equals:325:getKey(i) |==> null
+130:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@equals:326:that.getKey(i) |==> null
+131:COR:k1.equals(k2):TRUE:org.jfree.data.KeyedObjects@equals:327:k1.equals(k2) |==> false
+132:COR:k1.equals(k2):FALSE:org.jfree.data.KeyedObjects@equals:327:k1.equals(k2) |==> true
+133:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects@equals:328:false |==> true
+134:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@equals:330:getObject(i) |==> null
+135:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@equals:331:that.getObject(i) |==> null
+136:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@equals:332:o1 == null |==> false
+137:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@equals:333:o2 != null |==> true
+138:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects@equals:334:false |==> true
+139:COR:o1.equals(o2):TRUE:org.jfree.data.KeyedObjects@equals:338:o1.equals(o2) |==> false
+140:COR:o1.equals(o2):FALSE:org.jfree.data.KeyedObjects@equals:338:o1.equals(o2) |==> true
+141:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects@equals:339:false |==> true
+142:LVR:TRUE:FALSE:org.jfree.data.KeyedObjects@equals:343:true |==> false
+143:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@hashCode:353:this.data != null |==> true
+144:LVR:0:POS:org.jfree.data.KeyedObjects@hashCode:353:0 |==> 1
+145:LVR:0:NEG:org.jfree.data.KeyedObjects@hashCode:353:0 |==> -1
+146:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D:60:-1015873563138522374L |==> 0L
+147:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@<init>:75:this.rowKeys = new java.util.ArrayList() |==> <NO-OP>
+148:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@<init>:76:this.columnKeys = new java.util.ArrayList() |==> <NO-OP>
+149:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@<init>:77:this.rows = new java.util.ArrayList() |==> <NO-OP>
+150:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getRowCount:88:this.rowKeys.size() |==> 0
+151:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getColumnCount:99:this.columnKeys.size() |==> 0
+152:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:114:(KeyedObjects)this.rows.get(row) |==> null
+153:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@getObject:115:rowData != null |==> true
+154:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:116:(Comparable)this.columnKeys.get(column) |==> null
+155:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@getObject:117:columnKey != null |==> true
+156:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:118:rowData.getIndex(columnKey) |==> 0
+157:LVR:0:POS:org.jfree.data.KeyedObjects2D@getObject:119:0 |==> 1
+158:LVR:0:NEG:org.jfree.data.KeyedObjects2D@getObject:119:0 |==> -1
+159:ROR:>=(int,int):==(int,int):org.jfree.data.KeyedObjects2D@getObject:119:index >= 0 |==> index == 0
+160:ROR:>=(int,int):>(int,int):org.jfree.data.KeyedObjects2D@getObject:119:index >= 0 |==> index > 0
+161:ROR:>=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects2D@getObject:119:index >= 0 |==> true
+162:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:120:result = rowData.getObject(columnKey) |==> <NO-OP>
+163:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:124:result |==> null
+164:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getRowKey:137:(Comparable)this.rowKeys.get(row) |==> null
+165:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getRowIndex:150:this.rowKeys.indexOf(key) |==> 0
+166:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getRowKeys:161:Collections.unmodifiableList(this.rowKeys) |==> null
+167:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getColumnKey:174:(Comparable)this.columnKeys.get(column) |==> null
+168:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getColumnIndex:187:this.columnKeys.indexOf(key) |==> 0
+169:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getColumnKeys:198:Collections.unmodifiableList(this.columnKeys) |==> null
+170:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@getObject:215:rowKey == null |==> false
+171:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@getObject:216:"Null \'rowKey\' argument." |==> null
+172:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@getObject:218:columnKey == null |==> false
+173:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@getObject:219:"Null \'columnKey\' argument." |==> null
+174:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:221:this.rowKeys.indexOf(rowKey) |==> 0
+175:LVR:0:POS:org.jfree.data.KeyedObjects2D@getObject:222:0 |==> 1
+176:LVR:0:NEG:org.jfree.data.KeyedObjects2D@getObject:222:0 |==> -1
+177:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@getObject:222:row < 0 |==> row != 0
+178:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@getObject:222:row < 0 |==> row <= 0
+179:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@getObject:222:row < 0 |==> false
+180:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@getObject:223:"Row key (" |==> null
+181:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@getObject:224:") not recognised." |==> null
+182:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:226:this.columnKeys.indexOf(columnKey) |==> 0
+183:LVR:0:POS:org.jfree.data.KeyedObjects2D@getObject:227:0 |==> 1
+184:LVR:0:NEG:org.jfree.data.KeyedObjects2D@getObject:227:0 |==> -1
+185:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@getObject:227:column < 0 |==> column != 0
+186:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@getObject:227:column < 0 |==> column <= 0
+187:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@getObject:227:column < 0 |==> false
+188:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@getObject:228:"Column key (" |==> null
+189:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@getObject:229:") not recognised." |==> null
+190:LVR:0:POS:org.jfree.data.KeyedObjects2D@getObject:231:0 |==> 1
+191:LVR:0:NEG:org.jfree.data.KeyedObjects2D@getObject:231:0 |==> -1
+192:ROR:>=(int,int):==(int,int):org.jfree.data.KeyedObjects2D@getObject:231:row >= 0 |==> row == 0
+193:ROR:>=(int,int):>(int,int):org.jfree.data.KeyedObjects2D@getObject:231:row >= 0 |==> row > 0
+194:ROR:>=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects2D@getObject:231:row >= 0 |==> true
+195:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:232:(KeyedObjects)this.rows.get(row) |==> null
+196:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:233:rowData.getObject(columnKey) |==> null
+197:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@addObject:249:setObject(object, rowKey, columnKey) |==> <NO-OP>
+198:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@setObject:262:rowKey == null |==> false
+199:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@setObject:263:"Null \'rowKey\' argument." |==> null
+200:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@setObject:265:columnKey == null |==> false
+201:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@setObject:266:"Null \'columnKey\' argument." |==> null
+202:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:269:this.rowKeys.indexOf(rowKey) |==> 0
+203:LVR:0:POS:org.jfree.data.KeyedObjects2D@setObject:270:0 |==> 1
+204:LVR:0:NEG:org.jfree.data.KeyedObjects2D@setObject:270:0 |==> -1
+205:ROR:>=(int,int):==(int,int):org.jfree.data.KeyedObjects2D@setObject:270:rowIndex >= 0 |==> rowIndex == 0
+206:ROR:>=(int,int):>(int,int):org.jfree.data.KeyedObjects2D@setObject:270:rowIndex >= 0 |==> rowIndex > 0
+207:ROR:>=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects2D@setObject:270:rowIndex >= 0 |==> true
+208:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:271:(KeyedObjects)this.rows.get(rowIndex) |==> null
+209:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:274:this.rowKeys.add(rowKey) |==> <NO-OP>
+210:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:275:new KeyedObjects() |==> null
+211:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:276:this.rows.add(row) |==> <NO-OP>
+212:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:278:row.setObject(columnKey, object) |==> <NO-OP>
+213:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:279:this.columnKeys.indexOf(columnKey) |==> 0
+214:LVR:0:POS:org.jfree.data.KeyedObjects2D@setObject:280:0 |==> 1
+215:LVR:0:NEG:org.jfree.data.KeyedObjects2D@setObject:280:0 |==> -1
+216:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@setObject:280:columnIndex < 0 |==> columnIndex != 0
+217:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@setObject:280:columnIndex < 0 |==> columnIndex <= 0
+218:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@setObject:280:columnIndex < 0 |==> false
+219:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:281:this.columnKeys.add(columnKey) |==> <NO-OP>
+220:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:297:setObject(null, rowKey, columnKey) |==> <NO-OP>
+221:LVR:TRUE:FALSE:org.jfree.data.KeyedObjects2D@removeObject:300:true |==> false
+222:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:301:getRowIndex(rowKey) |==> 0
+223:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:302:(KeyedObjects)this.rows.get(rowIndex) |==> null
+224:LVR:0:POS:org.jfree.data.KeyedObjects2D@removeObject:304:0 |==> 1
+225:LVR:0:NEG:org.jfree.data.KeyedObjects2D@removeObject:304:0 |==> -1
+226:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:304:row.getItemCount() |==> 0
+227:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@removeObject:304:item < itemCount |==> item != itemCount
+228:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@removeObject:304:item < itemCount |==> item <= itemCount
+229:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@removeObject:304:item < itemCount |==> false
+230:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@removeObject:306:row.getObject(item) != null |==> true
+231:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@removeObject:307:false |==> true
+232:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:307:allNull = false |==> <NO-OP>
+233:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:308:break; |==> <NO-OP>
+234:COR:allNull:TRUE:org.jfree.data.KeyedObjects2D@removeObject:312:allNull |==> false
+235:COR:allNull:FALSE:org.jfree.data.KeyedObjects2D@removeObject:312:allNull |==> true
+236:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:313:this.rowKeys.remove(rowIndex) |==> <NO-OP>
+237:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:314:this.rows.remove(rowIndex) |==> <NO-OP>
+238:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeRow:330:this.rowKeys.remove(rowIndex) |==> <NO-OP>
+239:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeRow:331:this.rows.remove(rowIndex) |==> <NO-OP>
+240:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeRow:344:getRowIndex(rowKey) |==> 0
+241:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeRow:345:removeRow(index) |==> <NO-OP>
+242:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:356:getColumnKey(columnIndex) |==> null
+243:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:357:removeColumn(columnKey) |==> <NO-OP>
+244:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:370:getColumnIndex(columnKey) |==> 0
+245:LVR:0:POS:org.jfree.data.KeyedObjects2D@removeColumn:371:0 |==> 1
+246:LVR:0:NEG:org.jfree.data.KeyedObjects2D@removeColumn:371:0 |==> -1
+247:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@removeColumn:371:index < 0 |==> index != 0
+248:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@removeColumn:371:index < 0 |==> index <= 0
+249:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@removeColumn:371:index < 0 |==> false
+250:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@removeColumn:372:"Column key (" |==> null
+251:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@removeColumn:373:") not recognised." |==> null
+252:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:375:this.rows.iterator() |==> null
+253:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:377:(KeyedObjects)iterator.next() |==> null
+254:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:378:rowData.removeValue(columnKey) |==> <NO-OP>
+255:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:380:this.columnKeys.remove(columnKey) |==> <NO-OP>
+256:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@equals:391:obj == this |==> false
+257:LVR:TRUE:FALSE:org.jfree.data.KeyedObjects2D@equals:392:true |==> false
+258:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@equals:395:false |==> true
+259:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@equals:398:(KeyedObjects2D)obj |==> null
+260:COR:getRowKeys().equals(that.getRowKeys()):TRUE:org.jfree.data.KeyedObjects2D@equals:399:getRowKeys().equals(that.getRowKeys()) |==> false
+261:COR:getRowKeys().equals(that.getRowKeys()):FALSE:org.jfree.data.KeyedObjects2D@equals:399:getRowKeys().equals(that.getRowKeys()) |==> true
+262:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@equals:400:false |==> true
+263:COR:getColumnKeys().equals(that.getColumnKeys()):TRUE:org.jfree.data.KeyedObjects2D@equals:402:getColumnKeys().equals(that.getColumnKeys()) |==> false
+264:COR:getColumnKeys().equals(that.getColumnKeys()):FALSE:org.jfree.data.KeyedObjects2D@equals:402:getColumnKeys().equals(that.getColumnKeys()) |==> true
+265:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@equals:403:false |==> true
+266:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@equals:405:getRowCount() |==> 0
+267:ROR:!=(int,int):<(int,int):org.jfree.data.KeyedObjects2D@equals:406:rowCount != that.getRowCount() |==> rowCount < that.getRowCount()
+268:ROR:!=(int,int):>(int,int):org.jfree.data.KeyedObjects2D@equals:406:rowCount != that.getRowCount() |==> rowCount > that.getRowCount()
+269:ROR:!=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects2D@equals:406:rowCount != that.getRowCount() |==> true
+270:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@equals:407:false |==> true
+271:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@equals:409:getColumnCount() |==> 0
+272:ROR:!=(int,int):<(int,int):org.jfree.data.KeyedObjects2D@equals:410:colCount != that.getColumnCount() |==> colCount < that.getColumnCount()
+273:ROR:!=(int,int):>(int,int):org.jfree.data.KeyedObjects2D@equals:410:colCount != that.getColumnCount() |==> colCount > that.getColumnCount()
+274:ROR:!=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects2D@equals:410:colCount != that.getColumnCount() |==> true
+275:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@equals:411:false |==> true
+276:LVR:0:POS:org.jfree.data.KeyedObjects2D@equals:413:0 |==> 1
+277:LVR:0:NEG:org.jfree.data.KeyedObjects2D@equals:413:0 |==> -1
+278:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@equals:413:r < rowCount |==> r != rowCount
+279:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@equals:413:r < rowCount |==> r <= rowCount
+280:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@equals:413:r < rowCount |==> false
+281:LVR:0:POS:org.jfree.data.KeyedObjects2D@equals:414:0 |==> 1
+282:LVR:0:NEG:org.jfree.data.KeyedObjects2D@equals:414:0 |==> -1
+283:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@equals:414:c < colCount |==> c != colCount
+284:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@equals:414:c < colCount |==> c <= colCount
+285:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@equals:414:c < colCount |==> false
+286:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@equals:415:getObject(r, c) |==> null
+287:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@equals:416:that.getObject(r, c) |==> null
+288:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@equals:417:v1 == null |==> false
+289:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@equals:418:v2 != null |==> true
+290:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@equals:419:false |==> true
+291:COR:v1.equals(v2):TRUE:org.jfree.data.KeyedObjects2D@equals:423:v1.equals(v2) |==> false
+292:COR:v1.equals(v2):FALSE:org.jfree.data.KeyedObjects2D@equals:423:v1.equals(v2) |==> true
+293:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@equals:424:false |==> true
+294:LVR:TRUE:FALSE:org.jfree.data.KeyedObjects2D@equals:429:true |==> false
+295:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@hashCode:439:this.rowKeys.hashCode() |==> 0
+296:LVR:POS:0:org.jfree.data.KeyedObjects2D@hashCode:440:29 |==> 0
+297:LVR:POS:NEG:org.jfree.data.KeyedObjects2D@hashCode:440:29 |==> -29
+298:AOR:*(int,int):%(int,int):org.jfree.data.KeyedObjects2D@hashCode:440:29 * result |==> 29 % result
+299:AOR:*(int,int):+(int,int):org.jfree.data.KeyedObjects2D@hashCode:440:29 * result |==> 29 + result
+300:AOR:*(int,int):-(int,int):org.jfree.data.KeyedObjects2D@hashCode:440:29 * result |==> 29 - result
+301:AOR:*(int,int):/(int,int):org.jfree.data.KeyedObjects2D@hashCode:440:29 * result |==> 29 / result
+302:AOR:+(int,int):%(int,int):org.jfree.data.KeyedObjects2D@hashCode:440:29 * result + this.columnKeys.hashCode() |==> 29 * result % this.columnKeys.hashCode()
+303:AOR:+(int,int):*(int,int):org.jfree.data.KeyedObjects2D@hashCode:440:29 * result + this.columnKeys.hashCode() |==> 29 * result * this.columnKeys.hashCode()
+304:AOR:+(int,int):-(int,int):org.jfree.data.KeyedObjects2D@hashCode:440:29 * result + this.columnKeys.hashCode() |==> 29 * result - this.columnKeys.hashCode()
+305:AOR:+(int,int):/(int,int):org.jfree.data.KeyedObjects2D@hashCode:440:29 * result + this.columnKeys.hashCode() |==> 29 * result / this.columnKeys.hashCode()
+306:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@hashCode:440:result = 29 * result + this.columnKeys.hashCode() |==> <NO-OP>
+307:LVR:POS:0:org.jfree.data.KeyedObjects2D@hashCode:441:29 |==> 0
+308:LVR:POS:NEG:org.jfree.data.KeyedObjects2D@hashCode:441:29 |==> -29
+309:AOR:*(int,int):%(int,int):org.jfree.data.KeyedObjects2D@hashCode:441:29 * result |==> 29 % result
+310:AOR:*(int,int):+(int,int):org.jfree.data.KeyedObjects2D@hashCode:441:29 * result |==> 29 + result
+311:AOR:*(int,int):-(int,int):org.jfree.data.KeyedObjects2D@hashCode:441:29 * result |==> 29 - result
+312:AOR:*(int,int):/(int,int):org.jfree.data.KeyedObjects2D@hashCode:441:29 * result |==> 29 / result
+313:AOR:+(int,int):%(int,int):org.jfree.data.KeyedObjects2D@hashCode:441:29 * result + this.rows.hashCode() |==> 29 * result % this.rows.hashCode()
+314:AOR:+(int,int):*(int,int):org.jfree.data.KeyedObjects2D@hashCode:441:29 * result + this.rows.hashCode() |==> 29 * result * this.rows.hashCode()
+315:AOR:+(int,int):-(int,int):org.jfree.data.KeyedObjects2D@hashCode:441:29 * result + this.rows.hashCode() |==> 29 * result - this.rows.hashCode()
+316:AOR:+(int,int):/(int,int):org.jfree.data.KeyedObjects2D@hashCode:441:29 * result + this.rows.hashCode() |==> 29 * result / this.rows.hashCode()
+317:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@hashCode:441:result = 29 * result + this.rows.hashCode() |==> <NO-OP>
+318:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@hashCode:442:result |==> 0
+319:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:454:(KeyedObjects2D)super.clone() |==> null
+320:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:455:clone.columnKeys = new java.util.ArrayList(this.columnKeys) |==> <NO-OP>
+321:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:456:clone.rowKeys = new java.util.ArrayList(this.rowKeys) |==> <NO-OP>
+322:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:457:clone.rows = new java.util.ArrayList(this.rows.size()) |==> <NO-OP>
+323:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:458:this.rows.iterator() |==> null
+324:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:460:(KeyedObjects)iterator.next() |==> null
+325:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:461:clone.rows.add(row.clone()) |==> <NO-OP>
+326:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:463:clone |==> null

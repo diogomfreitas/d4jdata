@@ -1,0 +1,859 @@
+1:STD:ASSIGN:<NO-OP>:org.jfree.data.general.AbstractDataset:84:1918768939869230744L |==> 0L
+2:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.AbstractDataset@<init>:97:this.group = new DatasetGroup() |==> <NO-OP>
+3:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.AbstractDataset@<init>:98:this.listenerList = new EventListenerList() |==> <NO-OP>
+4:STD:CALL:<NO-OP>:org.jfree.data.general.AbstractDataset@getGroup:109:this.group |==> null
+5:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.general.AbstractDataset@setGroup:120:group == null |==> false
+6:LVR:<CLASS>:<NULL>:org.jfree.data.general.AbstractDataset@setGroup:121:"Null \'group\' argument." |==> null
+7:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.AbstractDataset@setGroup:123:this.group = group |==> <NO-OP>
+8:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@addChangeListener:134:this.listenerList.add(DatasetChangeListener.class, listener) |==> <NO-OP>
+9:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@removeChangeListener:146:this.listenerList.remove(DatasetChangeListener.class, listener) |==> <NO-OP>
+10:STD:ASSIGN:<NO-OP>:org.jfree.data.general.AbstractDataset@hasListener:162:Arrays.asList(this.listenerList.getListenerList()) |==> null
+11:STD:CALL:<NO-OP>:org.jfree.data.general.AbstractDataset@hasListener:163:list.contains(listener) |==> false
+12:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@fireDatasetChanged:172:notifyListeners(new DatasetChangeEvent(this, this)) |==> <NO-OP>
+13:STD:ASSIGN:<NO-OP>:org.jfree.data.general.AbstractDataset@notifyListeners:186:this.listenerList.getListenerList() |==> null
+14:LVR:POS:0:org.jfree.data.general.AbstractDataset@notifyListeners:187:2 |==> 0
+15:LVR:POS:NEG:org.jfree.data.general.AbstractDataset@notifyListeners:187:2 |==> -2
+16:AOR:-(int,int):%(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:187:listeners.length - 2 |==> listeners.length % 2
+17:AOR:-(int,int):*(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:187:listeners.length - 2 |==> listeners.length * 2
+18:AOR:-(int,int):+(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:187:listeners.length - 2 |==> listeners.length + 2
+19:AOR:-(int,int):/(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:187:listeners.length - 2 |==> listeners.length / 2
+20:LVR:0:POS:org.jfree.data.general.AbstractDataset@notifyListeners:187:0 |==> 1
+21:LVR:0:NEG:org.jfree.data.general.AbstractDataset@notifyListeners:187:0 |==> -1
+22:ROR:>=(int,int):==(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:187:i >= 0 |==> i == 0
+23:ROR:>=(int,int):>(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:187:i >= 0 |==> i > 0
+24:ROR:>=(int,int):TRUE(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:187:i >= 0 |==> true
+25:LVR:POS:0:org.jfree.data.general.AbstractDataset@notifyListeners:187:2 |==> 0
+26:LVR:POS:NEG:org.jfree.data.general.AbstractDataset@notifyListeners:187:2 |==> -2
+27:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.general.AbstractDataset@notifyListeners:188:listeners[i] == DatasetChangeListener.class |==> false
+28:LVR:POS:0:org.jfree.data.general.AbstractDataset@notifyListeners:189:1 |==> 0
+29:LVR:POS:NEG:org.jfree.data.general.AbstractDataset@notifyListeners:189:1 |==> -1
+30:AOR:+(int,int):%(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:189:i + 1 |==> i % 1
+31:AOR:+(int,int):*(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:189:i + 1 |==> i * 1
+32:AOR:+(int,int):-(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:189:i + 1 |==> i - 1
+33:AOR:+(int,int):/(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:189:i + 1 |==> i / 1
+34:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@notifyListeners:189:((DatasetChangeListener)listeners[i + 1]).datasetChanged(event) |==> <NO-OP>
+35:STD:ASSIGN:<NO-OP>:org.jfree.data.general.AbstractDataset@clone:207:(AbstractDataset)super.clone() |==> null
+36:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.AbstractDataset@clone:208:clone.listenerList = new EventListenerList() |==> <NO-OP>
+37:STD:CALL:<NO-OP>:org.jfree.data.general.AbstractDataset@clone:209:clone |==> null
+38:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@writeObject:220:stream.defaultWriteObject() |==> <NO-OP>
+39:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@readObject:233:stream.defaultReadObject() |==> <NO-OP>
+40:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.AbstractDataset@readObject:234:this.listenerList = new EventListenerList() |==> <NO-OP>
+41:LVR:POS:0:org.jfree.data.general.AbstractDataset@readObject:235:10 |==> 0
+42:LVR:POS:NEG:org.jfree.data.general.AbstractDataset@readObject:235:10 |==> -10
+43:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@readObject:235:stream.registerValidation(this, 10) |==> <NO-OP>
+44:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@validateObject:257:fireDatasetChanged() |==> <NO-OP>
+45:STD:ASSIGN:<NO-OP>:org.jfree.data.general.DatasetGroup:56:-3640642179674185688L |==> 0L
+46:LVR:<CLASS>:<NULL>:org.jfree.data.general.DatasetGroup@<init>:66:"NOID" |==> null
+47:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.DatasetGroup@<init>:66:this.id = "NOID" |==> <NO-OP>
+48:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.general.DatasetGroup@<init>:75:id == null |==> false
+49:LVR:<CLASS>:<NULL>:org.jfree.data.general.DatasetGroup@<init>:76:"Null \'id\' argument." |==> null
+50:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.DatasetGroup@<init>:78:this.id = id |==> <NO-OP>
+51:STD:CALL:<NO-OP>:org.jfree.data.general.DatasetGroup@getID:87:this.id |==> null
+52:STD:CALL:<NO-OP>:org.jfree.data.general.DatasetGroup@clone:98:super.clone() |==> null
+53:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.general.DatasetGroup@equals:109:obj == this |==> false
+54:LVR:TRUE:FALSE:org.jfree.data.general.DatasetGroup@equals:110:true |==> false
+55:LVR:FALSE:TRUE:org.jfree.data.general.DatasetGroup@equals:113:false |==> true
+56:STD:ASSIGN:<NO-OP>:org.jfree.data.general.DatasetGroup@equals:115:(DatasetGroup)obj |==> null
+57:COR:this.id.equals(that.id):TRUE:org.jfree.data.general.DatasetGroup@equals:116:this.id.equals(that.id) |==> false
+58:COR:this.id.equals(that.id):FALSE:org.jfree.data.general.DatasetGroup@equals:116:this.id.equals(that.id) |==> true
+59:LVR:FALSE:TRUE:org.jfree.data.general.DatasetGroup@equals:117:false |==> true
+60:LVR:TRUE:FALSE:org.jfree.data.general.DatasetGroup@equals:119:true |==> false
+61:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.DatasetChangeEvent@<init>:74:this.dataset = dataset |==> <NO-OP>
+62:STD:CALL:<NO-OP>:org.jfree.data.general.DatasetChangeEvent@getDataset:85:this.dataset |==> null
+63:STD:ASSIGN:<NO-OP>:org.jfree.data.Range:71:-906333695431863380L |==> 0L
+64:ROR:>(double,double):!=(double,double):org.jfree.data.Range@<init>:86:lower > upper |==> lower != upper
+65:ROR:>(double,double):>=(double,double):org.jfree.data.Range@<init>:86:lower > upper |==> lower >= upper
+66:ROR:>(double,double):FALSE(double,double):org.jfree.data.Range@<init>:86:lower > upper |==> false
+67:LVR:<CLASS>:<NULL>:org.jfree.data.Range@<init>:87:"Range(double, double): require lower (" |==> null
+68:LVR:<CLASS>:<NULL>:org.jfree.data.Range@<init>:88:") <= upper (" |==> null
+69:LVR:<CLASS>:<NULL>:org.jfree.data.Range@<init>:88:")." |==> null
+70:STD:<ASSIGN>:<NO-OP>:org.jfree.data.Range@<init>:91:this.lower = lower |==> <NO-OP>
+71:STD:<ASSIGN>:<NO-OP>:org.jfree.data.Range@<init>:92:this.upper = upper |==> <NO-OP>
+72:STD:CALL:<NO-OP>:org.jfree.data.Range@getLowerBound:101:this.lower |==> 0.0
+73:STD:CALL:<NO-OP>:org.jfree.data.Range@getUpperBound:110:this.upper |==> 0.0
+74:AOR:-(double,double):%(double,double):org.jfree.data.Range@getLength:119:this.upper - this.lower |==> this.upper % this.lower
+75:AOR:-(double,double):*(double,double):org.jfree.data.Range@getLength:119:this.upper - this.lower |==> this.upper * this.lower
+76:AOR:-(double,double):+(double,double):org.jfree.data.Range@getLength:119:this.upper - this.lower |==> this.upper + this.lower
+77:AOR:-(double,double):/(double,double):org.jfree.data.Range@getLength:119:this.upper - this.lower |==> this.upper / this.lower
+78:LVR:POS:0:org.jfree.data.Range@getCentralValue:128:2.0 |==> 0.0
+79:LVR:POS:NEG:org.jfree.data.Range@getCentralValue:128:2.0 |==> -2.0
+80:AOR:/(double,double):%(double,double):org.jfree.data.Range@getCentralValue:128:this.lower / 2.0 |==> this.lower % 2.0
+81:AOR:/(double,double):*(double,double):org.jfree.data.Range@getCentralValue:128:this.lower / 2.0 |==> this.lower * 2.0
+82:AOR:/(double,double):+(double,double):org.jfree.data.Range@getCentralValue:128:this.lower / 2.0 |==> this.lower + 2.0
+83:AOR:/(double,double):-(double,double):org.jfree.data.Range@getCentralValue:128:this.lower / 2.0 |==> this.lower - 2.0
+84:LVR:POS:0:org.jfree.data.Range@getCentralValue:128:2.0 |==> 0.0
+85:LVR:POS:NEG:org.jfree.data.Range@getCentralValue:128:2.0 |==> -2.0
+86:AOR:/(double,double):%(double,double):org.jfree.data.Range@getCentralValue:128:this.upper / 2.0 |==> this.upper % 2.0
+87:AOR:/(double,double):*(double,double):org.jfree.data.Range@getCentralValue:128:this.upper / 2.0 |==> this.upper * 2.0
+88:AOR:/(double,double):+(double,double):org.jfree.data.Range@getCentralValue:128:this.upper / 2.0 |==> this.upper + 2.0
+89:AOR:/(double,double):-(double,double):org.jfree.data.Range@getCentralValue:128:this.upper / 2.0 |==> this.upper - 2.0
+90:AOR:+(double,double):%(double,double):org.jfree.data.Range@getCentralValue:128:this.lower / 2.0 + this.upper / 2.0 |==> this.lower / 2.0 % (this.upper / 2.0)
+91:AOR:+(double,double):*(double,double):org.jfree.data.Range@getCentralValue:128:this.lower / 2.0 + this.upper / 2.0 |==> this.lower / 2.0 * (this.upper / 2.0)
+92:AOR:+(double,double):-(double,double):org.jfree.data.Range@getCentralValue:128:this.lower / 2.0 + this.upper / 2.0 |==> this.lower / 2.0 - this.upper / 2.0
+93:AOR:+(double,double):/(double,double):org.jfree.data.Range@getCentralValue:128:this.lower / 2.0 + this.upper / 2.0 |==> this.lower / 2.0 / (this.upper / 2.0)
+94:ROR:>=(double,double):==(double,double):org.jfree.data.Range@contains:140:value >= this.lower |==> value == this.lower
+95:ROR:>=(double,double):>(double,double):org.jfree.data.Range@contains:140:value >= this.lower |==> value > this.lower
+96:ROR:>=(double,double):TRUE(double,double):org.jfree.data.Range@contains:140:value >= this.lower |==> true
+97:ROR:<=(double,double):<(double,double):org.jfree.data.Range@contains:140:value <= this.upper |==> value < this.upper
+98:ROR:<=(double,double):==(double,double):org.jfree.data.Range@contains:140:value <= this.upper |==> value == this.upper
+99:ROR:<=(double,double):TRUE(double,double):org.jfree.data.Range@contains:140:value <= this.upper |==> true
+100:COR:&&(boolean,boolean):==(boolean,boolean):org.jfree.data.Range@contains:140:value >= this.lower && value <= this.upper |==> value >= this.lower == value <= this.upper
+101:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.jfree.data.Range@contains:140:value >= this.lower && value <= this.upper |==> false
+102:COR:&&(boolean,boolean):LHS(boolean,boolean):org.jfree.data.Range@contains:140:value >= this.lower && value <= this.upper |==> value >= this.lower
+103:COR:&&(boolean,boolean):RHS(boolean,boolean):org.jfree.data.Range@contains:140:value >= this.lower && value <= this.upper |==> value <= this.upper
+104:ROR:<=(double,double):<(double,double):org.jfree.data.Range@intersects:153:b0 <= this.lower |==> b0 < this.lower
+105:ROR:<=(double,double):==(double,double):org.jfree.data.Range@intersects:153:b0 <= this.lower |==> b0 == this.lower
+106:ROR:<=(double,double):TRUE(double,double):org.jfree.data.Range@intersects:153:b0 <= this.lower |==> true
+107:ROR:>(double,double):!=(double,double):org.jfree.data.Range@intersects:154:b1 > this.lower |==> b1 != this.lower
+108:ROR:>(double,double):>=(double,double):org.jfree.data.Range@intersects:154:b1 > this.lower |==> b1 >= this.lower
+109:ROR:>(double,double):FALSE(double,double):org.jfree.data.Range@intersects:154:b1 > this.lower |==> false
+110:ROR:<(double,double):!=(double,double):org.jfree.data.Range@intersects:157:b0 < this.upper |==> b0 != this.upper
+111:ROR:<(double,double):<=(double,double):org.jfree.data.Range@intersects:157:b0 < this.upper |==> b0 <= this.upper
+112:ROR:<(double,double):FALSE(double,double):org.jfree.data.Range@intersects:157:b0 < this.upper |==> false
+113:ROR:>=(double,double):==(double,double):org.jfree.data.Range@intersects:157:b1 >= b0 |==> b1 == b0
+114:ROR:>=(double,double):>(double,double):org.jfree.data.Range@intersects:157:b1 >= b0 |==> b1 > b0
+115:ROR:>=(double,double):TRUE(double,double):org.jfree.data.Range@intersects:157:b1 >= b0 |==> true
+116:COR:&&(boolean,boolean):==(boolean,boolean):org.jfree.data.Range@intersects:157:b0 < this.upper && b1 >= b0 |==> b0 < this.upper == b1 >= b0
+117:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.jfree.data.Range@intersects:157:b0 < this.upper && b1 >= b0 |==> false
+118:COR:&&(boolean,boolean):LHS(boolean,boolean):org.jfree.data.Range@intersects:157:b0 < this.upper && b1 >= b0 |==> b0 < this.upper
+119:COR:&&(boolean,boolean):RHS(boolean,boolean):org.jfree.data.Range@intersects:157:b0 < this.upper && b1 >= b0 |==> b1 >= b0
+120:STD:ASSIGN:<NO-OP>:org.jfree.data.Range@constrain:170:value |==> 0.0
+121:COR:contains(value):TRUE:org.jfree.data.Range@constrain:171:contains(value) |==> false
+122:COR:contains(value):FALSE:org.jfree.data.Range@constrain:171:contains(value) |==> true
+123:ROR:>(double,double):!=(double,double):org.jfree.data.Range@constrain:172:value > this.upper |==> value != this.upper
+124:ROR:>(double,double):>=(double,double):org.jfree.data.Range@constrain:172:value > this.upper |==> value >= this.upper
+125:ROR:>(double,double):FALSE(double,double):org.jfree.data.Range@constrain:172:value > this.upper |==> false
+126:STD:<ASSIGN>:<NO-OP>:org.jfree.data.Range@constrain:173:result = this.upper |==> <NO-OP>
+127:ROR:<(double,double):!=(double,double):org.jfree.data.Range@constrain:175:value < this.lower |==> value != this.lower
+128:ROR:<(double,double):<=(double,double):org.jfree.data.Range@constrain:175:value < this.lower |==> value <= this.lower
+129:ROR:<(double,double):FALSE(double,double):org.jfree.data.Range@constrain:175:value < this.lower |==> false
+130:STD:<ASSIGN>:<NO-OP>:org.jfree.data.Range@constrain:176:result = this.lower |==> <NO-OP>
+131:STD:CALL:<NO-OP>:org.jfree.data.Range@constrain:179:result |==> 0.0
+132:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.Range@combine:199:range1 == null |==> false
+133:STD:CALL:<NO-OP>:org.jfree.data.Range@combine:200:range2 |==> null
+134:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.Range@combine:203:range2 == null |==> false
+135:STD:CALL:<NO-OP>:org.jfree.data.Range@combine:204:range1 |==> null
+136:STD:ASSIGN:<NO-OP>:org.jfree.data.Range@combine:207:Math.min(range1.getLowerBound(), range2.getLowerBound()) |==> 0.0
+137:STD:ASSIGN:<NO-OP>:org.jfree.data.Range@combine:209:Math.max(range1.getUpperBound(), range2.getUpperBound()) |==> 0.0
+138:STD:CALL:<NO-OP>:org.jfree.data.Range@combine:211:new Range(l, u) |==> null
+139:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.Range@expandToInclude:228:range == null |==> false
+140:STD:CALL:<NO-OP>:org.jfree.data.Range@expandToInclude:229:new Range(value, value) |==> null
+141:ROR:<(double,double):!=(double,double):org.jfree.data.Range@expandToInclude:231:value < range.getLowerBound() |==> value != range.getLowerBound()
+142:ROR:<(double,double):<=(double,double):org.jfree.data.Range@expandToInclude:231:value < range.getLowerBound() |==> value <= range.getLowerBound()
+143:ROR:<(double,double):FALSE(double,double):org.jfree.data.Range@expandToInclude:231:value < range.getLowerBound() |==> false
+144:STD:CALL:<NO-OP>:org.jfree.data.Range@expandToInclude:232:new Range(value, range.getUpperBound()) |==> null
+145:ROR:>(double,double):!=(double,double):org.jfree.data.Range@expandToInclude:234:value > range.getUpperBound() |==> value != range.getUpperBound()
+146:ROR:>(double,double):>=(double,double):org.jfree.data.Range@expandToInclude:234:value > range.getUpperBound() |==> value >= range.getUpperBound()
+147:ROR:>(double,double):FALSE(double,double):org.jfree.data.Range@expandToInclude:234:value > range.getUpperBound() |==> false
+148:STD:CALL:<NO-OP>:org.jfree.data.Range@expandToInclude:235:new Range(range.getLowerBound(), value) |==> null
+149:STD:CALL:<NO-OP>:org.jfree.data.Range@expandToInclude:238:range |==> null
+150:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.Range@expand:255:range == null |==> false
+151:LVR:<CLASS>:<NULL>:org.jfree.data.Range@expand:256:"Null \'range\' argument." |==> null
+152:STD:ASSIGN:<NO-OP>:org.jfree.data.Range@expand:258:range.getLength() |==> 0.0
+153:AOR:*(double,double):%(double,double):org.jfree.data.Range@expand:259:length * lowerMargin |==> length % lowerMargin
+154:AOR:*(double,double):+(double,double):org.jfree.data.Range@expand:259:length * lowerMargin |==> length + lowerMargin
+155:AOR:*(double,double):-(double,double):org.jfree.data.Range@expand:259:length * lowerMargin |==> length - lowerMargin
+156:AOR:*(double,double):/(double,double):org.jfree.data.Range@expand:259:length * lowerMargin |==> length / lowerMargin
+157:AOR:*(double,double):%(double,double):org.jfree.data.Range@expand:260:length * upperMargin |==> length % upperMargin
+158:AOR:*(double,double):+(double,double):org.jfree.data.Range@expand:260:length * upperMargin |==> length + upperMargin
+159:AOR:*(double,double):-(double,double):org.jfree.data.Range@expand:260:length * upperMargin |==> length - upperMargin
+160:AOR:*(double,double):/(double,double):org.jfree.data.Range@expand:260:length * upperMargin |==> length / upperMargin
+161:AOR:-(double,double):%(double,double):org.jfree.data.Range@expand:261:range.getLowerBound() - lower |==> range.getLowerBound() % lower
+162:AOR:-(double,double):*(double,double):org.jfree.data.Range@expand:261:range.getLowerBound() - lower |==> range.getLowerBound() * lower
+163:AOR:-(double,double):+(double,double):org.jfree.data.Range@expand:261:range.getLowerBound() - lower |==> range.getLowerBound() + lower
+164:AOR:-(double,double):/(double,double):org.jfree.data.Range@expand:261:range.getLowerBound() - lower |==> range.getLowerBound() / lower
+165:AOR:+(double,double):%(double,double):org.jfree.data.Range@expand:262:range.getUpperBound() + upper |==> range.getUpperBound() % upper
+166:AOR:+(double,double):*(double,double):org.jfree.data.Range@expand:262:range.getUpperBound() + upper |==> range.getUpperBound() * upper
+167:AOR:+(double,double):-(double,double):org.jfree.data.Range@expand:262:range.getUpperBound() + upper |==> range.getUpperBound() - upper
+168:AOR:+(double,double):/(double,double):org.jfree.data.Range@expand:262:range.getUpperBound() + upper |==> range.getUpperBound() / upper
+169:LVR:FALSE:TRUE:org.jfree.data.Range@shift:274:false |==> true
+170:COR:allowZeroCrossing:TRUE:org.jfree.data.Range@shift:290:allowZeroCrossing |==> false
+171:COR:allowZeroCrossing:FALSE:org.jfree.data.Range@shift:290:allowZeroCrossing |==> true
+172:AOR:+(double,double):%(double,double):org.jfree.data.Range@shift:291:base.getLowerBound() + delta |==> base.getLowerBound() % delta
+173:AOR:+(double,double):*(double,double):org.jfree.data.Range@shift:291:base.getLowerBound() + delta |==> base.getLowerBound() * delta
+174:AOR:+(double,double):-(double,double):org.jfree.data.Range@shift:291:base.getLowerBound() + delta |==> base.getLowerBound() - delta
+175:AOR:+(double,double):/(double,double):org.jfree.data.Range@shift:291:base.getLowerBound() + delta |==> base.getLowerBound() / delta
+176:AOR:+(double,double):%(double,double):org.jfree.data.Range@shift:292:base.getUpperBound() + delta |==> base.getUpperBound() % delta
+177:AOR:+(double,double):*(double,double):org.jfree.data.Range@shift:292:base.getUpperBound() + delta |==> base.getUpperBound() * delta
+178:AOR:+(double,double):-(double,double):org.jfree.data.Range@shift:292:base.getUpperBound() + delta |==> base.getUpperBound() - delta
+179:AOR:+(double,double):/(double,double):org.jfree.data.Range@shift:292:base.getUpperBound() + delta |==> base.getUpperBound() / delta
+180:STD:CALL:<NO-OP>:org.jfree.data.Range@shift:295:new Range(shiftWithNoZeroCrossing(base.getLowerBound(), delta), shiftWithNoZeroCrossing(base.getUpperBound(), delta)) |==> null
+181:LVR:0:POS:org.jfree.data.Range@shiftWithNoZeroCrossing:311:0.0 |==> 1.0
+182:LVR:0:NEG:org.jfree.data.Range@shiftWithNoZeroCrossing:311:0.0 |==> -1.0
+183:ROR:>(double,double):!=(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:311:value > 0.0 |==> value != 0.0
+184:ROR:>(double,double):>=(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:311:value > 0.0 |==> value >= 0.0
+185:ROR:>(double,double):FALSE(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:311:value > 0.0 |==> false
+186:AOR:+(double,double):%(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:312:value + delta |==> value % delta
+187:AOR:+(double,double):*(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:312:value + delta |==> value * delta
+188:AOR:+(double,double):-(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:312:value + delta |==> value - delta
+189:AOR:+(double,double):/(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:312:value + delta |==> value / delta
+190:LVR:0:POS:org.jfree.data.Range@shiftWithNoZeroCrossing:312:0.0 |==> 1.0
+191:LVR:0:NEG:org.jfree.data.Range@shiftWithNoZeroCrossing:312:0.0 |==> -1.0
+192:LVR:0:POS:org.jfree.data.Range@shiftWithNoZeroCrossing:314:0.0 |==> 1.0
+193:LVR:0:NEG:org.jfree.data.Range@shiftWithNoZeroCrossing:314:0.0 |==> -1.0
+194:ROR:<(double,double):!=(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:314:value < 0.0 |==> value != 0.0
+195:ROR:<(double,double):<=(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:314:value < 0.0 |==> value <= 0.0
+196:ROR:<(double,double):FALSE(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:314:value < 0.0 |==> false
+197:AOR:+(double,double):%(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:315:value + delta |==> value % delta
+198:AOR:+(double,double):*(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:315:value + delta |==> value * delta
+199:AOR:+(double,double):-(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:315:value + delta |==> value - delta
+200:AOR:+(double,double):/(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:315:value + delta |==> value / delta
+201:LVR:0:POS:org.jfree.data.Range@shiftWithNoZeroCrossing:315:0.0 |==> 1.0
+202:LVR:0:NEG:org.jfree.data.Range@shiftWithNoZeroCrossing:315:0.0 |==> -1.0
+203:AOR:+(double,double):%(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:318:value + delta |==> value % delta
+204:AOR:+(double,double):*(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:318:value + delta |==> value * delta
+205:AOR:+(double,double):-(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:318:value + delta |==> value - delta
+206:AOR:+(double,double):/(double,double):org.jfree.data.Range@shiftWithNoZeroCrossing:318:value + delta |==> value / delta
+207:LVR:FALSE:TRUE:org.jfree.data.Range@equals:331:false |==> true
+208:STD:ASSIGN:<NO-OP>:org.jfree.data.Range@equals:333:(Range)obj |==> null
+209:ROR:==(double,double):<=(double,double):org.jfree.data.Range@equals:334:this.lower == range.lower |==> this.lower <= range.lower
+210:ROR:==(double,double):>=(double,double):org.jfree.data.Range@equals:334:this.lower == range.lower |==> this.lower >= range.lower
+211:ROR:==(double,double):FALSE(double,double):org.jfree.data.Range@equals:334:this.lower == range.lower |==> false
+212:LVR:FALSE:TRUE:org.jfree.data.Range@equals:335:false |==> true
+213:ROR:==(double,double):<=(double,double):org.jfree.data.Range@equals:337:this.upper == range.upper |==> this.upper <= range.upper
+214:ROR:==(double,double):>=(double,double):org.jfree.data.Range@equals:337:this.upper == range.upper |==> this.upper >= range.upper
+215:ROR:==(double,double):FALSE(double,double):org.jfree.data.Range@equals:337:this.upper == range.upper |==> false
+216:LVR:FALSE:TRUE:org.jfree.data.Range@equals:338:false |==> true
+217:LVR:TRUE:FALSE:org.jfree.data.Range@equals:340:true |==> false
+218:STD:ASSIGN:<NO-OP>:org.jfree.data.Range@hashCode:351:Double.doubleToLongBits(this.lower) |==> 0L
+219:LVR:POS:0:org.jfree.data.Range@hashCode:352:32 |==> 0
+220:LVR:POS:NEG:org.jfree.data.Range@hashCode:352:32 |==> -32
+221:SOR:>>>(long,int):<<(long,int):org.jfree.data.Range@hashCode:352:temp >>> 32 |==> temp << 32
+222:SOR:>>>(long,int):>>(long,int):org.jfree.data.Range@hashCode:352:temp >>> 32 |==> temp >> 32
+223:LOR:^(long,long):&(long,long):org.jfree.data.Range@hashCode:352:temp ^ (temp >>> 32) |==> temp & (temp >>> 32)
+224:LOR:^(long,long):|(long,long):org.jfree.data.Range@hashCode:352:temp ^ (temp >>> 32) |==> temp | (temp >>> 32)
+225:STD:<ASSIGN>:<NO-OP>:org.jfree.data.Range@hashCode:353:temp = Double.doubleToLongBits(this.upper) |==> <NO-OP>
+226:LVR:POS:0:org.jfree.data.Range@hashCode:354:29 |==> 0
+227:LVR:POS:NEG:org.jfree.data.Range@hashCode:354:29 |==> -29
+228:AOR:*(int,int):%(int,int):org.jfree.data.Range@hashCode:354:29 * result |==> 29 % result
+229:AOR:*(int,int):+(int,int):org.jfree.data.Range@hashCode:354:29 * result |==> 29 + result
+230:AOR:*(int,int):-(int,int):org.jfree.data.Range@hashCode:354:29 * result |==> 29 - result
+231:AOR:*(int,int):/(int,int):org.jfree.data.Range@hashCode:354:29 * result |==> 29 / result
+232:LVR:POS:0:org.jfree.data.Range@hashCode:354:32 |==> 0
+233:LVR:POS:NEG:org.jfree.data.Range@hashCode:354:32 |==> -32
+234:SOR:>>>(long,int):<<(long,int):org.jfree.data.Range@hashCode:354:temp >>> 32 |==> temp << 32
+235:SOR:>>>(long,int):>>(long,int):org.jfree.data.Range@hashCode:354:temp >>> 32 |==> temp >> 32
+236:LOR:^(long,long):&(long,long):org.jfree.data.Range@hashCode:354:temp ^ (temp >>> 32) |==> temp & (temp >>> 32)
+237:LOR:^(long,long):|(long,long):org.jfree.data.Range@hashCode:354:temp ^ (temp >>> 32) |==> temp | (temp >>> 32)
+238:AOR:+(int,int):%(int,int):org.jfree.data.Range@hashCode:354:29 * result + (int)(temp ^ (temp >>> 32)) |==> 29 * result % (int)(temp ^ (temp >>> 32))
+239:AOR:+(int,int):*(int,int):org.jfree.data.Range@hashCode:354:29 * result + (int)(temp ^ (temp >>> 32)) |==> 29 * result * (int)(temp ^ (temp >>> 32))
+240:AOR:+(int,int):-(int,int):org.jfree.data.Range@hashCode:354:29 * result + (int)(temp ^ (temp >>> 32)) |==> 29 * result - (int)(temp ^ (temp >>> 32))
+241:AOR:+(int,int):/(int,int):org.jfree.data.Range@hashCode:354:29 * result + (int)(temp ^ (temp >>> 32)) |==> 29 * result / (int)(temp ^ (temp >>> 32))
+242:STD:<ASSIGN>:<NO-OP>:org.jfree.data.Range@hashCode:354:result = 29 * result + (int)(temp ^ (temp >>> 32)) |==> <NO-OP>
+243:STD:CALL:<NO-OP>:org.jfree.data.Range@hashCode:355:result |==> 0
+244:LVR:<CLASS>:<NULL>:org.jfree.data.Range@toString:365:"Range[" |==> null
+245:LVR:<CLASS>:<NULL>:org.jfree.data.Range@toString:365:"," |==> null
+246:LVR:<CLASS>:<NULL>:org.jfree.data.Range@toString:365:"]" |==> null
+247:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObject:60:2677930479256885863L |==> 0L
+248:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObject@<init>:75:this.key = key |==> <NO-OP>
+249:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObject@<init>:76:this.object = object |==> <NO-OP>
+250:STD:CALL:<NO-OP>:org.jfree.data.KeyedObject@getKey:85:this.key |==> null
+251:STD:CALL:<NO-OP>:org.jfree.data.KeyedObject@getObject:94:this.object |==> null
+252:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObject@setObject:103:this.object = object |==> <NO-OP>
+253:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObject@clone:117:(KeyedObject)super.clone() |==> null
+254:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObject@clone:119:(PublicCloneable)this.object |==> null
+255:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObject@clone:120:clone.object = pc.clone() |==> <NO-OP>
+256:STD:CALL:<NO-OP>:org.jfree.data.KeyedObject@clone:122:clone |==> null
+257:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObject@equals:134:obj == this |==> false
+258:LVR:TRUE:FALSE:org.jfree.data.KeyedObject@equals:135:true |==> false
+259:LVR:FALSE:TRUE:org.jfree.data.KeyedObject@equals:139:false |==> true
+260:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObject@equals:141:(KeyedObject)obj |==> null
+261:COR:ObjectUtilities.equal(this.key, that.key):TRUE:org.jfree.data.KeyedObject@equals:142:ObjectUtilities.equal(this.key, that.key) |==> false
+262:COR:ObjectUtilities.equal(this.key, that.key):FALSE:org.jfree.data.KeyedObject@equals:142:ObjectUtilities.equal(this.key, that.key) |==> true
+263:LVR:FALSE:TRUE:org.jfree.data.KeyedObject@equals:143:false |==> true
+264:COR:ObjectUtilities.equal(this.object, that.object):TRUE:org.jfree.data.KeyedObject@equals:146:ObjectUtilities.equal(this.object, that.object) |==> false
+265:COR:ObjectUtilities.equal(this.object, that.object):FALSE:org.jfree.data.KeyedObject@equals:146:ObjectUtilities.equal(this.object, that.object) |==> true
+266:LVR:FALSE:TRUE:org.jfree.data.KeyedObject@equals:147:false |==> true
+267:LVR:TRUE:FALSE:org.jfree.data.KeyedObject@equals:150:true |==> false
+268:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects:59:1321582394193530984L |==> 0L
+269:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects@<init>:68:this.data = new java.util.ArrayList() |==> <NO-OP>
+270:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects@getItemCount:77:this.data.size() |==> 0
+271:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getObject:91:(KeyedObject)this.data.get(item) |==> null
+272:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@getObject:92:kobj != null |==> true
+273:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects@getObject:93:result = kobj.getObject() |==> <NO-OP>
+274:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects@getObject:95:result |==> null
+275:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getKey:111:(KeyedObject)this.data.get(index) |==> null
+276:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@getKey:112:item != null |==> true
+277:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects@getKey:113:result = item.getKey() |==> <NO-OP>
+278:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects@getKey:115:result |==> null
+279:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@getIndex:128:key == null |==> false
+280:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects@getIndex:129:"Null \'key\' argument." |==> null
+281:LVR:0:POS:org.jfree.data.KeyedObjects@getIndex:131:0 |==> 1
+282:LVR:0:NEG:org.jfree.data.KeyedObjects@getIndex:131:0 |==> -1
+283:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getIndex:132:this.data.iterator() |==> null
+284:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getIndex:134:(KeyedObject)iterator.next() |==> null
+285:COR:ko.getKey().equals(key):TRUE:org.jfree.data.KeyedObjects@getIndex:135:ko.getKey().equals(key) |==> false
+286:COR:ko.getKey().equals(key):FALSE:org.jfree.data.KeyedObjects@getIndex:135:ko.getKey().equals(key) |==> true
+287:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects@getIndex:136:i |==> 0
+288:STD:<INC/DEC>:<NO-OP>:org.jfree.data.KeyedObjects@getIndex:138:i++ |==> <NO-OP>
+289:LVR:NEG:0:org.jfree.data.KeyedObjects@getIndex:140:-1 |==> 0
+290:LVR:NEG:POS:org.jfree.data.KeyedObjects@getIndex:140:-1 |==> 1
+291:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getKeys:149:new java.util.ArrayList() |==> null
+292:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getKeys:150:this.data.iterator() |==> null
+293:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getKeys:152:(KeyedObject)iterator.next() |==> null
+294:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@getKeys:153:result.add(ko.getKey()) |==> <NO-OP>
+295:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects@getKeys:155:result |==> null
+296:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@getObject:169:getIndex(key) |==> 0
+297:LVR:0:POS:org.jfree.data.KeyedObjects@getObject:170:0 |==> 1
+298:LVR:0:NEG:org.jfree.data.KeyedObjects@getObject:170:0 |==> -1
+299:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects@getObject:170:index < 0 |==> index != 0
+300:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects@getObject:170:index < 0 |==> index <= 0
+301:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects@getObject:170:index < 0 |==> false
+302:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects@getObject:171:"The key (" |==> null
+303:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects@getObject:172:") is not recognised." |==> null
+304:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects@getObject:174:getObject(index) |==> null
+305:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@addObject:187:setObject(key, object) |==> <NO-OP>
+306:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@setObject:201:getIndex(key) |==> 0
+307:LVR:0:POS:org.jfree.data.KeyedObjects@setObject:202:0 |==> 1
+308:LVR:0:NEG:org.jfree.data.KeyedObjects@setObject:202:0 |==> -1
+309:ROR:>=(int,int):==(int,int):org.jfree.data.KeyedObjects@setObject:202:keyIndex >= 0 |==> keyIndex == 0
+310:ROR:>=(int,int):>(int,int):org.jfree.data.KeyedObjects@setObject:202:keyIndex >= 0 |==> keyIndex > 0
+311:ROR:>=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects@setObject:202:keyIndex >= 0 |==> true
+312:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@setObject:203:(KeyedObject)this.data.get(keyIndex) |==> null
+313:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@setObject:204:ko.setObject(object) |==> <NO-OP>
+314:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@setObject:207:new KeyedObject(key, object) |==> null
+315:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@setObject:208:this.data.add(ko) |==> <NO-OP>
+316:LVR:0:POS:org.jfree.data.KeyedObjects@insertValue:225:0 |==> 1
+317:LVR:0:NEG:org.jfree.data.KeyedObjects@insertValue:225:0 |==> -1
+318:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects@insertValue:225:position < 0 |==> position != 0
+319:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects@insertValue:225:position < 0 |==> position <= 0
+320:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects@insertValue:225:position < 0 |==> false
+321:ROR:>(int,int):!=(int,int):org.jfree.data.KeyedObjects@insertValue:225:position > this.data.size() |==> position != this.data.size()
+322:ROR:>(int,int):>=(int,int):org.jfree.data.KeyedObjects@insertValue:225:position > this.data.size() |==> position >= this.data.size()
+323:ROR:>(int,int):FALSE(int,int):org.jfree.data.KeyedObjects@insertValue:225:position > this.data.size() |==> false
+324:COR:||(boolean,boolean):!=(boolean,boolean):org.jfree.data.KeyedObjects@insertValue:225:position < 0 || position > this.data.size() |==> position < 0 != position > this.data.size()
+325:COR:||(boolean,boolean):LHS(boolean,boolean):org.jfree.data.KeyedObjects@insertValue:225:position < 0 || position > this.data.size() |==> position < 0
+326:COR:||(boolean,boolean):RHS(boolean,boolean):org.jfree.data.KeyedObjects@insertValue:225:position < 0 || position > this.data.size() |==> position > this.data.size()
+327:COR:||(boolean,boolean):TRUE(boolean,boolean):org.jfree.data.KeyedObjects@insertValue:225:position < 0 || position > this.data.size() |==> true
+328:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects@insertValue:226:"\'position\' out of bounds." |==> null
+329:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@insertValue:228:key == null |==> false
+330:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects@insertValue:229:"Null \'key\' argument." |==> null
+331:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@insertValue:231:getIndex(key) |==> 0
+332:LVR:0:POS:org.jfree.data.KeyedObjects@insertValue:232:0 |==> 1
+333:LVR:0:NEG:org.jfree.data.KeyedObjects@insertValue:232:0 |==> -1
+334:ROR:>=(int,int):==(int,int):org.jfree.data.KeyedObjects@insertValue:232:pos >= 0 |==> pos == 0
+335:ROR:>=(int,int):>(int,int):org.jfree.data.KeyedObjects@insertValue:232:pos >= 0 |==> pos > 0
+336:ROR:>=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects@insertValue:232:pos >= 0 |==> true
+337:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@insertValue:233:this.data.remove(pos) |==> <NO-OP>
+338:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@insertValue:235:new KeyedObject(key, value) |==> null
+339:ROR:<=(int,int):<(int,int):org.jfree.data.KeyedObjects@insertValue:236:position <= this.data.size() |==> position < this.data.size()
+340:ROR:<=(int,int):==(int,int):org.jfree.data.KeyedObjects@insertValue:236:position <= this.data.size() |==> position == this.data.size()
+341:ROR:<=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects@insertValue:236:position <= this.data.size() |==> true
+342:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@insertValue:237:this.data.add(position, item) |==> <NO-OP>
+343:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@insertValue:240:this.data.add(item) |==> <NO-OP>
+344:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@removeValue:252:this.data.remove(index) |==> <NO-OP>
+345:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@removeValue:266:getIndex(key) |==> 0
+346:LVR:0:POS:org.jfree.data.KeyedObjects@removeValue:267:0 |==> 1
+347:LVR:0:NEG:org.jfree.data.KeyedObjects@removeValue:267:0 |==> -1
+348:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects@removeValue:267:index < 0 |==> index != 0
+349:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects@removeValue:267:index < 0 |==> index <= 0
+350:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects@removeValue:267:index < 0 |==> false
+351:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects@removeValue:268:"The key (" |==> null
+352:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects@removeValue:269:") is not recognised." |==> null
+353:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@removeValue:271:removeValue(index) |==> <NO-OP>
+354:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@clear:280:this.data.clear() |==> <NO-OP>
+355:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@clone:293:(KeyedObjects)super.clone() |==> null
+356:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects@clone:294:clone.data = new java.util.ArrayList() |==> <NO-OP>
+357:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@clone:295:this.data.iterator() |==> null
+358:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@clone:297:(KeyedObject)iterator.next() |==> null
+359:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects@clone:298:clone.data.add(ko.clone()) |==> <NO-OP>
+360:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects@clone:300:clone |==> null
+361:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@equals:312:obj == this |==> false
+362:LVR:TRUE:FALSE:org.jfree.data.KeyedObjects@equals:313:true |==> false
+363:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects@equals:316:false |==> true
+364:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@equals:318:(KeyedObjects)obj |==> null
+365:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@equals:319:getItemCount() |==> 0
+366:ROR:!=(int,int):<(int,int):org.jfree.data.KeyedObjects@equals:320:count != that.getItemCount() |==> count < that.getItemCount()
+367:ROR:!=(int,int):>(int,int):org.jfree.data.KeyedObjects@equals:320:count != that.getItemCount() |==> count > that.getItemCount()
+368:ROR:!=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects@equals:320:count != that.getItemCount() |==> true
+369:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects@equals:321:false |==> true
+370:LVR:0:POS:org.jfree.data.KeyedObjects@equals:324:0 |==> 1
+371:LVR:0:NEG:org.jfree.data.KeyedObjects@equals:324:0 |==> -1
+372:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects@equals:324:i < count |==> i != count
+373:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects@equals:324:i < count |==> i <= count
+374:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects@equals:324:i < count |==> false
+375:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@equals:325:getKey(i) |==> null
+376:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@equals:326:that.getKey(i) |==> null
+377:COR:k1.equals(k2):TRUE:org.jfree.data.KeyedObjects@equals:327:k1.equals(k2) |==> false
+378:COR:k1.equals(k2):FALSE:org.jfree.data.KeyedObjects@equals:327:k1.equals(k2) |==> true
+379:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects@equals:328:false |==> true
+380:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@equals:330:getObject(i) |==> null
+381:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects@equals:331:that.getObject(i) |==> null
+382:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@equals:332:o1 == null |==> false
+383:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@equals:333:o2 != null |==> true
+384:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects@equals:334:false |==> true
+385:COR:o1.equals(o2):TRUE:org.jfree.data.KeyedObjects@equals:338:o1.equals(o2) |==> false
+386:COR:o1.equals(o2):FALSE:org.jfree.data.KeyedObjects@equals:338:o1.equals(o2) |==> true
+387:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects@equals:339:false |==> true
+388:LVR:TRUE:FALSE:org.jfree.data.KeyedObjects@equals:343:true |==> false
+389:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects@hashCode:353:this.data != null |==> true
+390:LVR:0:POS:org.jfree.data.KeyedObjects@hashCode:353:0 |==> 1
+391:LVR:0:NEG:org.jfree.data.KeyedObjects@hashCode:353:0 |==> -1
+392:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D:60:-1015873563138522374L |==> 0L
+393:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@<init>:75:this.rowKeys = new java.util.ArrayList() |==> <NO-OP>
+394:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@<init>:76:this.columnKeys = new java.util.ArrayList() |==> <NO-OP>
+395:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@<init>:77:this.rows = new java.util.ArrayList() |==> <NO-OP>
+396:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getRowCount:88:this.rowKeys.size() |==> 0
+397:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getColumnCount:99:this.columnKeys.size() |==> 0
+398:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:114:(KeyedObjects)this.rows.get(row) |==> null
+399:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@getObject:115:rowData != null |==> true
+400:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:116:(Comparable)this.columnKeys.get(column) |==> null
+401:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@getObject:117:columnKey != null |==> true
+402:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:118:rowData.getIndex(columnKey) |==> 0
+403:LVR:0:POS:org.jfree.data.KeyedObjects2D@getObject:119:0 |==> 1
+404:LVR:0:NEG:org.jfree.data.KeyedObjects2D@getObject:119:0 |==> -1
+405:ROR:>=(int,int):==(int,int):org.jfree.data.KeyedObjects2D@getObject:119:index >= 0 |==> index == 0
+406:ROR:>=(int,int):>(int,int):org.jfree.data.KeyedObjects2D@getObject:119:index >= 0 |==> index > 0
+407:ROR:>=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects2D@getObject:119:index >= 0 |==> true
+408:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:120:result = rowData.getObject(columnKey) |==> <NO-OP>
+409:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:124:result |==> null
+410:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getRowKey:137:(Comparable)this.rowKeys.get(row) |==> null
+411:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getRowIndex:150:this.rowKeys.indexOf(key) |==> 0
+412:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getRowKeys:161:Collections.unmodifiableList(this.rowKeys) |==> null
+413:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getColumnKey:174:(Comparable)this.columnKeys.get(column) |==> null
+414:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getColumnIndex:187:this.columnKeys.indexOf(key) |==> 0
+415:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getColumnKeys:198:Collections.unmodifiableList(this.columnKeys) |==> null
+416:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@getObject:215:rowKey == null |==> false
+417:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@getObject:216:"Null \'rowKey\' argument." |==> null
+418:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@getObject:218:columnKey == null |==> false
+419:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@getObject:219:"Null \'columnKey\' argument." |==> null
+420:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:221:this.rowKeys.indexOf(rowKey) |==> 0
+421:LVR:0:POS:org.jfree.data.KeyedObjects2D@getObject:222:0 |==> 1
+422:LVR:0:NEG:org.jfree.data.KeyedObjects2D@getObject:222:0 |==> -1
+423:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@getObject:222:row < 0 |==> row != 0
+424:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@getObject:222:row < 0 |==> row <= 0
+425:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@getObject:222:row < 0 |==> false
+426:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@getObject:223:"Row key (" |==> null
+427:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@getObject:224:") not recognised." |==> null
+428:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:226:this.columnKeys.indexOf(columnKey) |==> 0
+429:LVR:0:POS:org.jfree.data.KeyedObjects2D@getObject:227:0 |==> 1
+430:LVR:0:NEG:org.jfree.data.KeyedObjects2D@getObject:227:0 |==> -1
+431:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@getObject:227:column < 0 |==> column != 0
+432:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@getObject:227:column < 0 |==> column <= 0
+433:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@getObject:227:column < 0 |==> false
+434:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@getObject:228:"Column key (" |==> null
+435:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@getObject:229:") not recognised." |==> null
+436:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:231:(KeyedObjects)this.rows.get(row) |==> null
+437:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:232:rowData.getIndex(columnKey) |==> 0
+438:LVR:0:POS:org.jfree.data.KeyedObjects2D@getObject:233:0 |==> 1
+439:LVR:0:NEG:org.jfree.data.KeyedObjects2D@getObject:233:0 |==> -1
+440:ROR:>=(int,int):==(int,int):org.jfree.data.KeyedObjects2D@getObject:233:index >= 0 |==> index == 0
+441:ROR:>=(int,int):>(int,int):org.jfree.data.KeyedObjects2D@getObject:233:index >= 0 |==> index > 0
+442:ROR:>=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects2D@getObject:233:index >= 0 |==> true
+443:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@getObject:234:rowData.getObject(index) |==> null
+444:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@addObject:250:setObject(object, rowKey, columnKey) |==> <NO-OP>
+445:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@setObject:263:rowKey == null |==> false
+446:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@setObject:264:"Null \'rowKey\' argument." |==> null
+447:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@setObject:266:columnKey == null |==> false
+448:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@setObject:267:"Null \'columnKey\' argument." |==> null
+449:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:270:this.rowKeys.indexOf(rowKey) |==> 0
+450:LVR:0:POS:org.jfree.data.KeyedObjects2D@setObject:271:0 |==> 1
+451:LVR:0:NEG:org.jfree.data.KeyedObjects2D@setObject:271:0 |==> -1
+452:ROR:>=(int,int):==(int,int):org.jfree.data.KeyedObjects2D@setObject:271:rowIndex >= 0 |==> rowIndex == 0
+453:ROR:>=(int,int):>(int,int):org.jfree.data.KeyedObjects2D@setObject:271:rowIndex >= 0 |==> rowIndex > 0
+454:ROR:>=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects2D@setObject:271:rowIndex >= 0 |==> true
+455:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:272:(KeyedObjects)this.rows.get(rowIndex) |==> null
+456:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:275:this.rowKeys.add(rowKey) |==> <NO-OP>
+457:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:276:new KeyedObjects() |==> null
+458:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:277:this.rows.add(row) |==> <NO-OP>
+459:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:279:row.setObject(columnKey, object) |==> <NO-OP>
+460:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:280:this.columnKeys.indexOf(columnKey) |==> 0
+461:LVR:0:POS:org.jfree.data.KeyedObjects2D@setObject:281:0 |==> 1
+462:LVR:0:NEG:org.jfree.data.KeyedObjects2D@setObject:281:0 |==> -1
+463:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@setObject:281:columnIndex < 0 |==> columnIndex != 0
+464:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@setObject:281:columnIndex < 0 |==> columnIndex <= 0
+465:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@setObject:281:columnIndex < 0 |==> false
+466:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@setObject:282:this.columnKeys.add(columnKey) |==> <NO-OP>
+467:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:298:setObject(null, rowKey, columnKey) |==> <NO-OP>
+468:LVR:TRUE:FALSE:org.jfree.data.KeyedObjects2D@removeObject:301:true |==> false
+469:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:302:getRowIndex(rowKey) |==> 0
+470:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:303:(KeyedObjects)this.rows.get(rowIndex) |==> null
+471:LVR:0:POS:org.jfree.data.KeyedObjects2D@removeObject:305:0 |==> 1
+472:LVR:0:NEG:org.jfree.data.KeyedObjects2D@removeObject:305:0 |==> -1
+473:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:305:row.getItemCount() |==> 0
+474:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@removeObject:305:item < itemCount |==> item != itemCount
+475:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@removeObject:305:item < itemCount |==> item <= itemCount
+476:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@removeObject:305:item < itemCount |==> false
+477:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@removeObject:307:row.getObject(item) != null |==> true
+478:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@removeObject:308:false |==> true
+479:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:308:allNull = false |==> <NO-OP>
+480:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:309:break; |==> <NO-OP>
+481:COR:allNull:TRUE:org.jfree.data.KeyedObjects2D@removeObject:313:allNull |==> false
+482:COR:allNull:FALSE:org.jfree.data.KeyedObjects2D@removeObject:313:allNull |==> true
+483:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:314:this.rowKeys.remove(rowIndex) |==> <NO-OP>
+484:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:315:this.rows.remove(rowIndex) |==> <NO-OP>
+485:LVR:TRUE:FALSE:org.jfree.data.KeyedObjects2D@removeObject:319:true |==> false
+486:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:319:allNull = true |==> <NO-OP>
+487:LVR:0:POS:org.jfree.data.KeyedObjects2D@removeObject:321:0 |==> 1
+488:LVR:0:NEG:org.jfree.data.KeyedObjects2D@removeObject:321:0 |==> -1
+489:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:321:this.rows.size() |==> 0
+490:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@removeObject:321:item < itemCount |==> item != itemCount
+491:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@removeObject:321:item < itemCount |==> item <= itemCount
+492:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@removeObject:321:item < itemCount |==> false
+493:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:323:row = (KeyedObjects)this.rows.get(item) |==> <NO-OP>
+494:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:324:row.getIndex(columnKey) |==> 0
+495:LVR:0:POS:org.jfree.data.KeyedObjects2D@removeObject:325:0 |==> 1
+496:LVR:0:NEG:org.jfree.data.KeyedObjects2D@removeObject:325:0 |==> -1
+497:ROR:>=(int,int):==(int,int):org.jfree.data.KeyedObjects2D@removeObject:325:columnIndex >= 0 |==> columnIndex == 0
+498:ROR:>=(int,int):>(int,int):org.jfree.data.KeyedObjects2D@removeObject:325:columnIndex >= 0 |==> columnIndex > 0
+499:ROR:>=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects2D@removeObject:325:columnIndex >= 0 |==> true
+500:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@removeObject:325:row.getObject(columnIndex) != null |==> true
+501:COR:&&(boolean,boolean):==(boolean,boolean):org.jfree.data.KeyedObjects2D@removeObject:325:columnIndex >= 0 && row.getObject(columnIndex) != null |==> columnIndex >= 0 == (row.getObject(columnIndex) != null)
+502:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.jfree.data.KeyedObjects2D@removeObject:325:columnIndex >= 0 && row.getObject(columnIndex) != null |==> false
+503:COR:&&(boolean,boolean):LHS(boolean,boolean):org.jfree.data.KeyedObjects2D@removeObject:325:columnIndex >= 0 && row.getObject(columnIndex) != null |==> columnIndex >= 0
+504:COR:&&(boolean,boolean):RHS(boolean,boolean):org.jfree.data.KeyedObjects2D@removeObject:325:columnIndex >= 0 && row.getObject(columnIndex) != null |==> row.getObject(columnIndex) != null
+505:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@removeObject:326:false |==> true
+506:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:326:allNull = false |==> <NO-OP>
+507:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:327:break; |==> <NO-OP>
+508:COR:allNull:TRUE:org.jfree.data.KeyedObjects2D@removeObject:331:allNull |==> false
+509:COR:allNull:FALSE:org.jfree.data.KeyedObjects2D@removeObject:331:allNull |==> true
+510:LVR:0:POS:org.jfree.data.KeyedObjects2D@removeObject:332:0 |==> 1
+511:LVR:0:NEG:org.jfree.data.KeyedObjects2D@removeObject:332:0 |==> -1
+512:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:332:this.rows.size() |==> 0
+513:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@removeObject:332:item < itemCount |==> item != itemCount
+514:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@removeObject:332:item < itemCount |==> item <= itemCount
+515:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@removeObject:332:item < itemCount |==> false
+516:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:334:row = (KeyedObjects)this.rows.get(item) |==> <NO-OP>
+517:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:335:row.getIndex(columnKey) |==> 0
+518:LVR:0:POS:org.jfree.data.KeyedObjects2D@removeObject:336:0 |==> 1
+519:LVR:0:NEG:org.jfree.data.KeyedObjects2D@removeObject:336:0 |==> -1
+520:ROR:>=(int,int):==(int,int):org.jfree.data.KeyedObjects2D@removeObject:336:columnIndex >= 0 |==> columnIndex == 0
+521:ROR:>=(int,int):>(int,int):org.jfree.data.KeyedObjects2D@removeObject:336:columnIndex >= 0 |==> columnIndex > 0
+522:ROR:>=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects2D@removeObject:336:columnIndex >= 0 |==> true
+523:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:337:row.removeValue(columnIndex) |==> <NO-OP>
+524:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeObject:340:this.columnKeys.remove(columnKey) |==> <NO-OP>
+525:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeRow:352:this.rowKeys.remove(rowIndex) |==> <NO-OP>
+526:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeRow:353:this.rows.remove(rowIndex) |==> <NO-OP>
+527:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeRow:366:getRowIndex(rowKey) |==> 0
+528:LVR:0:POS:org.jfree.data.KeyedObjects2D@removeRow:367:0 |==> 1
+529:LVR:0:NEG:org.jfree.data.KeyedObjects2D@removeRow:367:0 |==> -1
+530:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@removeRow:367:index < 0 |==> index != 0
+531:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@removeRow:367:index < 0 |==> index <= 0
+532:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@removeRow:367:index < 0 |==> false
+533:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@removeRow:368:"Row key (" |==> null
+534:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@removeRow:369:") not recognised." |==> null
+535:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeRow:371:removeRow(index) |==> <NO-OP>
+536:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:382:getColumnKey(columnIndex) |==> null
+537:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:383:removeColumn(columnKey) |==> <NO-OP>
+538:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:396:getColumnIndex(columnKey) |==> 0
+539:LVR:0:POS:org.jfree.data.KeyedObjects2D@removeColumn:397:0 |==> 1
+540:LVR:0:NEG:org.jfree.data.KeyedObjects2D@removeColumn:397:0 |==> -1
+541:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@removeColumn:397:index < 0 |==> index != 0
+542:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@removeColumn:397:index < 0 |==> index <= 0
+543:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@removeColumn:397:index < 0 |==> false
+544:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@removeColumn:398:"Column key (" |==> null
+545:LVR:<CLASS>:<NULL>:org.jfree.data.KeyedObjects2D@removeColumn:399:") not recognised." |==> null
+546:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:401:this.rows.iterator() |==> null
+547:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:403:(KeyedObjects)iterator.next() |==> null
+548:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:404:rowData.getIndex(columnKey) |==> 0
+549:LVR:0:POS:org.jfree.data.KeyedObjects2D@removeColumn:405:0 |==> 1
+550:LVR:0:NEG:org.jfree.data.KeyedObjects2D@removeColumn:405:0 |==> -1
+551:ROR:>=(int,int):==(int,int):org.jfree.data.KeyedObjects2D@removeColumn:405:i >= 0 |==> i == 0
+552:ROR:>=(int,int):>(int,int):org.jfree.data.KeyedObjects2D@removeColumn:405:i >= 0 |==> i > 0
+553:ROR:>=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects2D@removeColumn:405:i >= 0 |==> true
+554:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:406:rowData.removeValue(i) |==> <NO-OP>
+555:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@removeColumn:409:this.columnKeys.remove(columnKey) |==> <NO-OP>
+556:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@equals:420:obj == this |==> false
+557:LVR:TRUE:FALSE:org.jfree.data.KeyedObjects2D@equals:421:true |==> false
+558:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@equals:424:false |==> true
+559:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@equals:427:(KeyedObjects2D)obj |==> null
+560:COR:getRowKeys().equals(that.getRowKeys()):TRUE:org.jfree.data.KeyedObjects2D@equals:428:getRowKeys().equals(that.getRowKeys()) |==> false
+561:COR:getRowKeys().equals(that.getRowKeys()):FALSE:org.jfree.data.KeyedObjects2D@equals:428:getRowKeys().equals(that.getRowKeys()) |==> true
+562:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@equals:429:false |==> true
+563:COR:getColumnKeys().equals(that.getColumnKeys()):TRUE:org.jfree.data.KeyedObjects2D@equals:431:getColumnKeys().equals(that.getColumnKeys()) |==> false
+564:COR:getColumnKeys().equals(that.getColumnKeys()):FALSE:org.jfree.data.KeyedObjects2D@equals:431:getColumnKeys().equals(that.getColumnKeys()) |==> true
+565:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@equals:432:false |==> true
+566:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@equals:434:getRowCount() |==> 0
+567:ROR:!=(int,int):<(int,int):org.jfree.data.KeyedObjects2D@equals:435:rowCount != that.getRowCount() |==> rowCount < that.getRowCount()
+568:ROR:!=(int,int):>(int,int):org.jfree.data.KeyedObjects2D@equals:435:rowCount != that.getRowCount() |==> rowCount > that.getRowCount()
+569:ROR:!=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects2D@equals:435:rowCount != that.getRowCount() |==> true
+570:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@equals:436:false |==> true
+571:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@equals:438:getColumnCount() |==> 0
+572:ROR:!=(int,int):<(int,int):org.jfree.data.KeyedObjects2D@equals:439:colCount != that.getColumnCount() |==> colCount < that.getColumnCount()
+573:ROR:!=(int,int):>(int,int):org.jfree.data.KeyedObjects2D@equals:439:colCount != that.getColumnCount() |==> colCount > that.getColumnCount()
+574:ROR:!=(int,int):TRUE(int,int):org.jfree.data.KeyedObjects2D@equals:439:colCount != that.getColumnCount() |==> true
+575:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@equals:440:false |==> true
+576:LVR:0:POS:org.jfree.data.KeyedObjects2D@equals:442:0 |==> 1
+577:LVR:0:NEG:org.jfree.data.KeyedObjects2D@equals:442:0 |==> -1
+578:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@equals:442:r < rowCount |==> r != rowCount
+579:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@equals:442:r < rowCount |==> r <= rowCount
+580:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@equals:442:r < rowCount |==> false
+581:LVR:0:POS:org.jfree.data.KeyedObjects2D@equals:443:0 |==> 1
+582:LVR:0:NEG:org.jfree.data.KeyedObjects2D@equals:443:0 |==> -1
+583:ROR:<(int,int):!=(int,int):org.jfree.data.KeyedObjects2D@equals:443:c < colCount |==> c != colCount
+584:ROR:<(int,int):<=(int,int):org.jfree.data.KeyedObjects2D@equals:443:c < colCount |==> c <= colCount
+585:ROR:<(int,int):FALSE(int,int):org.jfree.data.KeyedObjects2D@equals:443:c < colCount |==> false
+586:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@equals:444:getObject(r, c) |==> null
+587:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@equals:445:that.getObject(r, c) |==> null
+588:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@equals:446:v1 == null |==> false
+589:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.KeyedObjects2D@equals:447:v2 != null |==> true
+590:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@equals:448:false |==> true
+591:COR:v1.equals(v2):TRUE:org.jfree.data.KeyedObjects2D@equals:452:v1.equals(v2) |==> false
+592:COR:v1.equals(v2):FALSE:org.jfree.data.KeyedObjects2D@equals:452:v1.equals(v2) |==> true
+593:LVR:FALSE:TRUE:org.jfree.data.KeyedObjects2D@equals:453:false |==> true
+594:LVR:TRUE:FALSE:org.jfree.data.KeyedObjects2D@equals:458:true |==> false
+595:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@hashCode:468:this.rowKeys.hashCode() |==> 0
+596:LVR:POS:0:org.jfree.data.KeyedObjects2D@hashCode:469:29 |==> 0
+597:LVR:POS:NEG:org.jfree.data.KeyedObjects2D@hashCode:469:29 |==> -29
+598:AOR:*(int,int):%(int,int):org.jfree.data.KeyedObjects2D@hashCode:469:29 * result |==> 29 % result
+599:AOR:*(int,int):+(int,int):org.jfree.data.KeyedObjects2D@hashCode:469:29 * result |==> 29 + result
+600:AOR:*(int,int):-(int,int):org.jfree.data.KeyedObjects2D@hashCode:469:29 * result |==> 29 - result
+601:AOR:*(int,int):/(int,int):org.jfree.data.KeyedObjects2D@hashCode:469:29 * result |==> 29 / result
+602:AOR:+(int,int):%(int,int):org.jfree.data.KeyedObjects2D@hashCode:469:29 * result + this.columnKeys.hashCode() |==> 29 * result % this.columnKeys.hashCode()
+603:AOR:+(int,int):*(int,int):org.jfree.data.KeyedObjects2D@hashCode:469:29 * result + this.columnKeys.hashCode() |==> 29 * result * this.columnKeys.hashCode()
+604:AOR:+(int,int):-(int,int):org.jfree.data.KeyedObjects2D@hashCode:469:29 * result + this.columnKeys.hashCode() |==> 29 * result - this.columnKeys.hashCode()
+605:AOR:+(int,int):/(int,int):org.jfree.data.KeyedObjects2D@hashCode:469:29 * result + this.columnKeys.hashCode() |==> 29 * result / this.columnKeys.hashCode()
+606:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@hashCode:469:result = 29 * result + this.columnKeys.hashCode() |==> <NO-OP>
+607:LVR:POS:0:org.jfree.data.KeyedObjects2D@hashCode:470:29 |==> 0
+608:LVR:POS:NEG:org.jfree.data.KeyedObjects2D@hashCode:470:29 |==> -29
+609:AOR:*(int,int):%(int,int):org.jfree.data.KeyedObjects2D@hashCode:470:29 * result |==> 29 % result
+610:AOR:*(int,int):+(int,int):org.jfree.data.KeyedObjects2D@hashCode:470:29 * result |==> 29 + result
+611:AOR:*(int,int):-(int,int):org.jfree.data.KeyedObjects2D@hashCode:470:29 * result |==> 29 - result
+612:AOR:*(int,int):/(int,int):org.jfree.data.KeyedObjects2D@hashCode:470:29 * result |==> 29 / result
+613:AOR:+(int,int):%(int,int):org.jfree.data.KeyedObjects2D@hashCode:470:29 * result + this.rows.hashCode() |==> 29 * result % this.rows.hashCode()
+614:AOR:+(int,int):*(int,int):org.jfree.data.KeyedObjects2D@hashCode:470:29 * result + this.rows.hashCode() |==> 29 * result * this.rows.hashCode()
+615:AOR:+(int,int):-(int,int):org.jfree.data.KeyedObjects2D@hashCode:470:29 * result + this.rows.hashCode() |==> 29 * result - this.rows.hashCode()
+616:AOR:+(int,int):/(int,int):org.jfree.data.KeyedObjects2D@hashCode:470:29 * result + this.rows.hashCode() |==> 29 * result / this.rows.hashCode()
+617:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@hashCode:470:result = 29 * result + this.rows.hashCode() |==> <NO-OP>
+618:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@hashCode:471:result |==> 0
+619:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:483:(KeyedObjects2D)super.clone() |==> null
+620:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:484:clone.columnKeys = new java.util.ArrayList(this.columnKeys) |==> <NO-OP>
+621:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:485:clone.rowKeys = new java.util.ArrayList(this.rowKeys) |==> <NO-OP>
+622:STD:<ASSIGN>:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:486:clone.rows = new java.util.ArrayList(this.rows.size()) |==> <NO-OP>
+623:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:487:this.rows.iterator() |==> null
+624:STD:ASSIGN:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:489:(KeyedObjects)iterator.next() |==> null
+625:STD:<CALL>:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:490:clone.rows.add(row.clone()) |==> <NO-OP>
+626:STD:CALL:<NO-OP>:org.jfree.data.KeyedObjects2D@clone:492:clone |==> null
+627:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem:61:7329649623148167423L |==> 0L
+628:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@<init>:115:this.mean = mean |==> <NO-OP>
+629:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@<init>:116:this.median = median |==> <NO-OP>
+630:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@<init>:117:this.q1 = q1 |==> <NO-OP>
+631:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@<init>:118:this.q3 = q3 |==> <NO-OP>
+632:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@<init>:119:this.minRegularValue = minRegularValue |==> <NO-OP>
+633:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@<init>:120:this.maxRegularValue = maxRegularValue |==> <NO-OP>
+634:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@<init>:121:this.minOutlier = minOutlier |==> <NO-OP>
+635:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@<init>:122:this.maxOutlier = maxOutlier |==> <NO-OP>
+636:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@<init>:123:this.outliers = outliers |==> <NO-OP>
+637:STD:CALL:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@getMean:160:this.mean |==> null
+638:STD:CALL:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@getMedian:169:this.median |==> null
+639:STD:CALL:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@getQ1:178:this.q1 |==> null
+640:STD:CALL:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@getQ3:187:this.q3 |==> null
+641:STD:CALL:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@getMinRegularValue:196:this.minRegularValue |==> null
+642:STD:CALL:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@getMaxRegularValue:205:this.maxRegularValue |==> null
+643:STD:CALL:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@getMinOutlier:214:this.minOutlier |==> null
+644:STD:CALL:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@getMaxOutlier:223:this.maxOutlier |==> null
+645:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.BoxAndWhiskerItem@getOutliers:232:this.outliers == null |==> false
+646:STD:CALL:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@getOutliers:235:Collections.unmodifiableList(this.outliers) |==> null
+647:LVR:<CLASS>:<NULL>:org.jfree.data.statistics.BoxAndWhiskerItem@toString:245:"[mean=" |==> null
+648:LVR:<CLASS>:<NULL>:org.jfree.data.statistics.BoxAndWhiskerItem@toString:245:",median=" |==> null
+649:LVR:<CLASS>:<NULL>:org.jfree.data.statistics.BoxAndWhiskerItem@toString:246:",q1=" |==> null
+650:LVR:<CLASS>:<NULL>:org.jfree.data.statistics.BoxAndWhiskerItem@toString:246:",q3=" |==> null
+651:LVR:<CLASS>:<NULL>:org.jfree.data.statistics.BoxAndWhiskerItem@toString:246:"]" |==> null
+652:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.BoxAndWhiskerItem@equals:258:obj == this |==> false
+653:LVR:TRUE:FALSE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:259:true |==> false
+654:LVR:FALSE:TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:262:false |==> true
+655:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.BoxAndWhiskerItem@equals:264:(BoxAndWhiskerItem)obj |==> null
+656:COR:ObjectUtilities.equal(this.mean, that.mean):TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:265:ObjectUtilities.equal(this.mean, that.mean) |==> false
+657:COR:ObjectUtilities.equal(this.mean, that.mean):FALSE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:265:ObjectUtilities.equal(this.mean, that.mean) |==> true
+658:LVR:FALSE:TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:266:false |==> true
+659:COR:ObjectUtilities.equal(this.median, that.median):TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:268:ObjectUtilities.equal(this.median, that.median) |==> false
+660:COR:ObjectUtilities.equal(this.median, that.median):FALSE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:268:ObjectUtilities.equal(this.median, that.median) |==> true
+661:LVR:FALSE:TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:269:false |==> true
+662:COR:ObjectUtilities.equal(this.q1, that.q1):TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:271:ObjectUtilities.equal(this.q1, that.q1) |==> false
+663:COR:ObjectUtilities.equal(this.q1, that.q1):FALSE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:271:ObjectUtilities.equal(this.q1, that.q1) |==> true
+664:LVR:FALSE:TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:272:false |==> true
+665:COR:ObjectUtilities.equal(this.q3, that.q3):TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:274:ObjectUtilities.equal(this.q3, that.q3) |==> false
+666:COR:ObjectUtilities.equal(this.q3, that.q3):FALSE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:274:ObjectUtilities.equal(this.q3, that.q3) |==> true
+667:LVR:FALSE:TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:275:false |==> true
+668:COR:ObjectUtilities.equal(this.minRegularValue, that.minRegularValue):TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:277:ObjectUtilities.equal(this.minRegularValue, that.minRegularValue) |==> false
+669:COR:ObjectUtilities.equal(this.minRegularValue, that.minRegularValue):FALSE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:277:ObjectUtilities.equal(this.minRegularValue, that.minRegularValue) |==> true
+670:LVR:FALSE:TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:279:false |==> true
+671:COR:ObjectUtilities.equal(this.maxRegularValue, that.maxRegularValue):TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:281:ObjectUtilities.equal(this.maxRegularValue, that.maxRegularValue) |==> false
+672:COR:ObjectUtilities.equal(this.maxRegularValue, that.maxRegularValue):FALSE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:281:ObjectUtilities.equal(this.maxRegularValue, that.maxRegularValue) |==> true
+673:LVR:FALSE:TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:283:false |==> true
+674:COR:ObjectUtilities.equal(this.minOutlier, that.minOutlier):TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:285:ObjectUtilities.equal(this.minOutlier, that.minOutlier) |==> false
+675:COR:ObjectUtilities.equal(this.minOutlier, that.minOutlier):FALSE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:285:ObjectUtilities.equal(this.minOutlier, that.minOutlier) |==> true
+676:LVR:FALSE:TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:286:false |==> true
+677:COR:ObjectUtilities.equal(this.maxOutlier, that.maxOutlier):TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:288:ObjectUtilities.equal(this.maxOutlier, that.maxOutlier) |==> false
+678:COR:ObjectUtilities.equal(this.maxOutlier, that.maxOutlier):FALSE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:288:ObjectUtilities.equal(this.maxOutlier, that.maxOutlier) |==> true
+679:LVR:FALSE:TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:289:false |==> true
+680:COR:ObjectUtilities.equal(this.outliers, that.outliers):TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:291:ObjectUtilities.equal(this.outliers, that.outliers) |==> false
+681:COR:ObjectUtilities.equal(this.outliers, that.outliers):FALSE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:291:ObjectUtilities.equal(this.outliers, that.outliers) |==> true
+682:LVR:FALSE:TRUE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:292:false |==> true
+683:LVR:TRUE:FALSE:org.jfree.data.statistics.BoxAndWhiskerItem@equals:294:true |==> false
+684:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:107:this.data = new KeyedObjects2D() |==> <NO-OP>
+685:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:108:this.minimumRangeValue = Double.NaN |==> <NO-OP>
+686:LVR:NEG:0:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:109:-1 |==> 0
+687:LVR:NEG:POS:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:109:-1 |==> 1
+688:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:109:this.minimumRangeValueRow = -1 |==> <NO-OP>
+689:LVR:NEG:0:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:110:-1 |==> 0
+690:LVR:NEG:POS:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:110:-1 |==> 1
+691:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:110:this.minimumRangeValueColumn = -1 |==> <NO-OP>
+692:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:111:this.maximumRangeValue = Double.NaN |==> <NO-OP>
+693:LVR:NEG:0:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:112:-1 |==> 0
+694:LVR:NEG:POS:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:112:-1 |==> 1
+695:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:112:this.maximumRangeValueRow = -1 |==> <NO-OP>
+696:LVR:NEG:0:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:113:-1 |==> 0
+697:LVR:NEG:POS:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:113:-1 |==> 1
+698:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:113:this.maximumRangeValueColumn = -1 |==> <NO-OP>
+699:LVR:0:POS:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:114:0.0 |==> 1.0
+700:LVR:0:NEG:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:114:0.0 |==> -1.0
+701:LVR:0:POS:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:114:0.0 |==> 1.0
+702:LVR:0:NEG:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:114:0.0 |==> -1.0
+703:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@<init>:114:this.rangeBounds = new Range(0.0, 0.0) |==> <NO-OP>
+704:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:130:BoxAndWhiskerCalculator.calculateBoxAndWhiskerStatistics(list) |==> null
+705:STD:<CALL>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:131:add(item, rowKey, columnKey) |==> <NO-OP>
+706:STD:<CALL>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:147:this.data.addObject(item, rowKey, columnKey) |==> <NO-OP>
+707:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:150:this.data.getRowIndex(rowKey) |==> 0
+708:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:151:this.data.getColumnIndex(columnKey) |==> 0
+709:ROR:==(int,int):<=(int,int):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:152:this.maximumRangeValueRow == r |==> this.maximumRangeValueRow <= r
+710:ROR:==(int,int):>=(int,int):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:152:this.maximumRangeValueRow == r |==> this.maximumRangeValueRow >= r
+711:ROR:==(int,int):FALSE(int,int):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:152:this.maximumRangeValueRow == r |==> false
+712:ROR:==(int,int):<=(int,int):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:152:this.maximumRangeValueColumn == c |==> this.maximumRangeValueColumn <= c
+713:ROR:==(int,int):>=(int,int):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:152:this.maximumRangeValueColumn == c |==> this.maximumRangeValueColumn >= c
+714:ROR:==(int,int):FALSE(int,int):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:153:this.maximumRangeValueColumn == c |==> false
+715:COR:&&(boolean,boolean):==(boolean,boolean):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:152:this.maximumRangeValueRow == r && this.maximumRangeValueColumn == c |==> this.maximumRangeValueRow == r == (this.maximumRangeValueColumn == c)
+716:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:152:this.maximumRangeValueRow == r && this.maximumRangeValueColumn == c |==> false
+717:COR:&&(boolean,boolean):LHS(boolean,boolean):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:152:this.maximumRangeValueRow == r && this.maximumRangeValueColumn == c |==> this.maximumRangeValueRow == r
+718:COR:&&(boolean,boolean):RHS(boolean,boolean):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:152:this.maximumRangeValueRow == r && this.maximumRangeValueColumn == c |==> this.maximumRangeValueColumn == c
+719:ROR:==(int,int):<=(int,int):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:153:this.minimumRangeValueRow == r |==> this.minimumRangeValueRow <= r
+720:ROR:==(int,int):>=(int,int):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:153:this.minimumRangeValueRow == r |==> this.minimumRangeValueRow >= r
+721:ROR:==(int,int):FALSE(int,int):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:153:this.minimumRangeValueRow == r |==> false
+722:ROR:==(int,int):<=(int,int):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:154:this.minimumRangeValueColumn == c |==> this.minimumRangeValueColumn <= c
+723:ROR:==(int,int):>=(int,int):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:154:this.minimumRangeValueColumn == c |==> this.minimumRangeValueColumn >= c
+724:ROR:==(int,int):FALSE(int,int):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:154:this.minimumRangeValueColumn == c |==> false
+725:COR:&&(boolean,boolean):==(boolean,boolean):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:153:this.minimumRangeValueRow == r && this.minimumRangeValueColumn == c |==> this.minimumRangeValueRow == r == (this.minimumRangeValueColumn == c)
+726:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:154:this.minimumRangeValueRow == r && this.minimumRangeValueColumn == c |==> false
+727:COR:&&(boolean,boolean):LHS(boolean,boolean):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:153:this.minimumRangeValueRow == r && this.minimumRangeValueColumn == c |==> this.minimumRangeValueRow == r
+728:COR:&&(boolean,boolean):RHS(boolean,boolean):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:154:this.minimumRangeValueRow == r && this.minimumRangeValueColumn == c |==> this.minimumRangeValueColumn == c
+729:COR:||(boolean,boolean):!=(boolean,boolean):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:152:(this.maximumRangeValueRow == r && this.maximumRangeValueColumn == c) || (this.minimumRangeValueRow == r && this.minimumRangeValueColumn == c) |==> (this.maximumRangeValueRow == r && this.maximumRangeValueColumn == c) != (this.minimumRangeValueRow == r && this.minimumRangeValueColumn == c)
+730:COR:||(boolean,boolean):LHS(boolean,boolean):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:152:(this.maximumRangeValueRow == r && this.maximumRangeValueColumn == c) || (this.minimumRangeValueRow == r && this.minimumRangeValueColumn == c) |==> (this.maximumRangeValueRow == r && this.maximumRangeValueColumn == c)
+731:COR:||(boolean,boolean):RHS(boolean,boolean):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:153:(this.maximumRangeValueRow == r && this.maximumRangeValueColumn == c) || (this.minimumRangeValueRow == r && this.minimumRangeValueColumn == c) |==> (this.minimumRangeValueRow == r && this.minimumRangeValueColumn == c)
+732:COR:||(boolean,boolean):TRUE(boolean,boolean):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:153:(this.maximumRangeValueRow == r && this.maximumRangeValueColumn == c) || (this.minimumRangeValueRow == r && this.minimumRangeValueColumn == c) |==> true
+733:STD:<CALL>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:155:updateBounds() |==> <NO-OP>
+734:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:158:Double.NaN |==> 0.0
+735:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:159:item.getMinOutlier() != null |==> true
+736:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:160:minval = item.getMinOutlier().doubleValue() |==> <NO-OP>
+737:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:162:Double.NaN |==> 0.0
+738:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:163:item.getMaxOutlier() != null |==> true
+739:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:164:maxval = item.getMaxOutlier().doubleValue() |==> <NO-OP>
+740:COR:Double.isNaN(this.maximumRangeValue):TRUE:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:167:Double.isNaN(this.maximumRangeValue) |==> false
+741:COR:Double.isNaN(this.maximumRangeValue):FALSE:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:167:Double.isNaN(this.maximumRangeValue) |==> true
+742:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:168:this.maximumRangeValue = maxval |==> <NO-OP>
+743:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:169:this.maximumRangeValueRow = r |==> <NO-OP>
+744:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:170:this.maximumRangeValueColumn = c |==> <NO-OP>
+745:ROR:>(double,double):!=(double,double):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:172:maxval > this.maximumRangeValue |==> maxval != this.maximumRangeValue
+746:ROR:>(double,double):>=(double,double):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:172:maxval > this.maximumRangeValue |==> maxval >= this.maximumRangeValue
+747:ROR:>(double,double):FALSE(double,double):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:172:maxval > this.maximumRangeValue |==> false
+748:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:173:this.maximumRangeValue = maxval |==> <NO-OP>
+749:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:174:this.maximumRangeValueRow = r |==> <NO-OP>
+750:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:175:this.maximumRangeValueColumn = c |==> <NO-OP>
+751:COR:Double.isNaN(this.minimumRangeValue):TRUE:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:178:Double.isNaN(this.minimumRangeValue) |==> false
+752:COR:Double.isNaN(this.minimumRangeValue):FALSE:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:178:Double.isNaN(this.minimumRangeValue) |==> true
+753:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:179:this.minimumRangeValue = minval |==> <NO-OP>
+754:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:180:this.minimumRangeValueRow = r |==> <NO-OP>
+755:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:181:this.minimumRangeValueColumn = c |==> <NO-OP>
+756:ROR:<(double,double):!=(double,double):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:183:minval < this.minimumRangeValue |==> minval != this.minimumRangeValue
+757:ROR:<(double,double):<=(double,double):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:183:minval < this.minimumRangeValue |==> minval <= this.minimumRangeValue
+758:ROR:<(double,double):FALSE(double,double):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:183:minval < this.minimumRangeValue |==> false
+759:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:184:this.minimumRangeValue = minval |==> <NO-OP>
+760:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:185:this.minimumRangeValueRow = r |==> <NO-OP>
+761:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:186:this.minimumRangeValueColumn = c |==> <NO-OP>
+762:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:189:this.rangeBounds = new Range(this.minimumRangeValue, this.maximumRangeValue) |==> <NO-OP>
+763:STD:<CALL>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@add:191:fireDatasetChanged() |==> <NO-OP>
+764:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getItem:204:(BoxAndWhiskerItem)this.data.getObject(row, column) |==> null
+765:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getValue:219:getMedianValue(row, column) |==> null
+766:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getValue:234:getMedianValue(rowKey, columnKey) |==> null
+767:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMeanValue:250:(BoxAndWhiskerItem)this.data.getObject(row, column) |==> null
+768:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMeanValue:252:item != null |==> true
+769:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMeanValue:253:result = item.getMean() |==> <NO-OP>
+770:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMeanValue:255:result |==> null
+771:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMeanValue:271:(BoxAndWhiskerItem)this.data.getObject(rowKey, columnKey) |==> null
+772:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMeanValue:273:item != null |==> true
+773:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMeanValue:274:result = item.getMean() |==> <NO-OP>
+774:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMeanValue:276:result |==> null
+775:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMedianValue:291:(BoxAndWhiskerItem)this.data.getObject(row, column) |==> null
+776:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMedianValue:293:item != null |==> true
+777:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMedianValue:294:result = item.getMedian() |==> <NO-OP>
+778:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMedianValue:296:result |==> null
+779:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMedianValue:311:(BoxAndWhiskerItem)this.data.getObject(rowKey, columnKey) |==> null
+780:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMedianValue:313:item != null |==> true
+781:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMedianValue:314:result = item.getMedian() |==> <NO-OP>
+782:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMedianValue:316:result |==> null
+783:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ1Value:331:(BoxAndWhiskerItem)this.data.getObject(row, column) |==> null
+784:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ1Value:333:item != null |==> true
+785:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ1Value:334:result = item.getQ1() |==> <NO-OP>
+786:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ1Value:336:result |==> null
+787:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ1Value:351:(BoxAndWhiskerItem)this.data.getObject(rowKey, columnKey) |==> null
+788:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ1Value:353:item != null |==> true
+789:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ1Value:354:result = item.getQ1() |==> <NO-OP>
+790:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ1Value:356:result |==> null
+791:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ3Value:371:(BoxAndWhiskerItem)this.data.getObject(row, column) |==> null
+792:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ3Value:373:item != null |==> true
+793:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ3Value:374:result = item.getQ3() |==> <NO-OP>
+794:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ3Value:376:result |==> null
+795:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ3Value:391:(BoxAndWhiskerItem)this.data.getObject(rowKey, columnKey) |==> null
+796:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ3Value:393:item != null |==> true
+797:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ3Value:394:result = item.getQ3() |==> <NO-OP>
+798:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getQ3Value:396:result |==> null
+799:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getColumnIndex:409:this.data.getColumnIndex(key) |==> 0
+800:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getColumnKey:422:this.data.getColumnKey(column) |==> null
+801:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getColumnKeys:433:this.data.getColumnKeys() |==> null
+802:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getRowIndex:446:this.data.getRowIndex(key) |==> 0
+803:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getRowKey:459:this.data.getRowKey(row) |==> null
+804:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getRowKeys:470:this.data.getRowKeys() |==> null
+805:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getRowCount:481:this.data.getRowCount() |==> 0
+806:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getColumnCount:492:this.data.getColumnCount() |==> 0
+807:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getRangeLowerBound:506:this.minimumRangeValue |==> 0.0
+808:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getRangeUpperBound:520:this.maximumRangeValue |==> 0.0
+809:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getRangeBounds:532:this.rangeBounds |==> null
+810:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinRegularValue:547:(BoxAndWhiskerItem)this.data.getObject(row, column) |==> null
+811:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinRegularValue:549:item != null |==> true
+812:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinRegularValue:550:result = item.getMinRegularValue() |==> <NO-OP>
+813:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinRegularValue:552:result |==> null
+814:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinRegularValue:567:(BoxAndWhiskerItem)this.data.getObject(rowKey, columnKey) |==> null
+815:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinRegularValue:569:item != null |==> true
+816:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinRegularValue:570:result = item.getMinRegularValue() |==> <NO-OP>
+817:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinRegularValue:572:result |==> null
+818:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxRegularValue:587:(BoxAndWhiskerItem)this.data.getObject(row, column) |==> null
+819:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxRegularValue:589:item != null |==> true
+820:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxRegularValue:590:result = item.getMaxRegularValue() |==> <NO-OP>
+821:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxRegularValue:592:result |==> null
+822:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxRegularValue:607:(BoxAndWhiskerItem)this.data.getObject(rowKey, columnKey) |==> null
+823:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxRegularValue:609:item != null |==> true
+824:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxRegularValue:610:result = item.getMaxRegularValue() |==> <NO-OP>
+825:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxRegularValue:612:result |==> null
+826:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinOutlier:627:(BoxAndWhiskerItem)this.data.getObject(row, column) |==> null
+827:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinOutlier:629:item != null |==> true
+828:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinOutlier:630:result = item.getMinOutlier() |==> <NO-OP>
+829:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinOutlier:632:result |==> null
+830:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinOutlier:647:(BoxAndWhiskerItem)this.data.getObject(rowKey, columnKey) |==> null
+831:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinOutlier:649:item != null |==> true
+832:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinOutlier:650:result = item.getMinOutlier() |==> <NO-OP>
+833:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMinOutlier:652:result |==> null
+834:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxOutlier:667:(BoxAndWhiskerItem)this.data.getObject(row, column) |==> null
+835:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxOutlier:669:item != null |==> true
+836:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxOutlier:670:result = item.getMaxOutlier() |==> <NO-OP>
+837:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxOutlier:672:result |==> null
+838:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxOutlier:687:(BoxAndWhiskerItem)this.data.getObject(rowKey, columnKey) |==> null
+839:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxOutlier:689:item != null |==> true
+840:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxOutlier:690:result = item.getMaxOutlier() |==> <NO-OP>
+841:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getMaxOutlier:692:result |==> null
+842:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getOutliers:707:(BoxAndWhiskerItem)this.data.getObject(row, column) |==> null
+843:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getOutliers:709:item != null |==> true
+844:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getOutliers:710:result = item.getOutliers() |==> <NO-OP>
+845:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getOutliers:712:result |==> null
+846:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getOutliers:727:(BoxAndWhiskerItem)this.data.getObject(rowKey, columnKey) |==> null
+847:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getOutliers:729:item != null |==> true
+848:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getOutliers:730:result = item.getOutliers() |==> <NO-OP>
+849:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@getOutliers:732:result |==> null
+850:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@updateBounds:740:this.minimumRangeValue = Double.NaN |==> <NO-OP>
+851:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@updateBounds:741:this.maximumRangeValue = Double.NaN |==> <NO-OP>
+852:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@equals:752:obj == this |==> false
+853:LVR:TRUE:FALSE:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@equals:753:true |==> false
+854:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@equals:757:(DefaultBoxAndWhiskerCategoryDataset)obj |==> null
+855:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@equals:758:ObjectUtilities.equal(this.data, dataset.data) |==> false
+856:LVR:FALSE:TRUE:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@equals:760:false |==> true
+857:STD:ASSIGN:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@clone:772:(DefaultBoxAndWhiskerCategoryDataset)super.clone() |==> null
+858:STD:<ASSIGN>:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@clone:773:clone.data = (KeyedObjects2D)this.data.clone() |==> <NO-OP>
+859:STD:CALL:<NO-OP>:org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@clone:774:clone |==> null

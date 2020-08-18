@@ -1,0 +1,47 @@
+1:LVR:0:POS:org.jfree.chart.renderer.GrayPaintScale@<init>:72:0.0 |==> 1.0
+2:LVR:0:NEG:org.jfree.chart.renderer.GrayPaintScale@<init>:72:0.0 |==> -1.0
+3:LVR:POS:0:org.jfree.chart.renderer.GrayPaintScale@<init>:72:1.0 |==> 0.0
+4:LVR:POS:NEG:org.jfree.chart.renderer.GrayPaintScale@<init>:72:1.0 |==> -1.0
+5:ROR:>=(double,double):==(double,double):org.jfree.chart.renderer.GrayPaintScale@<init>:85:lowerBound >= upperBound |==> lowerBound == upperBound
+6:ROR:>=(double,double):>(double,double):org.jfree.chart.renderer.GrayPaintScale@<init>:85:lowerBound >= upperBound |==> lowerBound > upperBound
+7:ROR:>=(double,double):TRUE(double,double):org.jfree.chart.renderer.GrayPaintScale@<init>:85:lowerBound >= upperBound |==> true
+8:LVR:<CLASS>:<NULL>:org.jfree.chart.renderer.GrayPaintScale@<init>:87:"Requires lowerBound < upperBound." |==> null
+9:STD:<ASSIGN>:<NO-OP>:org.jfree.chart.renderer.GrayPaintScale@<init>:89:this.lowerBound = lowerBound |==> <NO-OP>
+10:STD:<ASSIGN>:<NO-OP>:org.jfree.chart.renderer.GrayPaintScale@<init>:90:this.upperBound = upperBound |==> <NO-OP>
+11:STD:CALL:<NO-OP>:org.jfree.chart.renderer.GrayPaintScale@getLowerBound:101:this.lowerBound |==> 0.0
+12:STD:CALL:<NO-OP>:org.jfree.chart.renderer.GrayPaintScale@getUpperBound:112:this.upperBound |==> 0.0
+13:STD:ASSIGN:<NO-OP>:org.jfree.chart.renderer.GrayPaintScale@getPaint:124:Math.max(value, this.lowerBound) |==> 0.0
+14:STD:<ASSIGN>:<NO-OP>:org.jfree.chart.renderer.GrayPaintScale@getPaint:125:v = Math.min(v, this.upperBound) |==> <NO-OP>
+15:AOR:-(double,double):%(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:value - this.lowerBound |==> value % this.lowerBound
+16:AOR:-(double,double):*(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:value - this.lowerBound |==> value * this.lowerBound
+17:AOR:-(double,double):+(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:value - this.lowerBound |==> value + this.lowerBound
+18:AOR:-(double,double):/(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:value - this.lowerBound |==> value / this.lowerBound
+19:AOR:-(double,double):%(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:this.upperBound - this.lowerBound |==> this.upperBound % this.lowerBound
+20:AOR:-(double,double):*(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:this.upperBound - this.lowerBound |==> this.upperBound * this.lowerBound
+21:AOR:-(double,double):+(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:this.upperBound - this.lowerBound |==> this.upperBound + this.lowerBound
+22:AOR:-(double,double):/(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:this.upperBound - this.lowerBound |==> this.upperBound / this.lowerBound
+23:AOR:/(double,double):%(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:(value - this.lowerBound) / (this.upperBound - this.lowerBound) |==> (value - this.lowerBound) % (this.upperBound - this.lowerBound)
+24:AOR:/(double,double):*(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:(value - this.lowerBound) / (this.upperBound - this.lowerBound) |==> (value - this.lowerBound) * (this.upperBound - this.lowerBound)
+25:AOR:/(double,double):+(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:(value - this.lowerBound) / (this.upperBound - this.lowerBound) |==> (value - this.lowerBound) + (this.upperBound - this.lowerBound)
+26:AOR:/(double,double):-(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:(value - this.lowerBound) / (this.upperBound - this.lowerBound) |==> (value - this.lowerBound) - (this.upperBound - this.lowerBound)
+27:LVR:POS:0:org.jfree.chart.renderer.GrayPaintScale@getPaint:127:255.0 |==> 0.0
+28:LVR:POS:NEG:org.jfree.chart.renderer.GrayPaintScale@getPaint:127:255.0 |==> -255.0
+29:AOR:*(double,double):%(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:(value - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0 |==> (value - this.lowerBound) / (this.upperBound - this.lowerBound) % 255.0
+30:AOR:*(double,double):+(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:(value - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0 |==> (value - this.lowerBound) / (this.upperBound - this.lowerBound) + 255.0
+31:AOR:*(double,double):-(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:(value - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0 |==> (value - this.lowerBound) / (this.upperBound - this.lowerBound) - 255.0
+32:AOR:*(double,double):/(double,double):org.jfree.chart.renderer.GrayPaintScale@getPaint:126:(value - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0 |==> (value - this.lowerBound) / (this.upperBound - this.lowerBound) / 255.0
+33:STD:CALL:<NO-OP>:org.jfree.chart.renderer.GrayPaintScale@getPaint:128:new Color(g, g, g) |==> null
+34:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.chart.renderer.GrayPaintScale@equals:145:obj == this |==> false
+35:LVR:TRUE:FALSE:org.jfree.chart.renderer.GrayPaintScale@equals:146:true |==> false
+36:LVR:FALSE:TRUE:org.jfree.chart.renderer.GrayPaintScale@equals:149:false |==> true
+37:STD:ASSIGN:<NO-OP>:org.jfree.chart.renderer.GrayPaintScale@equals:151:(GrayPaintScale)obj |==> null
+38:ROR:!=(double,double):<(double,double):org.jfree.chart.renderer.GrayPaintScale@equals:152:this.lowerBound != that.lowerBound |==> this.lowerBound < that.lowerBound
+39:ROR:!=(double,double):>(double,double):org.jfree.chart.renderer.GrayPaintScale@equals:152:this.lowerBound != that.lowerBound |==> this.lowerBound > that.lowerBound
+40:ROR:!=(double,double):TRUE(double,double):org.jfree.chart.renderer.GrayPaintScale@equals:152:this.lowerBound != that.lowerBound |==> true
+41:LVR:FALSE:TRUE:org.jfree.chart.renderer.GrayPaintScale@equals:153:false |==> true
+42:ROR:!=(double,double):<(double,double):org.jfree.chart.renderer.GrayPaintScale@equals:155:this.upperBound != that.upperBound |==> this.upperBound < that.upperBound
+43:ROR:!=(double,double):>(double,double):org.jfree.chart.renderer.GrayPaintScale@equals:155:this.upperBound != that.upperBound |==> this.upperBound > that.upperBound
+44:ROR:!=(double,double):TRUE(double,double):org.jfree.chart.renderer.GrayPaintScale@equals:155:this.upperBound != that.upperBound |==> true
+45:LVR:FALSE:TRUE:org.jfree.chart.renderer.GrayPaintScale@equals:156:false |==> true
+46:LVR:TRUE:FALSE:org.jfree.chart.renderer.GrayPaintScale@equals:158:true |==> false
+47:STD:CALL:<NO-OP>:org.jfree.chart.renderer.GrayPaintScale@clone:170:super.clone() |==> null

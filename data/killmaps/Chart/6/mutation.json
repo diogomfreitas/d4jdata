@@ -1,0 +1,10280 @@
+[
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "59",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "62",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "68",
+    "mkp": 9,
+    "mkf": 0,
+    "mnp": 475,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "68",
+    "mkp": 76,
+    "mkf": 0,
+    "mnp": 408,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "71",
+    "mkp": 10,
+    "mkf": 0,
+    "mnp": 474,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "96",
+    "mkp": 218,
+    "mkf": 0,
+    "mnp": 266,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "97",
+    "mkp": 14,
+    "mkf": 0,
+    "mnp": 470,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "110",
+    "mkp": 143,
+    "mkf": 0,
+    "mnp": 341,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "110",
+    "mkp": 6,
+    "mkf": 0,
+    "mnp": 478,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "110",
+    "mkp": 40,
+    "mkf": 2,
+    "mnp": 444,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "110",
+    "mkp": 140,
+    "mkf": 0,
+    "mnp": 344,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "110",
+    "mkp": 2,
+    "mkf": 0,
+    "mnp": 482,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "110",
+    "mkp": 5,
+    "mkf": 0,
+    "mnp": 479,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "110",
+    "mkp": 2,
+    "mkf": 0,
+    "mnp": 482,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "110",
+    "mkp": 167,
+    "mkf": 2,
+    "mnp": 317,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "110",
+    "mkp": 4,
+    "mkf": 0,
+    "mnp": 480,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "110",
+    "mkp": 166,
+    "mkf": 2,
+    "mnp": 318,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "110",
+    "mkp": 6,
+    "mkf": 0,
+    "mnp": 478,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "110",
+    "mkp": 4,
+    "mkf": 0,
+    "mnp": 480,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "111",
+    "mkp": 166,
+    "mkf": 2,
+    "mnp": 318,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "113",
+    "mkp": 167,
+    "mkf": 2,
+    "mnp": 317,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "123",
+    "mkp": 204,
+    "mkf": 0,
+    "mnp": 280,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "123",
+    "mkp": 4,
+    "mkf": 0,
+    "mnp": 480,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "123",
+    "mkp": 66,
+    "mkf": 0,
+    "mnp": 418,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "123",
+    "mkp": 204,
+    "mkf": 0,
+    "mnp": 280,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "123",
+    "mkp": 5,
+    "mkf": 0,
+    "mnp": 479,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "124",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "126",
+    "mkp": 7,
+    "mkf": 0,
+    "mnp": 477,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "126",
+    "mkp": 4,
+    "mkf": 0,
+    "mnp": 480,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "126",
+    "mkp": 11,
+    "mkf": 0,
+    "mnp": 473,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "127",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "127",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "127",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "127",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "128",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "128",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "128",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "128",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "128",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "129",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "131",
+    "mkp": 168,
+    "mkf": 2,
+    "mnp": 316,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "132",
+    "mkp": 167,
+    "mkf": 0,
+    "mnp": 317,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "132",
+    "mkp": 167,
+    "mkf": 2,
+    "mnp": 317,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "132",
+    "mkp": 168,
+    "mkf": 2,
+    "mnp": 316,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "132",
+    "mkp": 167,
+    "mkf": 0,
+    "mnp": 317,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "132",
+    "mkp": 167,
+    "mkf": 2,
+    "mnp": 317,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "132",
+    "mkp": 167,
+    "mkf": 0,
+    "mnp": 317,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "132",
+    "mkp": 168,
+    "mkf": 2,
+    "mnp": 316,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "139",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "140",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "140",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "140",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "149",
+    "mkp": 162,
+    "mkf": 2,
+    "mnp": 322,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "161",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "161",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "161",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "161",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "161",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "162",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "163",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "166",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "166",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "178",
+    "mkp": 2,
+    "mkf": 0,
+    "mnp": 482,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "179",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "182",
+    "mkp": 3,
+    "mkf": 0,
+    "mnp": 481,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "183",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "187",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "190",
+    "mkp": 51,
+    "mkf": 0,
+    "mnp": 433,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "191",
+    "mkp": 24,
+    "mkf": 2,
+    "mnp": 460,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "192",
+    "mkp": 13,
+    "mkf": 0,
+    "mnp": 471,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "192",
+    "mkp": 3,
+    "mkf": 0,
+    "mnp": 481,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "192",
+    "mkp": 2,
+    "mkf": 0,
+    "mnp": 482,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "192",
+    "mkp": 3,
+    "mkf": 0,
+    "mnp": 481,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "192",
+    "mkp": 24,
+    "mkf": 2,
+    "mnp": 460,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "193",
+    "mkp": 50,
+    "mkf": 0,
+    "mnp": 434,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "193",
+    "mkp": 22,
+    "mkf": 2,
+    "mnp": 462,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "194",
+    "mkp": 20,
+    "mkf": 2,
+    "mnp": 464,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "197",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "206",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "206",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "207",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "208",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "211",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "211",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "211",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "211",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "211",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "212",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "212",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "212",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "213",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "213",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "213",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "213",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "213",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "214",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "214",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "214",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "214",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "214",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "214",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "214",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "215",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "215",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "215",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "215",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "215",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "217",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "217",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "217",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "217",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "217",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "217",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "216",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "221",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "235",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "236",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "237",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "238",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "238",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "238",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "238",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "238",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "241",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "255",
+    "mkp": 67,
+    "mkf": 0,
+    "mnp": 417,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "256",
+    "mkp": 17,
+    "mkf": 0,
+    "mnp": 467,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "257",
+    "mkp": 67,
+    "mkf": 0,
+    "mnp": 417,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "258",
+    "mkp": 18,
+    "mkf": 0,
+    "mnp": 466,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "258",
+    "mkp": 17,
+    "mkf": 0,
+    "mnp": 467,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "258",
+    "mkp": 3,
+    "mkf": 0,
+    "mnp": 481,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "258",
+    "mkp": 4,
+    "mkf": 0,
+    "mnp": 480,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "258",
+    "mkp": 17,
+    "mkf": 0,
+    "mnp": 467,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "259",
+    "mkp": 16,
+    "mkf": 0,
+    "mnp": 468,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "260",
+    "mkp": 2,
+    "mkf": 0,
+    "mnp": 482,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "260",
+    "mkp": 3,
+    "mkf": 0,
+    "mnp": 481,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "260",
+    "mkp": 16,
+    "mkf": 0,
+    "mnp": 468,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "260",
+    "mkp": 4,
+    "mkf": 0,
+    "mnp": 480,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "260",
+    "mkp": 3,
+    "mkf": 0,
+    "mnp": 481,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "261",
+    "mkp": 16,
+    "mkf": 0,
+    "mnp": 468,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "262",
+    "mkp": 16,
+    "mkf": 0,
+    "mnp": 468,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "265",
+    "mkp": 6,
+    "mkf": 0,
+    "mnp": 478,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "265",
+    "mkp": 6,
+    "mkf": 0,
+    "mnp": 478,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "265",
+    "mkp": 6,
+    "mkf": 0,
+    "mnp": 478,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "282",
+    "mkp": 67,
+    "mkf": 0,
+    "mnp": 417,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "283",
+    "mkp": 18,
+    "mkf": 0,
+    "mnp": 466,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "284",
+    "mkp": 17,
+    "mkf": 0,
+    "mnp": 467,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "285",
+    "mkp": 16,
+    "mkf": 0,
+    "mnp": 468,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "285",
+    "mkp": 67,
+    "mkf": 0,
+    "mnp": 417,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "285",
+    "mkp": 2,
+    "mkf": 0,
+    "mnp": 482,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "285",
+    "mkp": 67,
+    "mkf": 0,
+    "mnp": 417,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "285",
+    "mkp": 17,
+    "mkf": 0,
+    "mnp": 467,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "286",
+    "mkp": 17,
+    "mkf": 0,
+    "mnp": 467,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "287",
+    "mkp": 17,
+    "mkf": 0,
+    "mnp": 467,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "287",
+    "mkp": 9,
+    "mkf": 0,
+    "mnp": 475,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "287",
+    "mkp": 16,
+    "mkf": 0,
+    "mnp": 468,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "287",
+    "mkp": 2,
+    "mkf": 0,
+    "mnp": 482,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "287",
+    "mkp": 9,
+    "mkf": 0,
+    "mnp": 475,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.AbstractObjectList",
+    "location": "288",
+    "mkp": 16,
+    "mkf": 0,
+    "mnp": 468,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "70",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "81",
+    "mkp": 5,
+    "mkf": 2,
+    "mnp": 479,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "93",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "105",
+    "mkp": 5,
+    "mkf": 0,
+    "mnp": 479,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "106",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "109",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "111",
+    "mkp": 221,
+    "mkf": 0,
+    "mnp": 263,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "121",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "133",
+    "mkp": 5,
+    "mkf": 0,
+    "mnp": 479,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "134",
+    "mkp": 5,
+    "mkf": 0,
+    "mnp": 479,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "135",
+    "mkp": 65,
+    "mkf": 0,
+    "mnp": 419,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "136",
+    "mkp": 6,
+    "mkf": 0,
+    "mnp": 478,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "136",
+    "mkp": 5,
+    "mkf": 0,
+    "mnp": 479,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "136",
+    "mkp": 6,
+    "mkf": 0,
+    "mnp": 478,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "136",
+    "mkp": 5,
+    "mkf": 0,
+    "mnp": 479,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "136",
+    "mkp": 6,
+    "mkf": 0,
+    "mnp": 478,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "137",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "138",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "139",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "140",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "143",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "143",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "143",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "160",
+    "mkp": 5,
+    "mkf": 0,
+    "mnp": 479,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "161",
+    "mkp": 5,
+    "mkf": 0,
+    "mnp": 479,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "162",
+    "mkp": 5,
+    "mkf": 0,
+    "mnp": 479,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "162",
+    "mkp": 65,
+    "mkf": 0,
+    "mnp": 419,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "162",
+    "mkp": 5,
+    "mkf": 0,
+    "mnp": 479,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "162",
+    "mkp": 65,
+    "mkf": 0,
+    "mnp": 419,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "162",
+    "mkp": 5,
+    "mkf": 0,
+    "mnp": 479,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "163",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "164",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "164",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "164",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "164",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "164",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeList",
+    "location": "165",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "71",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "75",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "80",
+    "mkp": 10,
+    "mkf": 0,
+    "mnp": 474,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "99",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "113",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "125",
+    "mkp": 249,
+    "mkf": 0,
+    "mnp": 235,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "128",
+    "mkp": 8,
+    "mkf": 0,
+    "mnp": 476,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "129",
+    "mkp": 244,
+    "mkf": 0,
+    "mnp": 240,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "132",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "145",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "145",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "146",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "147",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "149",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "162",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "163",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "166",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "167",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "171",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "173",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "173",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "174",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "178",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "181",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "184",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "187",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "203",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "204",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "210",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "211",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "212",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "214",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "215",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "216",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "219",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "222",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "232",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "241",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "255",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "256",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "258",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "258",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "258",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "260",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "261",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "262",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "267",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "268",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "269",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "272",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "285",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "286",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "289",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "300",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "301",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "302",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "305",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "319",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "319",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "319",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "321",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "321",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "326",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "329",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "330",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "331",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "331",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "331",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "331",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "331",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "332",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "335",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "335",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "336",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "349",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "350",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "355",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "372",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "373",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "378",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "396",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "397",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "398",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "421",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "422",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "423",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "423",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "424",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "439",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "440",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "442",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "442",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "443",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "446",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "456",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "458",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "459",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "462",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "463",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "463",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "464",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "464",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "464",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "464",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "464",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "467",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "472",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "473",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "473",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "476",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "477",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "479",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ObjectUtilities",
+    "location": "481",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "92",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "109",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "110",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "113",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "114",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "114",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "115",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "116",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "116",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "117",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "119",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "119",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "120",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "121",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "122",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "123",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "124",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "125",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "126",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "127",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "130",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "145",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "146",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "148",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "149",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "149",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "150",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "152",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "155",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "156",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "157",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "158",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "159",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "160",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "161",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "162",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "166",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "166",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "185",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "186",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "189",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "190",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "190",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "191",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "192",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "192",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "193",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "194",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "195",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "196",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "197",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "198",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "199",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "203",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "206",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "224",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "225",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "227",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "228",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "228",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "230",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "231",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "232",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "233",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "234",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "235",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "236",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "237",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "240",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "241",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "245",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "245",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "263",
+    "mkp": 6,
+    "mkf": 0,
+    "mnp": 478,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "264",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "267",
+    "mkp": 70,
+    "mkf": 0,
+    "mnp": 414,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "268",
+    "mkp": 4,
+    "mkf": 0,
+    "mnp": 480,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "268",
+    "mkp": 70,
+    "mkf": 0,
+    "mnp": 414,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "269",
+    "mkp": 70,
+    "mkf": 0,
+    "mnp": 414,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "270",
+    "mkp": 17,
+    "mkf": 0,
+    "mnp": 467,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "270",
+    "mkp": 70,
+    "mkf": 0,
+    "mnp": 414,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "271",
+    "mkp": 15,
+    "mkf": 0,
+    "mnp": 469,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "272",
+    "mkp": 15,
+    "mkf": 0,
+    "mnp": 469,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "273",
+    "mkp": 15,
+    "mkf": 0,
+    "mnp": 469,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "274",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 483,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "275",
+    "mkp": 15,
+    "mkf": 0,
+    "mnp": 469,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "277",
+    "mkp": 68,
+    "mkf": 0,
+    "mnp": 416,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "277",
+    "mkp": 25,
+    "mkf": 0,
+    "mnp": 459,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "278",
+    "mkp": 66,
+    "mkf": 0,
+    "mnp": 418,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "279",
+    "mkp": 66,
+    "mkf": 0,
+    "mnp": 418,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "280",
+    "mkp": 66,
+    "mkf": 0,
+    "mnp": 418,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "281",
+    "mkp": 66,
+    "mkf": 0,
+    "mnp": 418,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "282",
+    "mkp": 65,
+    "mkf": 0,
+    "mnp": 419,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "284",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "284",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "285",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "286",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "287",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "288",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "289",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "291",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "291",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "292",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "293",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "294",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "295",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "296",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "297",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "298",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "299",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "301",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "301",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "302",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "303",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "303",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "304",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "306",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "307",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "307",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "307",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "307",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "307",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "307",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "307",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "308",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "312",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "312",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "312",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "312",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "312",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "313",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "315",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "315",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "315",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "315",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "315",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "316",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "318",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "318",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "318",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "318",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "318",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "318",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "319",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "319",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "319",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "319",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "319",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "319",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "318",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "320",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "322",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "322",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "322",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "322",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "322",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "322",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "322",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "322",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "322",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "323",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "325",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "326",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "329",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "331",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "332",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "334",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "337",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "340",
+    "mkp": 67,
+    "mkf": 0,
+    "mnp": 417,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "355",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 483,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "356",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "358",
+    "mkp": 2,
+    "mkf": 0,
+    "mnp": 482,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "359",
+    "mkp": 70,
+    "mkf": 0,
+    "mnp": 414,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "359",
+    "mkp": 70,
+    "mkf": 0,
+    "mnp": 414,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "361",
+    "mkp": 15,
+    "mkf": 0,
+    "mnp": 469,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "362",
+    "mkp": 15,
+    "mkf": 0,
+    "mnp": 469,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "363",
+    "mkp": 15,
+    "mkf": 0,
+    "mnp": 469,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "364",
+    "mkp": 15,
+    "mkf": 0,
+    "mnp": 469,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "365",
+    "mkp": 15,
+    "mkf": 0,
+    "mnp": 469,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "366",
+    "mkp": 15,
+    "mkf": 0,
+    "mnp": 469,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "369",
+    "mkp": 68,
+    "mkf": 0,
+    "mnp": 416,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "370",
+    "mkp": 68,
+    "mkf": 0,
+    "mnp": 416,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "371",
+    "mkp": 68,
+    "mkf": 0,
+    "mnp": 416,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "372",
+    "mkp": 68,
+    "mkf": 0,
+    "mnp": 416,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "373",
+    "mkp": 68,
+    "mkf": 0,
+    "mnp": 416,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "374",
+    "mkp": 68,
+    "mkf": 0,
+    "mnp": 416,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "377",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "378",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "379",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "380",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "381",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "382",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "385",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "386",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "387",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "388",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "389",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "390",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "392",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "393",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "396",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "397",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "398",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "398",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "399",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "401",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "402",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "406",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "408",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "409",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "410",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "414",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "415",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "419",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "419",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "436",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "437",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "440",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "441",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "441",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "442",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "443",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "444",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "446",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "461",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "462",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "464",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "465",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "465",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "466",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "467",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "470",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "470",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "490",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "491",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "494",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "495",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "495",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "497",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "498",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "499",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "500",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "500",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "501",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "501",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "501",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "502",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "503",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "504",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "505",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "506",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "523",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "524",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "526",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "527",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "527",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "528",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "531",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "532",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "533",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "533",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "533",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "534",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "535",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "537",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "540",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "541",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "542",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "542",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "542",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "546",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "549",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "550",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "550",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "550",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "550",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "550",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "553",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "554",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "555",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "559",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "563",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.SerialUtilities",
+    "location": "563",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "105",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "111",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "128",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "128",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "128",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "128",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "129",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "131",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "131",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "131",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "131",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "132",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "134",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "134",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "134",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "134",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "135",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "137",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "137",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "137",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "137",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "138",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "140",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "140",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "140",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "140",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "141",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "145",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "159",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "160",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "162",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "163",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "165",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "165",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "166",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "168",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "168",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "169",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "171",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "184",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "185",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "187",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "188",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "190",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "190",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "191",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "193",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "206",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "207",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "209",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "210",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "212",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "212",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "213",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "215",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "215",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "215",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "216",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "218",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "218",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "218",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "219",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "221",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "221",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "221",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "222",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "224",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "237",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "238",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "240",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "241",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "243",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "243",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "243",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "244",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "246",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "246",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "247",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "249",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "249",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "250",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "265",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "266",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "268",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "269",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "271",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "272",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "274",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "275",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "276",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "276",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "277",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "277",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "278",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "278",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "278",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "278",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "281",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "283",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "284",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "285",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "285",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "285",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "286",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "288",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "288",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "289",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "291",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "292",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "293",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "293",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "293",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "293",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "293",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "295",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "310",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "311",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "313",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "315",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "334",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "335",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "337",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "338",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "340",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "343",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "343",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "343",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "343",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "343",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "343",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "343",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "343",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "344",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "360",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "363",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "364",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "365",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "380",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "381",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "382",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "383",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "384",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "389",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "389",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "389",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "389",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "400",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "401",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "401",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "401",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "401",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "401",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "401",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "401",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "401",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "401",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "401",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "401",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "402",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "402",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "402",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "402",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "402",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "402",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "402",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "402",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "402",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "402",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "402",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "403",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "403",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "403",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "403",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "403",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "403",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "403",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "403",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "404",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "404",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "404",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "404",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "404",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "404",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "404",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "404",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "404",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "404",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "406",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "406",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "406",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "406",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "406",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "406",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "406",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "407",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "407",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "407",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "407",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "407",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "407",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "407",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "407",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "407",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "408",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "408",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "408",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "408",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "408",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "408",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "408",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "408",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "408",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "409",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "409",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "409",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "409",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "409",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "409",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "409",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "410",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "410",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "410",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "410",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "410",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "410",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "410",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "410",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "410",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "410",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "411",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "411",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "411",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "411",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "411",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "411",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "411",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "411",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "411",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "411",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "412",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "412",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "412",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "412",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "412",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "412",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "412",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "412",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "413",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "414",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "426",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "427",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "427",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "428",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "428",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "429",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "429",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "430",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "431",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "432",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "433",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "433",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "434",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "434",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "435",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "435",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "436",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "436",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "436",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "437",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "437",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "437",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "438",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "438",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "438",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "439",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "440",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "451",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "452",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "452",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "452",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "452",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "453",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "453",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "453",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "454",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "454",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "454",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "455",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "455",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "455",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "455",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "456",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "457",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "468",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "469",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "469",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "469",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "469",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "470",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "471",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "471",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "472",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "473",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "484",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "485",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "485",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "485",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "486",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "486",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "487",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "487",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "487",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "488",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "489",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "503",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "504",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "505",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "506",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "507",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "508",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "508",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "508",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "508",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "508",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "508",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "508",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "508",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "508",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "510",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "510",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "510",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "510",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "511",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "511",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "511",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "511",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "512",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "512",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "512",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "512",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "512",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "512",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "512",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "512",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "512",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "513",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "513",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "513",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "513",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "513",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "513",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "513",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "513",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "513",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "514",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "514",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "514",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "514",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "514",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "514",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "514",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "514",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "514",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "515",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "515",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "515",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "515",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "515",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "515",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "515",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "515",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "515",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "516",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "520",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "520",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "520",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "520",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "520",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "520",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "520",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "520",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "520",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "520",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "520",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "521",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "521",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "521",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "521",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "521",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "521",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "521",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "521",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "521",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "521",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "521",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "522",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "522",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "522",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "522",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "522",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "522",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "522",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "522",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "522",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "522",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "522",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "523",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "523",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "523",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "523",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "523",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "523",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "523",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "523",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "523",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "523",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "523",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "524",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "526",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "545",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "546",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "547",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "562",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "563",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "564",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "565",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "566",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "567",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "569",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "569",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "569",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "569",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "569",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "569",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "569",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "569",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "569",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "569",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "569",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "569",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "569",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "569",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "587",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "588",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "590",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "591",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "592",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "593",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "595",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "595",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "595",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "595",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "595",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "595",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "595",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "595",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.chart.util.ShapeUtilities",
+    "location": "595",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 484,
+    "mnf": 2
+  }
+]

@@ -1,0 +1,544 @@
+1:STD:ASSIGN:<NO-OP>:org.jfree.data.general.AbstractDataset:82:1918768939869230744L |==> 0L
+2:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.AbstractDataset@<init>:95:this.group = new DatasetGroup() |==> <NO-OP>
+3:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.AbstractDataset@<init>:96:this.listenerList = new EventListenerList() |==> <NO-OP>
+4:STD:CALL:<NO-OP>:org.jfree.data.general.AbstractDataset@getGroup:107:this.group |==> null
+5:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.general.AbstractDataset@setGroup:118:group == null |==> false
+6:LVR:<CLASS>:<NULL>:org.jfree.data.general.AbstractDataset@setGroup:119:"Null \'group\' argument." |==> null
+7:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.AbstractDataset@setGroup:121:this.group = group |==> <NO-OP>
+8:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@addChangeListener:132:this.listenerList.add(DatasetChangeListener.class, listener) |==> <NO-OP>
+9:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@removeChangeListener:144:this.listenerList.remove(DatasetChangeListener.class, listener) |==> <NO-OP>
+10:STD:ASSIGN:<NO-OP>:org.jfree.data.general.AbstractDataset@hasListener:160:Arrays.asList(this.listenerList.getListenerList()) |==> null
+11:STD:CALL:<NO-OP>:org.jfree.data.general.AbstractDataset@hasListener:161:list.contains(listener) |==> false
+12:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@fireDatasetChanged:170:notifyListeners(new DatasetChangeEvent(this, this)) |==> <NO-OP>
+13:STD:ASSIGN:<NO-OP>:org.jfree.data.general.AbstractDataset@notifyListeners:184:this.listenerList.getListenerList() |==> null
+14:LVR:POS:0:org.jfree.data.general.AbstractDataset@notifyListeners:185:2 |==> 0
+15:LVR:POS:NEG:org.jfree.data.general.AbstractDataset@notifyListeners:185:2 |==> -2
+16:AOR:-(int,int):%(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:185:listeners.length - 2 |==> listeners.length % 2
+17:AOR:-(int,int):*(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:185:listeners.length - 2 |==> listeners.length * 2
+18:AOR:-(int,int):+(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:185:listeners.length - 2 |==> listeners.length + 2
+19:AOR:-(int,int):/(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:185:listeners.length - 2 |==> listeners.length / 2
+20:LVR:0:POS:org.jfree.data.general.AbstractDataset@notifyListeners:185:0 |==> 1
+21:LVR:0:NEG:org.jfree.data.general.AbstractDataset@notifyListeners:185:0 |==> -1
+22:ROR:>=(int,int):==(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:185:i >= 0 |==> i == 0
+23:ROR:>=(int,int):>(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:185:i >= 0 |==> i > 0
+24:ROR:>=(int,int):TRUE(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:185:i >= 0 |==> true
+25:LVR:POS:0:org.jfree.data.general.AbstractDataset@notifyListeners:185:2 |==> 0
+26:LVR:POS:NEG:org.jfree.data.general.AbstractDataset@notifyListeners:185:2 |==> -2
+27:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.general.AbstractDataset@notifyListeners:186:listeners[i] == DatasetChangeListener.class |==> false
+28:LVR:POS:0:org.jfree.data.general.AbstractDataset@notifyListeners:187:1 |==> 0
+29:LVR:POS:NEG:org.jfree.data.general.AbstractDataset@notifyListeners:187:1 |==> -1
+30:AOR:+(int,int):%(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:187:i + 1 |==> i % 1
+31:AOR:+(int,int):*(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:187:i + 1 |==> i * 1
+32:AOR:+(int,int):-(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:187:i + 1 |==> i - 1
+33:AOR:+(int,int):/(int,int):org.jfree.data.general.AbstractDataset@notifyListeners:187:i + 1 |==> i / 1
+34:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@notifyListeners:187:((DatasetChangeListener)listeners[i + 1]).datasetChanged(event) |==> <NO-OP>
+35:STD:ASSIGN:<NO-OP>:org.jfree.data.general.AbstractDataset@clone:205:(AbstractDataset)super.clone() |==> null
+36:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.AbstractDataset@clone:206:clone.listenerList = new EventListenerList() |==> <NO-OP>
+37:STD:CALL:<NO-OP>:org.jfree.data.general.AbstractDataset@clone:207:clone |==> null
+38:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@writeObject:218:stream.defaultWriteObject() |==> <NO-OP>
+39:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@readObject:231:stream.defaultReadObject() |==> <NO-OP>
+40:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.AbstractDataset@readObject:232:this.listenerList = new EventListenerList() |==> <NO-OP>
+41:LVR:POS:0:org.jfree.data.general.AbstractDataset@readObject:233:10 |==> 0
+42:LVR:POS:NEG:org.jfree.data.general.AbstractDataset@readObject:233:10 |==> -10
+43:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@readObject:233:stream.registerValidation(this, 10) |==> <NO-OP>
+44:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractDataset@validateObject:255:fireDatasetChanged() |==> <NO-OP>
+45:STD:ASSIGN:<NO-OP>:org.jfree.data.general.DatasetGroup:54:-3640642179674185688L |==> 0L
+46:LVR:<CLASS>:<NULL>:org.jfree.data.general.DatasetGroup@<init>:64:"NOID" |==> null
+47:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.DatasetGroup@<init>:64:this.id = "NOID" |==> <NO-OP>
+48:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.general.DatasetGroup@<init>:73:id == null |==> false
+49:LVR:<CLASS>:<NULL>:org.jfree.data.general.DatasetGroup@<init>:74:"Null \'id\' argument." |==> null
+50:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.DatasetGroup@<init>:76:this.id = id |==> <NO-OP>
+51:STD:CALL:<NO-OP>:org.jfree.data.general.DatasetGroup@getID:85:this.id |==> null
+52:STD:CALL:<NO-OP>:org.jfree.data.general.DatasetGroup@clone:96:super.clone() |==> null
+53:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.general.DatasetGroup@equals:107:obj == this |==> false
+54:LVR:TRUE:FALSE:org.jfree.data.general.DatasetGroup@equals:108:true |==> false
+55:LVR:FALSE:TRUE:org.jfree.data.general.DatasetGroup@equals:111:false |==> true
+56:STD:ASSIGN:<NO-OP>:org.jfree.data.general.DatasetGroup@equals:113:(DatasetGroup)obj |==> null
+57:COR:this.id.equals(that.id):TRUE:org.jfree.data.general.DatasetGroup@equals:114:this.id.equals(that.id) |==> false
+58:COR:this.id.equals(that.id):FALSE:org.jfree.data.general.DatasetGroup@equals:114:this.id.equals(that.id) |==> true
+59:LVR:FALSE:TRUE:org.jfree.data.general.DatasetGroup@equals:115:false |==> true
+60:LVR:TRUE:FALSE:org.jfree.data.general.DatasetGroup@equals:117:true |==> false
+61:STD:<ASSIGN>:<NO-OP>:org.jfree.data.general.DatasetChangeEvent@<init>:72:this.dataset = dataset |==> <NO-OP>
+62:STD:CALL:<NO-OP>:org.jfree.data.general.DatasetChangeEvent@getDataset:83:this.dataset |==> null
+63:LVR:0:POS:org.jfree.data.DataUtilities@calculateColumnTotal:65:0.0 |==> 1.0
+64:LVR:0:NEG:org.jfree.data.DataUtilities@calculateColumnTotal:65:0.0 |==> -1.0
+65:STD:ASSIGN:<NO-OP>:org.jfree.data.DataUtilities@calculateColumnTotal:66:data.getRowCount() |==> 0
+66:LVR:0:POS:org.jfree.data.DataUtilities@calculateColumnTotal:67:0 |==> 1
+67:LVR:0:NEG:org.jfree.data.DataUtilities@calculateColumnTotal:67:0 |==> -1
+68:ROR:<(int,int):!=(int,int):org.jfree.data.DataUtilities@calculateColumnTotal:67:r < rowCount |==> r != rowCount
+69:ROR:<(int,int):<=(int,int):org.jfree.data.DataUtilities@calculateColumnTotal:67:r < rowCount |==> r <= rowCount
+70:ROR:<(int,int):FALSE(int,int):org.jfree.data.DataUtilities@calculateColumnTotal:67:r < rowCount |==> false
+71:STD:ASSIGN:<NO-OP>:org.jfree.data.DataUtilities@calculateColumnTotal:68:data.getValue(r, column) |==> null
+72:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.DataUtilities@calculateColumnTotal:69:n != null |==> true
+73:STD:<ASSIGN>:<NO-OP>:org.jfree.data.DataUtilities@calculateColumnTotal:70:total += n.doubleValue() |==> <NO-OP>
+74:STD:CALL:<NO-OP>:org.jfree.data.DataUtilities@calculateColumnTotal:73:total |==> 0.0
+75:LVR:0:POS:org.jfree.data.DataUtilities@calculateRowTotal:86:0.0 |==> 1.0
+76:LVR:0:NEG:org.jfree.data.DataUtilities@calculateRowTotal:86:0.0 |==> -1.0
+77:STD:ASSIGN:<NO-OP>:org.jfree.data.DataUtilities@calculateRowTotal:87:data.getColumnCount() |==> 0
+78:LVR:0:POS:org.jfree.data.DataUtilities@calculateRowTotal:88:0 |==> 1
+79:LVR:0:NEG:org.jfree.data.DataUtilities@calculateRowTotal:88:0 |==> -1
+80:ROR:<(int,int):!=(int,int):org.jfree.data.DataUtilities@calculateRowTotal:88:c < columnCount |==> c != columnCount
+81:ROR:<(int,int):<=(int,int):org.jfree.data.DataUtilities@calculateRowTotal:88:c < columnCount |==> c <= columnCount
+82:ROR:<(int,int):FALSE(int,int):org.jfree.data.DataUtilities@calculateRowTotal:88:c < columnCount |==> false
+83:STD:ASSIGN:<NO-OP>:org.jfree.data.DataUtilities@calculateRowTotal:89:data.getValue(row, c) |==> null
+84:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.DataUtilities@calculateRowTotal:90:n != null |==> true
+85:STD:<ASSIGN>:<NO-OP>:org.jfree.data.DataUtilities@calculateRowTotal:91:total += n.doubleValue() |==> <NO-OP>
+86:STD:CALL:<NO-OP>:org.jfree.data.DataUtilities@calculateRowTotal:94:total |==> 0.0
+87:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.DataUtilities@createNumberArray:106:data == null |==> false
+88:LVR:<CLASS>:<NULL>:org.jfree.data.DataUtilities@createNumberArray:107:"Null \'data\' argument." |==> null
+89:STD:ASSIGN:<NO-OP>:org.jfree.data.DataUtilities@createNumberArray:109:new Number[data.length] |==> null
+90:LVR:0:POS:org.jfree.data.DataUtilities@createNumberArray:110:0 |==> 1
+91:LVR:0:NEG:org.jfree.data.DataUtilities@createNumberArray:110:0 |==> -1
+92:ROR:<(int,int):!=(int,int):org.jfree.data.DataUtilities@createNumberArray:110:i < data.length |==> i != data.length
+93:ROR:<(int,int):<=(int,int):org.jfree.data.DataUtilities@createNumberArray:110:i < data.length |==> i <= data.length
+94:ROR:<(int,int):FALSE(int,int):org.jfree.data.DataUtilities@createNumberArray:110:i < data.length |==> false
+95:STD:<ASSIGN>:<NO-OP>:org.jfree.data.DataUtilities@createNumberArray:111:result[i] = new Double(data[i]) |==> <NO-OP>
+96:STD:CALL:<NO-OP>:org.jfree.data.DataUtilities@createNumberArray:113:result |==> null
+97:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.DataUtilities@createNumberArray2D:125:data == null |==> false
+98:LVR:<CLASS>:<NULL>:org.jfree.data.DataUtilities@createNumberArray2D:126:"Null \'data\' argument." |==> null
+99:STD:ASSIGN:<NO-OP>:org.jfree.data.DataUtilities@createNumberArray2D:128:data.length |==> 0
+100:STD:ASSIGN:<NO-OP>:org.jfree.data.DataUtilities@createNumberArray2D:129:new Number[l1][] |==> null
+101:LVR:0:POS:org.jfree.data.DataUtilities@createNumberArray2D:130:0 |==> 1
+102:LVR:0:NEG:org.jfree.data.DataUtilities@createNumberArray2D:130:0 |==> -1
+103:ROR:<(int,int):!=(int,int):org.jfree.data.DataUtilities@createNumberArray2D:130:i < l1 |==> i != l1
+104:ROR:<(int,int):<=(int,int):org.jfree.data.DataUtilities@createNumberArray2D:130:i < l1 |==> i <= l1
+105:ROR:<(int,int):FALSE(int,int):org.jfree.data.DataUtilities@createNumberArray2D:130:i < l1 |==> false
+106:STD:<ASSIGN>:<NO-OP>:org.jfree.data.DataUtilities@createNumberArray2D:131:result[i] = createNumberArray(data[i]) |==> <NO-OP>
+107:STD:CALL:<NO-OP>:org.jfree.data.DataUtilities@createNumberArray2D:133:result |==> null
+108:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.DataUtilities@getCumulativePercentages:147:data == null |==> false
+109:LVR:<CLASS>:<NULL>:org.jfree.data.DataUtilities@getCumulativePercentages:148:"Null \'data\' argument." |==> null
+110:STD:ASSIGN:<NO-OP>:org.jfree.data.DataUtilities@getCumulativePercentages:150:new DefaultKeyedValues() |==> null
+111:LVR:0:POS:org.jfree.data.DataUtilities@getCumulativePercentages:151:0.0 |==> 1.0
+112:LVR:0:NEG:org.jfree.data.DataUtilities@getCumulativePercentages:151:0.0 |==> -1.0
+113:LVR:0:POS:org.jfree.data.DataUtilities@getCumulativePercentages:152:0 |==> 1
+114:LVR:0:NEG:org.jfree.data.DataUtilities@getCumulativePercentages:152:0 |==> -1
+115:ROR:<(int,int):!=(int,int):org.jfree.data.DataUtilities@getCumulativePercentages:152:i < data.getItemCount() |==> i != data.getItemCount()
+116:ROR:<(int,int):<=(int,int):org.jfree.data.DataUtilities@getCumulativePercentages:152:i < data.getItemCount() |==> i <= data.getItemCount()
+117:ROR:<(int,int):FALSE(int,int):org.jfree.data.DataUtilities@getCumulativePercentages:152:i < data.getItemCount() |==> false
+118:STD:ASSIGN:<NO-OP>:org.jfree.data.DataUtilities@getCumulativePercentages:153:data.getValue(i) |==> null
+119:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.DataUtilities@getCumulativePercentages:154:v != null |==> true
+120:AOR:+(double,double):%(double,double):org.jfree.data.DataUtilities@getCumulativePercentages:155:total + v.doubleValue() |==> total % v.doubleValue()
+121:AOR:+(double,double):*(double,double):org.jfree.data.DataUtilities@getCumulativePercentages:155:total + v.doubleValue() |==> total * v.doubleValue()
+122:AOR:+(double,double):-(double,double):org.jfree.data.DataUtilities@getCumulativePercentages:155:total + v.doubleValue() |==> total - v.doubleValue()
+123:AOR:+(double,double):/(double,double):org.jfree.data.DataUtilities@getCumulativePercentages:155:total + v.doubleValue() |==> total / v.doubleValue()
+124:STD:<ASSIGN>:<NO-OP>:org.jfree.data.DataUtilities@getCumulativePercentages:155:total = total + v.doubleValue() |==> <NO-OP>
+125:LVR:0:POS:org.jfree.data.DataUtilities@getCumulativePercentages:158:0.0 |==> 1.0
+126:LVR:0:NEG:org.jfree.data.DataUtilities@getCumulativePercentages:158:0.0 |==> -1.0
+127:LVR:0:POS:org.jfree.data.DataUtilities@getCumulativePercentages:159:0 |==> 1
+128:LVR:0:NEG:org.jfree.data.DataUtilities@getCumulativePercentages:159:0 |==> -1
+129:ROR:<(int,int):!=(int,int):org.jfree.data.DataUtilities@getCumulativePercentages:159:i < data.getItemCount() |==> i != data.getItemCount()
+130:ROR:<(int,int):<=(int,int):org.jfree.data.DataUtilities@getCumulativePercentages:159:i < data.getItemCount() |==> i <= data.getItemCount()
+131:ROR:<(int,int):FALSE(int,int):org.jfree.data.DataUtilities@getCumulativePercentages:159:i < data.getItemCount() |==> false
+132:STD:ASSIGN:<NO-OP>:org.jfree.data.DataUtilities@getCumulativePercentages:160:data.getValue(i) |==> null
+133:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.DataUtilities@getCumulativePercentages:161:v != null |==> true
+134:AOR:+(double,double):%(double,double):org.jfree.data.DataUtilities@getCumulativePercentages:162:runningTotal + v.doubleValue() |==> runningTotal % v.doubleValue()
+135:AOR:+(double,double):*(double,double):org.jfree.data.DataUtilities@getCumulativePercentages:162:runningTotal + v.doubleValue() |==> runningTotal * v.doubleValue()
+136:AOR:+(double,double):-(double,double):org.jfree.data.DataUtilities@getCumulativePercentages:162:runningTotal + v.doubleValue() |==> runningTotal - v.doubleValue()
+137:AOR:+(double,double):/(double,double):org.jfree.data.DataUtilities@getCumulativePercentages:162:runningTotal + v.doubleValue() |==> runningTotal / v.doubleValue()
+138:STD:<ASSIGN>:<NO-OP>:org.jfree.data.DataUtilities@getCumulativePercentages:162:runningTotal = runningTotal + v.doubleValue() |==> <NO-OP>
+139:AOR:/(double,double):%(double,double):org.jfree.data.DataUtilities@getCumulativePercentages:164:runningTotal / total |==> runningTotal % total
+140:AOR:/(double,double):*(double,double):org.jfree.data.DataUtilities@getCumulativePercentages:164:runningTotal / total |==> runningTotal * total
+141:AOR:/(double,double):+(double,double):org.jfree.data.DataUtilities@getCumulativePercentages:164:runningTotal / total |==> runningTotal + total
+142:AOR:/(double,double):-(double,double):org.jfree.data.DataUtilities@getCumulativePercentages:164:runningTotal / total |==> runningTotal - total
+143:STD:<CALL>:<NO-OP>:org.jfree.data.DataUtilities@getCumulativePercentages:164:result.addValue(data.getKey(i), new Double(runningTotal / total)) |==> <NO-OP>
+144:STD:CALL:<NO-OP>:org.jfree.data.DataUtilities@getCumulativePercentages:166:result |==> null
+145:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:147:this.startData = starts |==> <NO-OP>
+146:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:148:this.endData = ends |==> <NO-OP>
+147:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:150:starts != null |==> true
+148:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:150:ends != null |==> true
+149:COR:&&(boolean,boolean):==(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:150:starts != null && ends != null |==> starts != null == (ends != null)
+150:COR:&&(boolean,boolean):FALSE(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:150:starts != null && ends != null |==> false
+151:COR:&&(boolean,boolean):LHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:150:starts != null && ends != null |==> starts != null
+152:COR:&&(boolean,boolean):RHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:150:starts != null && ends != null |==> ends != null
+153:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:152:"org.jfree.data.resources.DataPackageResources" |==> null
+154:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:153:ResourceBundle.getBundle(baseName) |==> null
+155:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:155:starts.length |==> 0
+156:ROR:!=(int,int):<(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:156:seriesCount != ends.length |==> seriesCount < ends.length
+157:ROR:!=(int,int):>(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:156:seriesCount != ends.length |==> seriesCount > ends.length
+158:ROR:!=(int,int):TRUE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:156:seriesCount != ends.length |==> true
+159:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:158:"DefaultIntervalCategoryDataset: the number of series in the start value dataset does not match the number of series in the end value dataset." |==> null
+160:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:163:0 |==> 1
+161:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:163:0 |==> -1
+162:ROR:>(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:163:seriesCount > 0 |==> seriesCount != 0
+163:ROR:>(int,int):>=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:163:seriesCount > 0 |==> seriesCount >= 0
+164:ROR:>(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:163:seriesCount > 0 |==> false
+165:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:166:seriesKeys != null |==> true
+166:ROR:!=(int,int):<(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:168:seriesKeys.length != seriesCount |==> seriesKeys.length < seriesCount
+167:ROR:!=(int,int):>(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:168:seriesKeys.length != seriesCount |==> seriesKeys.length > seriesCount
+168:ROR:!=(int,int):TRUE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:168:seriesKeys.length != seriesCount |==> true
+169:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:171:"The number of series keys does not match the number of series in the data." |==> null
+170:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:174:this.seriesKeys = seriesKeys |==> <NO-OP>
+171:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:178:"series.default-prefix" |==> null
+172:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:178:" " |==> null
+173:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:179:this.seriesKeys = generateKeys(seriesCount, prefix) |==> <NO-OP>
+174:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:183:0 |==> 1
+175:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:183:0 |==> -1
+176:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:184:0 |==> 1
+177:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:184:0 |==> -1
+178:ROR:!=(int,int):<(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:184:categoryCount != ends[0].length |==> categoryCount < ends[0].length
+179:ROR:!=(int,int):>(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:184:categoryCount != ends[0].length |==> categoryCount > ends[0].length
+180:ROR:!=(int,int):TRUE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:184:categoryCount != ends[0].length |==> true
+181:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:186:"DefaultIntervalCategoryDataset: the number of categories in the start value dataset does not match the number of categories in the end value dataset." |==> null
+182:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:191:categoryKeys != null |==> true
+183:ROR:!=(int,int):<(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:192:categoryKeys.length != categoryCount |==> categoryKeys.length < categoryCount
+184:ROR:!=(int,int):>(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:192:categoryKeys.length != categoryCount |==> categoryKeys.length > categoryCount
+185:ROR:!=(int,int):TRUE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:192:categoryKeys.length != categoryCount |==> true
+186:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:195:"The number of category keys does not match the number of categories in the data." |==> null
+187:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:197:this.categoryKeys = categoryKeys |==> <NO-OP>
+188:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:201:"categories.default-prefix" |==> null
+189:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:201:" " |==> null
+190:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:202:this.categoryKeys = generateKeys(categoryCount, prefix) |==> <NO-OP>
+191:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:207:this.seriesKeys = null |==> <NO-OP>
+192:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@<init>:208:this.categoryKeys = null |==> <NO-OP>
+193:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesCount:223:0 |==> 1
+194:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesCount:223:0 |==> -1
+195:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesCount:224:this.startData != null |==> true
+196:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesCount:225:result = this.startData.length |==> <NO-OP>
+197:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesCount:227:result |==> 0
+198:LVR:NEG:0:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesIndex:241:-1 |==> 0
+199:LVR:NEG:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesIndex:241:-1 |==> 1
+200:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesIndex:242:0 |==> 1
+201:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesIndex:242:0 |==> -1
+202:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesIndex:242:i < this.seriesKeys.length |==> i != this.seriesKeys.length
+203:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesIndex:242:i < this.seriesKeys.length |==> i <= this.seriesKeys.length
+204:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesIndex:242:i < this.seriesKeys.length |==> false
+205:COR:seriesKey.equals(this.seriesKeys[i]):TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesIndex:243:seriesKey.equals(this.seriesKeys[i]) |==> false
+206:COR:seriesKey.equals(this.seriesKeys[i]):FALSE:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesIndex:243:seriesKey.equals(this.seriesKeys[i]) |==> true
+207:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesIndex:244:result = i |==> <NO-OP>
+208:STD:<CALL>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesIndex:245:break; |==> <NO-OP>
+209:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesIndex:248:result |==> 0
+210:ROR:>=(int,int):==(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesKey:261:series >= getSeriesCount() |==> series == getSeriesCount()
+211:ROR:>=(int,int):>(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesKey:261:series >= getSeriesCount() |==> series > getSeriesCount()
+212:ROR:>=(int,int):TRUE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesKey:261:series >= getSeriesCount() |==> true
+213:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesKey:261:0 |==> 1
+214:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesKey:261:0 |==> -1
+215:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesKey:261:series < 0 |==> series != 0
+216:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesKey:261:series < 0 |==> series <= 0
+217:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesKey:261:series < 0 |==> false
+218:COR:||(boolean,boolean):!=(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesKey:261:(series >= getSeriesCount()) || (series < 0) |==> (series >= getSeriesCount()) != (series < 0)
+219:COR:||(boolean,boolean):LHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesKey:261:(series >= getSeriesCount()) || (series < 0) |==> (series >= getSeriesCount())
+220:COR:||(boolean,boolean):RHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesKey:261:(series >= getSeriesCount()) || (series < 0) |==> (series < 0)
+221:COR:||(boolean,boolean):TRUE(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesKey:261:(series >= getSeriesCount()) || (series < 0) |==> true
+222:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesKey:262:"No such series : " |==> null
+223:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getSeriesKey:264:this.seriesKeys[series] |==> null
+224:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@setSeriesKeys:277:seriesKeys == null |==> false
+225:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@setSeriesKeys:278:"Null \'seriesKeys\' argument." |==> null
+226:ROR:!=(int,int):<(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setSeriesKeys:280:seriesKeys.length != getSeriesCount() |==> seriesKeys.length < getSeriesCount()
+227:ROR:!=(int,int):>(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setSeriesKeys:280:seriesKeys.length != getSeriesCount() |==> seriesKeys.length > getSeriesCount()
+228:ROR:!=(int,int):TRUE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setSeriesKeys:280:seriesKeys.length != getSeriesCount() |==> true
+229:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@setSeriesKeys:282:"The number of series keys does not match the data." |==> null
+230:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@setSeriesKeys:284:this.seriesKeys = seriesKeys |==> <NO-OP>
+231:STD:<CALL>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@setSeriesKeys:285:fireDatasetChanged() |==> <NO-OP>
+232:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryCount:296:0 |==> 1
+233:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryCount:296:0 |==> -1
+234:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryCount:297:this.startData != null |==> true
+235:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryCount:298:0 |==> 1
+236:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryCount:298:0 |==> -1
+237:ROR:>(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryCount:298:getSeriesCount() > 0 |==> getSeriesCount() != 0
+238:ROR:>(int,int):>=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryCount:298:getSeriesCount() > 0 |==> getSeriesCount() >= 0
+239:ROR:>(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryCount:298:getSeriesCount() > 0 |==> false
+240:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryCount:299:0 |==> 1
+241:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryCount:299:0 |==> -1
+242:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryCount:299:result = this.startData[0].length |==> <NO-OP>
+243:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryCount:302:result |==> 0
+244:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@getColumnKeys:316:this.categoryKeys == null |==> false
+245:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getColumnKeys:317:new ArrayList() |==> null
+246:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getColumnKeys:320:Collections.unmodifiableList(Arrays.asList(this.categoryKeys)) |==> null
+247:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:335:categoryKeys == null |==> false
+248:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:336:"Null \'categoryKeys\' argument." |==> null
+249:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:338:0 |==> 1
+250:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:338:0 |==> -1
+251:ROR:!=(int,int):<(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:338:categoryKeys.length != this.startData[0].length |==> categoryKeys.length < this.startData[0].length
+252:ROR:!=(int,int):>(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:338:categoryKeys.length != this.startData[0].length |==> categoryKeys.length > this.startData[0].length
+253:ROR:!=(int,int):TRUE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:338:categoryKeys.length != this.startData[0].length |==> true
+254:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:340:"The number of categories does not match the data." |==> null
+255:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:342:0 |==> 1
+256:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:342:0 |==> -1
+257:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:342:i < categoryKeys.length |==> i != categoryKeys.length
+258:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:342:i < categoryKeys.length |==> i <= categoryKeys.length
+259:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:342:i < categoryKeys.length |==> false
+260:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:343:categoryKeys[i] == null |==> false
+261:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:346:"DefaultIntervalCategoryDataset.setCategoryKeys(): null category not permitted." |==> null
+262:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:349:this.categoryKeys = categoryKeys |==> <NO-OP>
+263:STD:<CALL>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@setCategoryKeys:350:fireDatasetChanged() |==> <NO-OP>
+264:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:367:getSeriesIndex(series) |==> 0
+265:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:368:0 |==> 1
+266:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:368:0 |==> -1
+267:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:368:seriesIndex < 0 |==> seriesIndex != 0
+268:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:368:seriesIndex < 0 |==> seriesIndex <= 0
+269:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:368:seriesIndex < 0 |==> false
+270:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:369:"Unknown \'series\' key." |==> null
+271:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:371:getColumnIndex(category) |==> 0
+272:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:372:0 |==> 1
+273:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:372:0 |==> -1
+274:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:372:itemIndex < 0 |==> itemIndex != 0
+275:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:372:itemIndex < 0 |==> itemIndex <= 0
+276:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:372:itemIndex < 0 |==> false
+277:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:373:"Unknown \'category\' key." |==> null
+278:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:375:getValue(seriesIndex, itemIndex) |==> null
+279:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getValue:392:getEndValue(series, category) |==> null
+280:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:407:getSeriesIndex(series) |==> 0
+281:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:408:0 |==> 1
+282:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:408:0 |==> -1
+283:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:408:seriesIndex < 0 |==> seriesIndex != 0
+284:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:408:seriesIndex < 0 |==> seriesIndex <= 0
+285:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:408:seriesIndex < 0 |==> false
+286:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:409:"Unknown \'series\' key." |==> null
+287:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:411:getColumnIndex(category) |==> 0
+288:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:412:0 |==> 1
+289:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:412:0 |==> -1
+290:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:412:itemIndex < 0 |==> itemIndex != 0
+291:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:412:itemIndex < 0 |==> itemIndex <= 0
+292:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:412:itemIndex < 0 |==> false
+293:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:413:"Unknown \'category\' key." |==> null
+294:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:415:getStartValue(seriesIndex, itemIndex) |==> null
+295:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:432:0 |==> 1
+296:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:432:0 |==> -1
+297:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:432:series < 0 |==> series != 0
+298:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:432:series < 0 |==> series <= 0
+299:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:432:series < 0 |==> false
+300:ROR:>=(int,int):==(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:432:series >= getSeriesCount() |==> series == getSeriesCount()
+301:ROR:>=(int,int):>(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:432:series >= getSeriesCount() |==> series > getSeriesCount()
+302:ROR:>=(int,int):TRUE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:432:series >= getSeriesCount() |==> true
+303:COR:||(boolean,boolean):!=(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:432:(series < 0) || (series >= getSeriesCount()) |==> (series < 0) != (series >= getSeriesCount())
+304:COR:||(boolean,boolean):LHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:432:(series < 0) || (series >= getSeriesCount()) |==> (series < 0)
+305:COR:||(boolean,boolean):RHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:432:(series < 0) || (series >= getSeriesCount()) |==> (series >= getSeriesCount())
+306:COR:||(boolean,boolean):TRUE(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:432:(series < 0) || (series >= getSeriesCount()) |==> true
+307:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:435:"DefaultIntervalCategoryDataset.getValue(): series index out of range." |==> null
+308:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:438:0 |==> 1
+309:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:438:0 |==> -1
+310:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:438:category < 0 |==> category != 0
+311:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:438:category < 0 |==> category <= 0
+312:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:438:category < 0 |==> false
+313:ROR:>=(int,int):==(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:438:category >= getCategoryCount() |==> category == getCategoryCount()
+314:ROR:>=(int,int):>(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:438:category >= getCategoryCount() |==> category > getCategoryCount()
+315:ROR:>=(int,int):TRUE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:438:category >= getCategoryCount() |==> true
+316:COR:||(boolean,boolean):!=(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:438:(category < 0) || (category >= getCategoryCount()) |==> (category < 0) != (category >= getCategoryCount())
+317:COR:||(boolean,boolean):LHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:438:(category < 0) || (category >= getCategoryCount()) |==> (category < 0)
+318:COR:||(boolean,boolean):RHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:438:(category < 0) || (category >= getCategoryCount()) |==> (category >= getCategoryCount())
+319:COR:||(boolean,boolean):TRUE(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:438:(category < 0) || (category >= getCategoryCount()) |==> true
+320:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:441:"DefaultIntervalCategoryDataset.getValue(): category index out of range." |==> null
+321:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getStartValue:445:this.startData[series][category] |==> null
+322:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:460:getSeriesIndex(series) |==> 0
+323:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:461:0 |==> 1
+324:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:461:0 |==> -1
+325:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:461:seriesIndex < 0 |==> seriesIndex != 0
+326:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:461:seriesIndex < 0 |==> seriesIndex <= 0
+327:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:461:seriesIndex < 0 |==> false
+328:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:462:"Unknown \'series\' key." |==> null
+329:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:464:getColumnIndex(category) |==> 0
+330:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:465:0 |==> 1
+331:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:465:0 |==> -1
+332:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:465:itemIndex < 0 |==> itemIndex != 0
+333:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:465:itemIndex < 0 |==> itemIndex <= 0
+334:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:465:itemIndex < 0 |==> false
+335:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:466:"Unknown \'category\' key." |==> null
+336:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:468:getEndValue(seriesIndex, itemIndex) |==> null
+337:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:482:0 |==> 1
+338:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:482:0 |==> -1
+339:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:482:series < 0 |==> series != 0
+340:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:482:series < 0 |==> series <= 0
+341:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:482:series < 0 |==> false
+342:ROR:>=(int,int):==(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:482:series >= getSeriesCount() |==> series == getSeriesCount()
+343:ROR:>=(int,int):>(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:482:series >= getSeriesCount() |==> series > getSeriesCount()
+344:ROR:>=(int,int):TRUE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:482:series >= getSeriesCount() |==> true
+345:COR:||(boolean,boolean):!=(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:482:(series < 0) || (series >= getSeriesCount()) |==> (series < 0) != (series >= getSeriesCount())
+346:COR:||(boolean,boolean):LHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:482:(series < 0) || (series >= getSeriesCount()) |==> (series < 0)
+347:COR:||(boolean,boolean):RHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:482:(series < 0) || (series >= getSeriesCount()) |==> (series >= getSeriesCount())
+348:COR:||(boolean,boolean):TRUE(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:482:(series < 0) || (series >= getSeriesCount()) |==> true
+349:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:485:"DefaultIntervalCategoryDataset.getValue(): series index out of range." |==> null
+350:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:488:0 |==> 1
+351:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:488:0 |==> -1
+352:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:488:category < 0 |==> category != 0
+353:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:488:category < 0 |==> category <= 0
+354:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:488:category < 0 |==> false
+355:ROR:>=(int,int):==(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:488:category >= getCategoryCount() |==> category == getCategoryCount()
+356:ROR:>=(int,int):>(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:488:category >= getCategoryCount() |==> category > getCategoryCount()
+357:ROR:>=(int,int):TRUE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:488:category >= getCategoryCount() |==> true
+358:COR:||(boolean,boolean):!=(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:488:(category < 0) || (category >= getCategoryCount()) |==> (category < 0) != (category >= getCategoryCount())
+359:COR:||(boolean,boolean):LHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:488:(category < 0) || (category >= getCategoryCount()) |==> (category < 0)
+360:COR:||(boolean,boolean):RHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:488:(category < 0) || (category >= getCategoryCount()) |==> (category >= getCategoryCount())
+361:COR:||(boolean,boolean):TRUE(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:488:(category < 0) || (category >= getCategoryCount()) |==> true
+362:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:491:"DefaultIntervalCategoryDataset.getValue(): category index out of range." |==> null
+363:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getEndValue:494:this.endData[series][category] |==> null
+364:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:0 |==> 1
+365:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:0 |==> -1
+366:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:series < 0 |==> series != 0
+367:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:series < 0 |==> series <= 0
+368:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:series < 0 |==> false
+369:LVR:POS:0:org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:1 |==> 0
+370:LVR:POS:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:1 |==> -1
+371:AOR:-(int,int):%(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:getSeriesCount() - 1 |==> getSeriesCount() % 1
+372:AOR:-(int,int):*(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:getSeriesCount() - 1 |==> getSeriesCount() * 1
+373:AOR:-(int,int):+(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:getSeriesCount() - 1 |==> getSeriesCount() + 1
+374:AOR:-(int,int):/(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:getSeriesCount() - 1 |==> getSeriesCount() / 1
+375:ROR:>(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:series > getSeriesCount() - 1 |==> series != getSeriesCount() - 1
+376:ROR:>(int,int):>=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:series > getSeriesCount() - 1 |==> series >= getSeriesCount() - 1
+377:ROR:>(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:series > getSeriesCount() - 1 |==> false
+378:COR:||(boolean,boolean):!=(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:(series < 0) || (series > getSeriesCount() - 1) |==> (series < 0) != (series > getSeriesCount() - 1)
+379:COR:||(boolean,boolean):LHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:(series < 0) || (series > getSeriesCount() - 1) |==> (series < 0)
+380:COR:||(boolean,boolean):RHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:(series < 0) || (series > getSeriesCount() - 1) |==> (series > getSeriesCount() - 1)
+381:COR:||(boolean,boolean):TRUE(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:510:(series < 0) || (series > getSeriesCount() - 1) |==> true
+382:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:513:"DefaultIntervalCategoryDataset.setValue: series outside valid range." |==> null
+383:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:517:getCategoryIndex(category) |==> 0
+384:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:518:0 |==> 1
+385:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:518:0 |==> -1
+386:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:518:categoryIndex < 0 |==> categoryIndex != 0
+387:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:518:categoryIndex < 0 |==> categoryIndex <= 0
+388:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:518:categoryIndex < 0 |==> false
+389:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:521:"DefaultIntervalCategoryDataset.setValue: unrecognised category." |==> null
+390:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:525:this.startData[series][categoryIndex] = value |==> <NO-OP>
+391:STD:<CALL>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@setStartValue:526:fireDatasetChanged() |==> <NO-OP>
+392:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:0 |==> 1
+393:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:0 |==> -1
+394:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:series < 0 |==> series != 0
+395:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:series < 0 |==> series <= 0
+396:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:series < 0 |==> false
+397:LVR:POS:0:org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:1 |==> 0
+398:LVR:POS:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:1 |==> -1
+399:AOR:-(int,int):%(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:getSeriesCount() - 1 |==> getSeriesCount() % 1
+400:AOR:-(int,int):*(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:getSeriesCount() - 1 |==> getSeriesCount() * 1
+401:AOR:-(int,int):+(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:getSeriesCount() - 1 |==> getSeriesCount() + 1
+402:AOR:-(int,int):/(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:getSeriesCount() - 1 |==> getSeriesCount() / 1
+403:ROR:>(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:series > getSeriesCount() - 1 |==> series != getSeriesCount() - 1
+404:ROR:>(int,int):>=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:series > getSeriesCount() - 1 |==> series >= getSeriesCount() - 1
+405:ROR:>(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:series > getSeriesCount() - 1 |==> false
+406:COR:||(boolean,boolean):!=(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:(series < 0) || (series > getSeriesCount() - 1) |==> (series < 0) != (series > getSeriesCount() - 1)
+407:COR:||(boolean,boolean):LHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:(series < 0) || (series > getSeriesCount() - 1) |==> (series < 0)
+408:COR:||(boolean,boolean):RHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:(series < 0) || (series > getSeriesCount() - 1) |==> (series > getSeriesCount() - 1)
+409:COR:||(boolean,boolean):TRUE(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:543:(series < 0) || (series > getSeriesCount() - 1) |==> true
+410:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:546:"DefaultIntervalCategoryDataset.setValue: series outside valid range." |==> null
+411:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:550:getCategoryIndex(category) |==> 0
+412:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:551:0 |==> 1
+413:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:551:0 |==> -1
+414:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:551:categoryIndex < 0 |==> categoryIndex != 0
+415:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:551:categoryIndex < 0 |==> categoryIndex <= 0
+416:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:551:categoryIndex < 0 |==> false
+417:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:554:"DefaultIntervalCategoryDataset.setValue: unrecognised category." |==> null
+418:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:558:this.endData[series][categoryIndex] = value |==> <NO-OP>
+419:STD:<CALL>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@setEndValue:559:fireDatasetChanged() |==> <NO-OP>
+420:LVR:NEG:0:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryIndex:573:-1 |==> 0
+421:LVR:NEG:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryIndex:573:-1 |==> 1
+422:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryIndex:574:0 |==> 1
+423:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryIndex:574:0 |==> -1
+424:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryIndex:574:i < this.categoryKeys.length |==> i != this.categoryKeys.length
+425:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryIndex:574:i < this.categoryKeys.length |==> i <= this.categoryKeys.length
+426:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryIndex:574:i < this.categoryKeys.length |==> false
+427:COR:category.equals(this.categoryKeys[i]):TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryIndex:575:category.equals(this.categoryKeys[i]) |==> false
+428:COR:category.equals(this.categoryKeys[i]):FALSE:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryIndex:575:category.equals(this.categoryKeys[i]) |==> true
+429:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryIndex:576:result = i |==> <NO-OP>
+430:STD:<CALL>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryIndex:577:break; |==> <NO-OP>
+431:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getCategoryIndex:580:result |==> 0
+432:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@generateKeys:593:new Comparable[count] |==> null
+433:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@generateKeys:595:0 |==> 1
+434:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@generateKeys:595:0 |==> -1
+435:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@generateKeys:595:i < count |==> i != count
+436:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@generateKeys:595:i < count |==> i <= count
+437:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@generateKeys:595:i < count |==> false
+438:LVR:POS:0:org.jfree.data.category.DefaultIntervalCategoryDataset@generateKeys:596:1 |==> 0
+439:LVR:POS:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@generateKeys:596:1 |==> -1
+440:AOR:+(int,int):%(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@generateKeys:596:i + 1 |==> i % 1
+441:AOR:+(int,int):*(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@generateKeys:596:i + 1 |==> i * 1
+442:AOR:+(int,int):-(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@generateKeys:596:i + 1 |==> i - 1
+443:AOR:+(int,int):/(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@generateKeys:596:i + 1 |==> i / 1
+444:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@generateKeys:597:result[i] = name |==> <NO-OP>
+445:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@generateKeys:599:result |==> null
+446:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getColumnKey:612:this.categoryKeys[column] |==> null
+447:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@getColumnIndex:625:columnKey == null |==> false
+448:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@getColumnIndex:626:"Null \'columnKey\' argument." |==> null
+449:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getColumnIndex:628:getCategoryIndex(columnKey) |==> 0
+450:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getRowIndex:641:getSeriesIndex(rowKey) |==> 0
+451:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKeys:655:this.seriesKeys == null |==> false
+452:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKeys:656:new java.util.ArrayList() |==> null
+453:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKeys:659:Collections.unmodifiableList(Arrays.asList(this.seriesKeys)) |==> null
+454:ROR:>=(int,int):==(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKey:673:row >= getRowCount() |==> row == getRowCount()
+455:ROR:>=(int,int):>(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKey:673:row >= getRowCount() |==> row > getRowCount()
+456:ROR:>=(int,int):TRUE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKey:673:row >= getRowCount() |==> true
+457:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKey:673:0 |==> 1
+458:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKey:673:0 |==> -1
+459:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKey:673:row < 0 |==> row != 0
+460:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKey:673:row < 0 |==> row <= 0
+461:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKey:673:row < 0 |==> false
+462:COR:||(boolean,boolean):!=(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKey:673:(row >= getRowCount()) || (row < 0) |==> (row >= getRowCount()) != (row < 0)
+463:COR:||(boolean,boolean):LHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKey:673:(row >= getRowCount()) || (row < 0) |==> (row >= getRowCount())
+464:COR:||(boolean,boolean):RHS(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKey:673:(row >= getRowCount()) || (row < 0) |==> (row < 0)
+465:COR:||(boolean,boolean):TRUE(boolean,boolean):org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKey:673:(row >= getRowCount()) || (row < 0) |==> true
+466:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKey:675:"The \'row\' argument is out of bounds." |==> null
+467:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getRowKey:677:this.seriesKeys[row] |==> null
+468:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getColumnCount:690:this.categoryKeys.length |==> 0
+469:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@getRowCount:702:this.seriesKeys.length |==> 0
+470:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@equals:713:obj == this |==> false
+471:LVR:TRUE:FALSE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:714:true |==> false
+472:LVR:FALSE:TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:717:false |==> true
+473:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:720:(DefaultIntervalCategoryDataset)obj |==> null
+474:COR:Arrays.equals(this.seriesKeys, that.seriesKeys):TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:721:Arrays.equals(this.seriesKeys, that.seriesKeys) |==> false
+475:COR:Arrays.equals(this.seriesKeys, that.seriesKeys):FALSE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:721:Arrays.equals(this.seriesKeys, that.seriesKeys) |==> true
+476:LVR:FALSE:TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:722:false |==> true
+477:COR:Arrays.equals(this.categoryKeys, that.categoryKeys):TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:724:Arrays.equals(this.categoryKeys, that.categoryKeys) |==> false
+478:COR:Arrays.equals(this.categoryKeys, that.categoryKeys):FALSE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:724:Arrays.equals(this.categoryKeys, that.categoryKeys) |==> true
+479:LVR:FALSE:TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:725:false |==> true
+480:COR:equal(this.startData, that.startData):TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:727:equal(this.startData, that.startData) |==> false
+481:COR:equal(this.startData, that.startData):FALSE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:727:equal(this.startData, that.startData) |==> true
+482:LVR:FALSE:TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:728:false |==> true
+483:COR:equal(this.endData, that.endData):TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:730:equal(this.endData, that.endData) |==> false
+484:COR:equal(this.endData, that.endData):FALSE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:730:equal(this.endData, that.endData) |==> true
+485:LVR:FALSE:TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:731:false |==> true
+486:LVR:TRUE:FALSE:org.jfree.data.category.DefaultIntervalCategoryDataset@equals:734:true |==> false
+487:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:747:(DefaultIntervalCategoryDataset)super.clone() |==> null
+488:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:748:clone.categoryKeys = (Comparable[])this.categoryKeys.clone() |==> <NO-OP>
+489:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:749:clone.seriesKeys = (Comparable[])this.seriesKeys.clone() |==> <NO-OP>
+490:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:750:clone.startData = clone(this.startData) |==> <NO-OP>
+491:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:751:clone.endData = clone(this.endData) |==> <NO-OP>
+492:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:752:clone |==> null
+493:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@equal:764:array1 == null |==> false
+494:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@equal:765:array2 == null |==> false
+495:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@equal:767:array2 == null |==> false
+496:LVR:FALSE:TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@equal:768:false |==> true
+497:ROR:!=(int,int):<(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@equal:770:array1.length != array2.length |==> array1.length < array2.length
+498:ROR:!=(int,int):>(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@equal:770:array1.length != array2.length |==> array1.length > array2.length
+499:ROR:!=(int,int):TRUE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@equal:770:array1.length != array2.length |==> true
+500:LVR:FALSE:TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@equal:771:false |==> true
+501:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@equal:773:0 |==> 1
+502:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@equal:773:0 |==> -1
+503:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@equal:773:i < array1.length |==> i != array1.length
+504:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@equal:773:i < array1.length |==> i <= array1.length
+505:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@equal:773:i < array1.length |==> false
+506:COR:Arrays.equals(array1[i], array2[i]):TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@equal:774:Arrays.equals(array1[i], array2[i]) |==> false
+507:COR:Arrays.equals(array1[i], array2[i]):FALSE:org.jfree.data.category.DefaultIntervalCategoryDataset@equal:774:Arrays.equals(array1[i], array2[i]) |==> true
+508:LVR:FALSE:TRUE:org.jfree.data.category.DefaultIntervalCategoryDataset@equal:775:false |==> true
+509:LVR:TRUE:FALSE:org.jfree.data.category.DefaultIntervalCategoryDataset@equal:778:true |==> false
+510:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.data.category.DefaultIntervalCategoryDataset@clone:789:array == null |==> false
+511:LVR:<CLASS>:<NULL>:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:790:"Null \'array\' argument." |==> null
+512:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:792:new Number[array.length][] |==> null
+513:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:793:0 |==> 1
+514:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:793:0 |==> -1
+515:ROR:<(int,int):!=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@clone:793:i < array.length |==> i != array.length
+516:ROR:<(int,int):<=(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@clone:793:i < array.length |==> i <= array.length
+517:ROR:<(int,int):FALSE(int,int):org.jfree.data.category.DefaultIntervalCategoryDataset@clone:793:i < array.length |==> false
+518:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:794:array[i] |==> null
+519:STD:ASSIGN:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:795:new Number[child.length] |==> null
+520:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:796:0 |==> 1
+521:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:796:0 |==> -1
+522:LVR:0:POS:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:796:0 |==> 1
+523:LVR:0:NEG:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:796:0 |==> -1
+524:STD:<CALL>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:796:System.arraycopy(child, 0, copychild, 0, child.length) |==> <NO-OP>
+525:STD:<ASSIGN>:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:797:result[i] = copychild |==> <NO-OP>
+526:STD:CALL:<NO-OP>:org.jfree.data.category.DefaultIntervalCategoryDataset@clone:799:result |==> null
+527:STD:ASSIGN:<NO-OP>:org.jfree.data.general.AbstractSeriesDataset:59:-6074996219705033171L |==> 0L
+528:STD:ASSIGN:<NO-OP>:org.jfree.data.general.AbstractSeriesDataset@indexOf:97:getSeriesCount() |==> 0
+529:LVR:0:POS:org.jfree.data.general.AbstractSeriesDataset@indexOf:98:0 |==> 1
+530:LVR:0:NEG:org.jfree.data.general.AbstractSeriesDataset@indexOf:98:0 |==> -1
+531:ROR:<(int,int):!=(int,int):org.jfree.data.general.AbstractSeriesDataset@indexOf:98:s < seriesCount |==> s != seriesCount
+532:ROR:<(int,int):<=(int,int):org.jfree.data.general.AbstractSeriesDataset@indexOf:98:s < seriesCount |==> s <= seriesCount
+533:ROR:<(int,int):FALSE(int,int):org.jfree.data.general.AbstractSeriesDataset@indexOf:98:s < seriesCount |==> false
+534:COR:getSeriesKey(s).equals(seriesKey):TRUE:org.jfree.data.general.AbstractSeriesDataset@indexOf:99:getSeriesKey(s).equals(seriesKey) |==> false
+535:COR:getSeriesKey(s).equals(seriesKey):FALSE:org.jfree.data.general.AbstractSeriesDataset@indexOf:99:getSeriesKey(s).equals(seriesKey) |==> true
+536:STD:CALL:<NO-OP>:org.jfree.data.general.AbstractSeriesDataset@indexOf:100:s |==> 0
+537:LVR:NEG:0:org.jfree.data.general.AbstractSeriesDataset@indexOf:103:-1 |==> 0
+538:LVR:NEG:POS:org.jfree.data.general.AbstractSeriesDataset@indexOf:103:-1 |==> 1
+539:STD:<CALL>:<NO-OP>:org.jfree.data.general.AbstractSeriesDataset@seriesChanged:112:fireDatasetChanged() |==> <NO-OP>
+540:STD:CALL:<NO-OP>:org.jfree.data.resources.DataPackageResources@getContents:58:CONTENTS |==> null
+541:LVR:<CLASS>:<NULL>:org.jfree.data.resources.DataPackageResources:64:"series.default-prefix" |==> null
+542:LVR:<CLASS>:<NULL>:org.jfree.data.resources.DataPackageResources:64:"Series" |==> null
+543:LVR:<CLASS>:<NULL>:org.jfree.data.resources.DataPackageResources:65:"categories.default-prefix" |==> null
+544:LVR:<CLASS>:<NULL>:org.jfree.data.resources.DataPackageResources:65:"Category" |==> null

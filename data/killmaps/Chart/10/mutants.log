@@ -1,0 +1,92 @@
+1:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@writeImageMap:79:ImageMapUtilities.writeImageMap(writer, name, info, new StandardToolTipTagFragmentGenerator(), new StandardURLTagFragmentGenerator()) |==> <NO-OP>
+2:COR:useOverLibForToolTips:TRUE:org.jfree.chart.imagemap.ImageMapUtilities@writeImageMap:103:useOverLibForToolTips |==> false
+3:COR:useOverLibForToolTips:FALSE:org.jfree.chart.imagemap.ImageMapUtilities@writeImageMap:103:useOverLibForToolTips |==> true
+4:STD:<ASSIGN>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@writeImageMap:104:toolTipTagFragmentGenerator = new OverLIBToolTipTagFragmentGenerator() |==> <NO-OP>
+5:STD:<ASSIGN>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@writeImageMap:108:toolTipTagFragmentGenerator = new StandardToolTipTagFragmentGenerator() |==> <NO-OP>
+6:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@writeImageMap:111:ImageMapUtilities.writeImageMap(writer, name, info, toolTipTagFragmentGenerator, new StandardURLTagFragmentGenerator()) |==> <NO-OP>
+7:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@writeImageMap:138:writer.println(ImageMapUtilities.getImageMap(name, info, toolTipTagFragmentGenerator, urlTagFragmentGenerator)) |==> <NO-OP>
+8:STD:CALL:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:152:ImageMapUtilities.getImageMap(name, info, new StandardToolTipTagFragmentGenerator(), new StandardURLTagFragmentGenerator()) |==> null
+9:STD:ASSIGN:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:176:new StringBuffer() |==> null
+10:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:177:"<map id=\"" |==> null
+11:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:177:"\" name=\"" |==> null
+12:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:178:"\">" |==> null
+13:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:177:sb.append("<map id=\"" + htmlEscape(name) + "\" name=\"" + htmlEscape(name) + "\">") |==> <NO-OP>
+14:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:179:sb.append(StringUtilities.getLineSeparator()) |==> <NO-OP>
+15:STD:ASSIGN:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:180:info.getEntityCollection() |==> null
+16:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:181:entities != null |==> true
+17:STD:ASSIGN:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:182:entities.getEntityCount() |==> 0
+18:LVR:POS:0:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:183:1 |==> 0
+19:LVR:POS:NEG:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:183:1 |==> -1
+20:AOR:-(int,int):%(int,int):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:183:count - 1 |==> count % 1
+21:AOR:-(int,int):*(int,int):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:183:count - 1 |==> count * 1
+22:AOR:-(int,int):+(int,int):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:183:count - 1 |==> count + 1
+23:AOR:-(int,int):/(int,int):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:183:count - 1 |==> count / 1
+24:LVR:0:POS:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:183:0 |==> 1
+25:LVR:0:NEG:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:183:0 |==> -1
+26:ROR:>=(int,int):==(int,int):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:183:i >= 0 |==> i == 0
+27:ROR:>=(int,int):>(int,int):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:183:i >= 0 |==> i > 0
+28:ROR:>=(int,int):TRUE(int,int):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:183:i >= 0 |==> true
+29:STD:ASSIGN:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:184:entities.getEntity(i) |==> null
+30:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:185:entity.getToolTipText() != null |==> true
+31:ROR:!=(java.lang.Object,java.lang.Object):TRUE(java.lang.Object,java.lang.Object):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:186:entity.getURLText() != null |==> true
+32:COR:||(boolean,boolean):!=(boolean,boolean):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:185:entity.getToolTipText() != null || entity.getURLText() != null |==> entity.getToolTipText() != null != (entity.getURLText() != null)
+33:COR:||(boolean,boolean):LHS(boolean,boolean):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:185:entity.getToolTipText() != null || entity.getURLText() != null |==> entity.getToolTipText() != null
+34:COR:||(boolean,boolean):RHS(boolean,boolean):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:186:entity.getToolTipText() != null || entity.getURLText() != null |==> entity.getURLText() != null
+35:COR:||(boolean,boolean):TRUE(boolean,boolean):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:186:entity.getToolTipText() != null || entity.getURLText() != null |==> true
+36:STD:ASSIGN:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:187:entity.getImageMapAreaTag(toolTipTagFragmentGenerator, urlTagFragmentGenerator) |==> null
+37:LVR:0:POS:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:190:0 |==> 1
+38:LVR:0:NEG:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:190:0 |==> -1
+39:ROR:>(int,int):!=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:190:area.length() > 0 |==> area.length() != 0
+40:ROR:>(int,int):>=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:190:area.length() > 0 |==> area.length() >= 0
+41:ROR:>(int,int):FALSE(int,int):org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:190:area.length() > 0 |==> false
+42:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:191:sb.append(area) |==> <NO-OP>
+43:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:192:sb.append(StringUtilities.getLineSeparator()) |==> <NO-OP>
+44:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:197:"</map>" |==> null
+45:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:197:sb.append("</map>") |==> <NO-OP>
+46:STD:CALL:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@getImageMap:198:sb.toString() |==> null
+47:ROR:==(java.lang.Object,java.lang.Object):FALSE(java.lang.Object,java.lang.Object):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:213:input == null |==> false
+48:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:214:"Null \'input\' argument." |==> null
+49:STD:ASSIGN:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:216:new StringBuffer() |==> null
+50:STD:ASSIGN:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:217:input.length() |==> 0
+51:LVR:0:POS:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:218:0 |==> 1
+52:LVR:0:NEG:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:218:0 |==> -1
+53:ROR:<(int,int):!=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:218:i < length |==> i != length
+54:ROR:<(int,int):<=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:218:i < length |==> i <= length
+55:ROR:<(int,int):FALSE(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:218:i < length |==> false
+56:STD:ASSIGN:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:219:input.charAt(i) |==> 0
+57:ROR:==(int,int):<=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:220:c == '&' |==> c <= '&'
+58:ROR:==(int,int):>=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:220:c == '&' |==> c >= '&'
+59:ROR:==(int,int):FALSE(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:220:c == '&' |==> false
+60:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:221:"&amp;" |==> null
+61:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:221:result.append("&amp;") |==> <NO-OP>
+62:ROR:==(int,int):<=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:223:c == '\"' |==> c <= '\"'
+63:ROR:==(int,int):>=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:223:c == '\"' |==> c >= '\"'
+64:ROR:==(int,int):FALSE(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:223:c == '\"' |==> false
+65:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:224:"&quot;" |==> null
+66:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:224:result.append("&quot;") |==> <NO-OP>
+67:ROR:==(int,int):<=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:226:c == '<' |==> c <= '<'
+68:ROR:==(int,int):>=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:226:c == '<' |==> c >= '<'
+69:ROR:==(int,int):FALSE(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:226:c == '<' |==> false
+70:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:227:"&lt;" |==> null
+71:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:227:result.append("&lt;") |==> <NO-OP>
+72:ROR:==(int,int):<=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:229:c == '>' |==> c <= '>'
+73:ROR:==(int,int):>=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:229:c == '>' |==> c >= '>'
+74:ROR:==(int,int):FALSE(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:229:c == '>' |==> false
+75:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:230:"&gt;" |==> null
+76:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:230:result.append("&gt;") |==> <NO-OP>
+77:ROR:==(int,int):<=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:232:c == '\'' |==> c <= '\''
+78:ROR:==(int,int):>=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:232:c == '\'' |==> c >= '\''
+79:ROR:==(int,int):FALSE(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:232:c == '\'' |==> false
+80:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:233:"&#39;" |==> null
+81:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:233:result.append("&#39;") |==> <NO-OP>
+82:ROR:==(int,int):<=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:235:c == '\\' |==> c <= '\\'
+83:ROR:==(int,int):>=(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:235:c == '\\' |==> c >= '\\'
+84:ROR:==(int,int):FALSE(int,int):org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:235:c == '\\' |==> false
+85:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:236:"&#092;" |==> null
+86:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:236:result.append("&#092;") |==> <NO-OP>
+87:STD:<CALL>:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:239:result.append(c) |==> <NO-OP>
+88:STD:CALL:<NO-OP>:org.jfree.chart.imagemap.ImageMapUtilities@htmlEscape:242:result.toString() |==> null
+89:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.OverLIBToolTipTagFragmentGenerator@generateToolTipFragment:66:" onMouseOver=\"return overlib(\'" |==> null
+90:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.OverLIBToolTipTagFragmentGenerator@generateToolTipFragment:68:"\');\" onMouseOut=\"return nd();\"" |==> null
+91:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator@generateToolTipFragment:65:" title=\"" |==> null
+92:LVR:<CLASS>:<NULL>:org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator@generateToolTipFragment:66:"\" alt=\"\"" |==> null

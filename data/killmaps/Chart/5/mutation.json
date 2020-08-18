@@ -1,0 +1,4628 @@
+[
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "79",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "112",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "113",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "115",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "116",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "117",
+    "mkp": 125,
+    "mkf": 0,
+    "mnp": 166,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "118",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "119",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "119",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "130",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "142",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "143",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "145",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "146",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "147",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "147",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "158",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "170",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "171",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "172",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "172",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "185",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "197",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "197",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "197",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "198",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "199",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "212",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "212",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "212",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "212",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "212",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "241",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "242",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "243",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "244",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "256",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "257",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "260",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "262",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "263",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "263",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "264",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "266",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "266",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "267",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "269",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "279",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "281",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "281",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "280",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "282",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "295",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "305",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "313",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "313",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "314",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "326",
+    "mkp": 118,
+    "mkf": 0,
+    "mnp": 173,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "327",
+    "mkp": 118,
+    "mkf": 0,
+    "mnp": 173,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "327",
+    "mkp": 118,
+    "mkf": 0,
+    "mnp": 173,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "327",
+    "mkp": 114,
+    "mkf": 0,
+    "mnp": 177,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "327",
+    "mkp": 118,
+    "mkf": 0,
+    "mnp": 173,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "327",
+    "mkp": 118,
+    "mkf": 0,
+    "mnp": 173,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "327",
+    "mkp": 114,
+    "mkf": 0,
+    "mnp": 177,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "327",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "327",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "327",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "327",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "327",
+    "mkp": 118,
+    "mkf": 0,
+    "mnp": 173,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "327",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "327",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "328",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "329",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "329",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "329",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "329",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "329",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "329",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "329",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "342",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "351",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.Series",
+    "location": "363",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.SeriesChangeEvent",
+    "location": "53",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.general.SeriesException",
+    "location": "53",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "99",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "109",
+    "mkp": 62,
+    "mkf": 0,
+    "mnp": 229,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "125",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "125",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "137",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "154",
+    "mkp": 115,
+    "mkf": 0,
+    "mnp": 176,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "155",
+    "mkp": 3,
+    "mkf": 1,
+    "mnp": 288,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "156",
+    "mkp": 8,
+    "mkf": 0,
+    "mnp": 283,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "167",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "177",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "186",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "196",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "207",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "225",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "226",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "227",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "227",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "227",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "228",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "228",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "228",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "229",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "229",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "231",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "231",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "232",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "244",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "244",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "255",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "255",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "269",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "281",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "296",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "315",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "315",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "333",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "334",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "348",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "349",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "352",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "352",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "353",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "354",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "354",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "354",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "354",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "354",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "355",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "355",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "355",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "355",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "355",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "355",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "355",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "355",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "355",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "358",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "358",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "360",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "361",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "361",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "361",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "362",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "362",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "362",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "362",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "362",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "361",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "362",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "361",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "362",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "363",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "365",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "365",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "365",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "366",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "369",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "373",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "378",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "378",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "381",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "382",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "382",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "382",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "382",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "382",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "383",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "386",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "388",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "388",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "388",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "389",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "389",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "389",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "391",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "392",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "404",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "404",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "404",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "404",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "405",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "407",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "419",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "420",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "421",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "433",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "440",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "440",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "440",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "440",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "440",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "441",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "442",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "454",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "465",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "476",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "489",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "490",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "491",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "504",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "505",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "505",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "505",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "505",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "505",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "506",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "509",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "510",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "511",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "527",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 290,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "541",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "542",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "547",
+    "mkp": 2,
+    "mkf": 0,
+    "mnp": 289,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "548",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "548",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "548",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "548",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "548",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "548",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 290,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "548",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "548",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 290,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "548",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "549",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "551",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "554",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "556",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "563",
+    "mkp": 0,
+    "mkf": 1,
+    "mnp": 291,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "563",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "564",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 290,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "564",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 290,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "564",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 290,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "564",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 290,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "564",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 290,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "564",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 290,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "564",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 290,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "564",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 290,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "564",
+    "mkp": 1,
+    "mkf": 0,
+    "mnp": 290,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "567",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "570",
+    "mkp": 2,
+    "mkf": 0,
+    "mnp": 289,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "570",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "571",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "574",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "575",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "589",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "589",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "590",
+    "mkp": 5,
+    "mkf": 0,
+    "mnp": 286,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "593",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "593",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "593",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "593",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "593",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "594",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "595",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "595",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "596",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "599",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "599",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "611",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "612",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "612",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "613",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "613",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "613",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "613",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "613",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "614",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "614",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "614",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "615",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "616",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "617",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "617",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "617",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "620",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "620",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "620",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "623",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "634",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "635",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "636",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "652",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "653",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "654",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "654",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "654",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "654",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "654",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "655",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "655",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "655",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "655",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "656",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "657",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "659",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "662",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "662",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "666",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "679",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "680",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "683",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "685",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "685",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "686",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "688",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "689",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "689",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "689",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "690",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "692",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "692",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "692",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "693",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "695",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "695",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "695",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "696",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "698",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "698",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "699",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "701",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "710",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "713",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "714",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "714",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "714",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "714",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "714",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "715",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "715",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "716",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "716",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "716",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "716",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "716",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "716",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "716",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "716",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "716",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "716",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "716",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "718",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "718",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "718",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "718",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "718",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "719",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "719",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "719",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "719",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "719",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "719",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "720",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "720",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "720",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "720",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "720",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "720",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "720",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "720",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "720",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "720",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "720",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "722",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "722",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "722",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "722",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "722",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "723",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "723",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "723",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "723",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "723",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "723",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "724",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "724",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "724",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "724",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "724",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "724",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "724",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "724",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "724",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "724",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "724",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "726",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "726",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "726",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "726",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "726",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "726",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "726",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "726",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "726",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "726",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "726",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "727",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "728",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYSeries",
+    "location": "729",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "58",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "73",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "74",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "76",
+    "mkp": 101,
+    "mkf": 0,
+    "mnp": 190,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "77",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "96",
+    "mkp": 94,
+    "mkf": 0,
+    "mnp": 197,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "111",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "120",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "134",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "135",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "136",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "138",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "148",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "158",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "180",
+    "mkp": 83,
+    "mkf": 0,
+    "mnp": 208,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "181",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "181",
+    "mkp": 14,
+    "mkf": 0,
+    "mnp": 277,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "181",
+    "mkp": 15,
+    "mkf": 0,
+    "mnp": 276,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "181",
+    "mkp": 15,
+    "mkf": 0,
+    "mnp": 276,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "183",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "183",
+    "mkp": 10,
+    "mkf": 0,
+    "mnp": 281,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "183",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "183",
+    "mkp": 9,
+    "mkf": 0,
+    "mnp": 282,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "183",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "184",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "184",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "187",
+    "mkp": 7,
+    "mkf": 1,
+    "mnp": 284,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "187",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "187",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "187",
+    "mkp": 7,
+    "mkf": 1,
+    "mnp": 284,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "187",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "188",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "188",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "191",
+    "mkp": 8,
+    "mkf": 0,
+    "mnp": 283,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "191",
+    "mkp": 7,
+    "mkf": 1,
+    "mnp": 284,
+    "mnf": 0
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "200",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "200",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "203",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "216",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "228",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "229",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "232",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "234",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "235",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "235",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "236",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "238",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "238",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "239",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "241",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "251",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "252",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "253",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "263",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "263",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  },
+  {
+    "type": "LINE",
+    "name": "org.jfree.data.xy.XYDataItem",
+    "location": "263",
+    "mkp": 0,
+    "mkf": 0,
+    "mnp": 291,
+    "mnf": 1
+  }
+]
