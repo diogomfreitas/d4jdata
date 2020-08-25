@@ -10,8 +10,6 @@ def writeMutVariablesJSON(programDir, program, tSet):
 
     for ver in versions:
         MutVariablesList = mutants.mutationVariables.mutationVariables(programDir, program, ver)
-        # with open(programDir + program + '/pickle/' + program + '-' + str(ver), 'wb') as fp:
-        #     pickle.dump(itemlist, fp)
 
         # mutantsByLines contem os indices das versoes de cada vetor
         # codeLines contem o endereco da linha que sofreu a mutacao. Eh preciso replicar para as linhas que tem mais de um mutante
@@ -20,23 +18,39 @@ def writeMutVariablesJSON(programDir, program, tSet):
             for j in range(len(MutVariablesList.mutantsByLines[i])):
                 Codelines.append(MutVariablesList.codeLines[i])
 
-        data_from_xml = []
-        for i in range(MutVariablesList.mutants):
-            aux = {}
-            aux["type"] = "LINE"
-            SplitCodelines = Codelines[i].split("#")
-            aux["name"] = SplitCodelines[0]
-            aux["location"] = SplitCodelines[1]
-            aux["mkp"] = MutVariablesList.kp[i]
-            aux["mkf"] = MutVariablesList.kf[i]
-            aux["mnp"] = MutVariablesList.np[i]
-            aux["mnf"] = MutVariablesList.nf[i]
+        json_mutation_data = []
+        for i in range(MutVariablesList.lines):
+            json_aux = {}
+            json_aux["type"] = "MUTANT"
 
-            data_from_xml.append(aux)
-            # print (aux)
+            # SplitCodelines = Codelines[i].split("#")
+            # json_aux["name"] = SplitCodelines[0]
+            # json_aux["location"] = SplitCodelines[1]
+
+            SplitCodelines = MutVariablesList.codeLines[i].split("#")
+            json_aux["name"] = SplitCodelines[0]
+            json_aux["location"] = SplitCodelines[1]
+
+            for m in MutVariablesList.mutantsByLines[i]:
+                mutant_json = {}
+                mutant_json["Mutation Operator"] = MutVariablesList.mutationLog[m][1]
+                mutant_json["Original Operator Symbol"] = MutVariablesList.mutationLog[m][2]
+                mutant_json["Replacement Operator Symbol"] = MutVariablesList.mutationLog[m][3]
+                mutant_json["Fully Qualified Name"] = MutVariablesList.mutationLog[m][4]
+                mutant_json["Line Numer In Original Source File"] = MutVariablesList.mutationLog[m][5]
+                mutant_json["Applied Transformation"] = MutVariablesList.mutationLog[m][6]
+
+                mutant_json["mkp"] = MutVariablesList.kp[m]
+                mutant_json["mkf"] = MutVariablesList.kf[m]
+                mutant_json["mnp"] = MutVariablesList.np[m]
+                mutant_json["mnf"] = MutVariablesList.nf[m]
+                json_aux[MutVariablesList.mutationLog[m][0]] = mutant_json
+
+            json_mutation_data.append(json_aux)
+            # print (json_aux)
 
         with open(programDir + program + '/' + str(ver) + "/mutation.json", 'w') as file:
-            file.write(json.dumps(data_from_xml, indent=2))
+            file.write(json.dumps(json_mutation_data, indent=2))
 
     verFile.close()
 

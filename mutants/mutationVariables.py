@@ -10,7 +10,7 @@ import gc
 
 class mutationVariables:
     def __init__(self, programDir, program, ver):
-        self.codeLines, self.mutantsByLines = self.readMutantsByLines(programDir, program, ver)
+        self.codeLines, self.mutantsByLines, self.mutationLog= self.readMutantsByLines(programDir, program, ver)
         self.readMutMat(programDir, program, ver, self.codeLines)
 
         self.tests = len(self.pTests) + len(self.nTests)
@@ -23,26 +23,42 @@ class mutationVariables:
         self.np = self.NPs()
         self.nf = self.NFs()
 
+# Texto extraido do manual da ferramenta Major para definir cada campo dos arquivos mutants.log
+# The Major Mutation Framework - (Version 1.3.4 / November 10, 2018)
+# 3.2.1 Log file for generated mutants
+# Major’s compiler generates the log file mutants.log, which provides detailed information about the generated mutants and uses a colon (:) as separator. The log file contains one row per generated mutant, where each row in turn contains 7 columns with the following information:
+# 	1. Mutants’ unique number (id)
+# 	2. Name of the applied mutation operator
+# 	3. Original operator symbol
+# 	4. Replacement operator symbol
+# 	5. Fully qualified name of the mutated method
+# 	6. Line number in original source file
+# 	7. Visualization of the applied transformation (from |==> to)
+# The following example gives the log entry for a ROR mutation that has the mutant id 11 and is generated for the method classify (line number 18) of the class Triangle:
+# 11:ROR:<=(int,int):<(int,int):Triangle@classify:18:a <= 0 |==> a < 0
     def readMutantsByLines(self, programDir, program, ver):
 
         sf = open(programDir + program + '/' + str(ver) + '/mutants.log', 'r')
         mutantsLog = sf.read().split('\n')
         sf.close()
 
-        codeLines = list()
+        MutationLog = list()
+        mutatedCodeLines = list()
         mutantsByLines = list()
-        mutantID = 0
-        for mut in mutantsLog:
-            mut = mut.split(':')
-            if len(mut) >= 5:
-                mutLine = mut[4].split('@')[0]+'#'+mut[5]
-                if len(codeLines) == 0 or mutLine != codeLines[-1]:
-                    codeLines.append(mutLine)
-                    mutantsByLines.append(list())
-                mutantsByLines[-1].append(mutantID)
-                mutantID += 1
+        aux = 0
+        for logLine in mutantsLog:
+            logLine = logLine.split(':')
+            if len(logLine) >= 7:
+                MutationLog.append(logLine)
 
-        return codeLines, mutantsByLines
+                mutLine = logLine[4].split('@')[0]+'#'+logLine[5]
+                if len(mutatedCodeLines) == 0 or mutLine != mutatedCodeLines[-1]:
+                    mutatedCodeLines.append(mutLine)
+                    mutantsByLines.append(list())
+                mutantsByLines[-1].append(aux)
+                aux += 1
+
+        return mutatedCodeLines, mutantsByLines, MutationLog
 
 
     def readFaultyLines(self, programDir, program, ver, codeLines):
@@ -105,6 +121,15 @@ class mutationVariables:
 
         CovMat.clear()
         gc.collect()
+
+    # def KPs(self):
+    #     kp = list()
+    #     for mutants in self.mutantsByLines:  # agrupa as variaveis dos mutantes em sub lists conforme a linha mutada
+    #         aux = list()
+    #         for m in mutants:
+    #             aux.append(self.kpRuns(m))
+    #         kp.append(aux)
+    #     return kp
 
     def KPs(self):
         kp = list()
