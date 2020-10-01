@@ -4,6 +4,7 @@ import sys
 import os
 import mutants.mutationVariables
 
+
 def writeMutVariablesJSON(programDir, program, tSet):
     verFile = open(programDir + program + '/' + tSet, 'r')
     versions = verFile.read().rstrip('\n').split(' ')
@@ -18,10 +19,13 @@ def writeMutVariablesJSON(programDir, program, tSet):
             for j in range(len(MutVariablesList.mutantsByLines[i])):
                 Codelines.append(MutVariablesList.codeLines[i])
 
-        json_mutation_data = []
+        root = {
+            "version": program + "_" + ver + "b",
+            "type": "MUTANT",
+            "elements": []
+        }
         for i in range(MutVariablesList.lines):
             json_aux = {}
-            json_aux["type"] = "MUTANT"
 
             # SplitCodelines = Codelines[i].split("#")
             # json_aux["name"] = SplitCodelines[0]
@@ -37,7 +41,7 @@ def writeMutVariablesJSON(programDir, program, tSet):
                 mutant_json["Original Operator Symbol"] = MutVariablesList.mutationLog[m][2]
                 mutant_json["Replacement Operator Symbol"] = MutVariablesList.mutationLog[m][3]
                 mutant_json["Fully Qualified Name"] = MutVariablesList.mutationLog[m][4]
-                mutant_json["Line Numer In Original Source File"] = MutVariablesList.mutationLog[m][5]
+                mutant_json["Line Number In Original Source File"] = MutVariablesList.mutationLog[m][5]
                 mutant_json["Applied Transformation"] = MutVariablesList.mutationLog[m][6]
 
                 mutant_json["mkp"] = MutVariablesList.kp[m]
@@ -46,11 +50,11 @@ def writeMutVariablesJSON(programDir, program, tSet):
                 mutant_json["mnf"] = MutVariablesList.nf[m]
                 json_aux[MutVariablesList.mutationLog[m][0]] = mutant_json
 
-            json_mutation_data.append(json_aux)
+            root["elements"].append(json_aux)
             # print (json_aux)
 
         with open(programDir + program + '/' + str(ver) + "/mutation.json", 'w') as file:
-            file.write(json.dumps(json_mutation_data, indent=2))
+            file.write(json.dumps(root, indent=2))
 
     verFile.close()
 
