@@ -111,7 +111,7 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
-    # unzipKillmaps(args.dataDir, args.program, args.versions)
-    # run_outcomeMatrixToKillMatrix(args.error_partition_scheme, args.dataDir, args.program, args.versions)
+    unzipKillmaps(args.dataDir, args.program, args.versions)
+    run_outcomeMatrixToKillMatrix(args.error_partition_scheme, args.dataDir, args.program, args.versions)
 
     unzip_gzolgars(args.dataDir, args.program, args.versions)
