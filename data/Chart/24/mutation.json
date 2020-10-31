@@ -1,0 +1,662 @@
+{
+  "version": "Chart_24b",
+  "type": "MUTANT",
+  "elements": [
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "72",
+      "1": {
+        "Mutation Operator": "LVR",
+        "Original Operator Symbol": "0",
+        "Replacement Operator Symbol": "POS",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@<init>",
+        "Line Number In Original Source File": "72",
+        "Applied Transformation": "0.0 |==> 1.0",
+        "mkp": 8,
+        "mkf": 0,
+        "mnp": 6,
+        "mnf": 1
+      },
+      "2": {
+        "Mutation Operator": "LVR",
+        "Original Operator Symbol": "0",
+        "Replacement Operator Symbol": "NEG",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@<init>",
+        "Line Number In Original Source File": "72",
+        "Applied Transformation": "0.0 |==> -1.0",
+        "mkp": 1,
+        "mkf": 0,
+        "mnp": 13,
+        "mnf": 1
+      },
+      "3": {
+        "Mutation Operator": "LVR",
+        "Original Operator Symbol": "POS",
+        "Replacement Operator Symbol": "0",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@<init>",
+        "Line Number In Original Source File": "72",
+        "Applied Transformation": "1.0 |==> 0.0",
+        "mkp": 8,
+        "mkf": 0,
+        "mnp": 6,
+        "mnf": 1
+      },
+      "4": {
+        "Mutation Operator": "LVR",
+        "Original Operator Symbol": "POS",
+        "Replacement Operator Symbol": "NEG",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@<init>",
+        "Line Number In Original Source File": "72",
+        "Applied Transformation": "1.0 |==> -1.0",
+        "mkp": 8,
+        "mkf": 0,
+        "mnp": 6,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "85",
+      "5": {
+        "Mutation Operator": "ROR",
+        "Original Operator Symbol": ">=(double,double)",
+        "Replacement Operator Symbol": "==(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@<init>",
+        "Line Number In Original Source File": "85",
+        "Applied Transformation": "lowerBound >= upperBound |==> lowerBound == upperBound",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "6": {
+        "Mutation Operator": "ROR",
+        "Original Operator Symbol": ">=(double,double)",
+        "Replacement Operator Symbol": ">(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@<init>",
+        "Line Number In Original Source File": "85",
+        "Applied Transformation": "lowerBound >= upperBound |==> lowerBound > upperBound",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "7": {
+        "Mutation Operator": "ROR",
+        "Original Operator Symbol": ">=(double,double)",
+        "Replacement Operator Symbol": "TRUE(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@<init>",
+        "Line Number In Original Source File": "85",
+        "Applied Transformation": "lowerBound >= upperBound |==> true",
+        "mkp": 9,
+        "mkf": 0,
+        "mnp": 5,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "87",
+      "8": {
+        "Mutation Operator": "LVR",
+        "Original Operator Symbol": "<CLASS>",
+        "Replacement Operator Symbol": "<NULL>",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@<init>",
+        "Line Number In Original Source File": "87",
+        "Applied Transformation": "\"Requires lowerBound < upperBound.\" |==> null",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "89",
+      "9": {
+        "Mutation Operator": "STD",
+        "Original Operator Symbol": "<ASSIGN>",
+        "Replacement Operator Symbol": "<NO-OP>",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@<init>",
+        "Line Number In Original Source File": "89",
+        "Applied Transformation": "this.lowerBound = lowerBound |==> <NO-OP>",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "90",
+      "10": {
+        "Mutation Operator": "STD",
+        "Original Operator Symbol": "<ASSIGN>",
+        "Replacement Operator Symbol": "<NO-OP>",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@<init>",
+        "Line Number In Original Source File": "90",
+        "Applied Transformation": "this.upperBound = upperBound |==> <NO-OP>",
+        "mkp": 2,
+        "mkf": 0,
+        "mnp": 12,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "101",
+      "11": {
+        "Mutation Operator": "STD",
+        "Original Operator Symbol": "CALL",
+        "Replacement Operator Symbol": "<NO-OP>",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getLowerBound",
+        "Line Number In Original Source File": "101",
+        "Applied Transformation": "this.lowerBound |==> 0.0",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "112",
+      "12": {
+        "Mutation Operator": "STD",
+        "Original Operator Symbol": "CALL",
+        "Replacement Operator Symbol": "<NO-OP>",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getUpperBound",
+        "Line Number In Original Source File": "112",
+        "Applied Transformation": "this.upperBound |==> 0.0",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "124",
+      "13": {
+        "Mutation Operator": "STD",
+        "Original Operator Symbol": "ASSIGN",
+        "Replacement Operator Symbol": "<NO-OP>",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "124",
+        "Applied Transformation": "Math.max(value, this.lowerBound) |==> 0.0",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "125",
+      "14": {
+        "Mutation Operator": "STD",
+        "Original Operator Symbol": "<ASSIGN>",
+        "Replacement Operator Symbol": "<NO-OP>",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "125",
+        "Applied Transformation": "v = Math.min(v, this.upperBound) |==> <NO-OP>",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "126",
+      "15": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "-(double,double)",
+        "Replacement Operator Symbol": "%(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "value - this.lowerBound |==> value % this.lowerBound",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "16": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "-(double,double)",
+        "Replacement Operator Symbol": "*(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "value - this.lowerBound |==> value * this.lowerBound",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "17": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "-(double,double)",
+        "Replacement Operator Symbol": "+(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "value - this.lowerBound |==> value + this.lowerBound",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "18": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "-(double,double)",
+        "Replacement Operator Symbol": "/(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "value - this.lowerBound |==> value / this.lowerBound",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "19": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "-(double,double)",
+        "Replacement Operator Symbol": "%(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "this.upperBound - this.lowerBound |==> this.upperBound % this.lowerBound",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "20": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "-(double,double)",
+        "Replacement Operator Symbol": "*(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "this.upperBound - this.lowerBound |==> this.upperBound * this.lowerBound",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "21": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "-(double,double)",
+        "Replacement Operator Symbol": "+(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "this.upperBound - this.lowerBound |==> this.upperBound + this.lowerBound",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "22": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "-(double,double)",
+        "Replacement Operator Symbol": "/(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "this.upperBound - this.lowerBound |==> this.upperBound / this.lowerBound",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "23": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "/(double,double)",
+        "Replacement Operator Symbol": "%(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "(value - this.lowerBound) / (this.upperBound - this.lowerBound) |==> (value - this.lowerBound) % (this.upperBound - this.lowerBound)",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "24": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "/(double,double)",
+        "Replacement Operator Symbol": "*(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "(value - this.lowerBound) / (this.upperBound - this.lowerBound) |==> (value - this.lowerBound) * (this.upperBound - this.lowerBound)",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "25": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "/(double,double)",
+        "Replacement Operator Symbol": "+(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "(value - this.lowerBound) / (this.upperBound - this.lowerBound) |==> (value - this.lowerBound) + (this.upperBound - this.lowerBound)",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "26": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "/(double,double)",
+        "Replacement Operator Symbol": "-(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "(value - this.lowerBound) / (this.upperBound - this.lowerBound) |==> (value - this.lowerBound) - (this.upperBound - this.lowerBound)",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "127",
+      "27": {
+        "Mutation Operator": "LVR",
+        "Original Operator Symbol": "POS",
+        "Replacement Operator Symbol": "0",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "127",
+        "Applied Transformation": "255.0 |==> 0.0",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "28": {
+        "Mutation Operator": "LVR",
+        "Original Operator Symbol": "POS",
+        "Replacement Operator Symbol": "NEG",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "127",
+        "Applied Transformation": "255.0 |==> -255.0",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "126",
+      "29": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "*(double,double)",
+        "Replacement Operator Symbol": "%(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "(value - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0 |==> (value - this.lowerBound) / (this.upperBound - this.lowerBound) % 255.0",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "30": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "*(double,double)",
+        "Replacement Operator Symbol": "+(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "(value - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0 |==> (value - this.lowerBound) / (this.upperBound - this.lowerBound) + 255.0",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "31": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "*(double,double)",
+        "Replacement Operator Symbol": "-(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "(value - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0 |==> (value - this.lowerBound) / (this.upperBound - this.lowerBound) - 255.0",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "32": {
+        "Mutation Operator": "AOR",
+        "Original Operator Symbol": "*(double,double)",
+        "Replacement Operator Symbol": "/(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "126",
+        "Applied Transformation": "(value - this.lowerBound) / (this.upperBound - this.lowerBound) * 255.0 |==> (value - this.lowerBound) / (this.upperBound - this.lowerBound) / 255.0",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "128",
+      "33": {
+        "Mutation Operator": "STD",
+        "Original Operator Symbol": "CALL",
+        "Replacement Operator Symbol": "<NO-OP>",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@getPaint",
+        "Line Number In Original Source File": "128",
+        "Applied Transformation": "new Color(g, g, g) |==> null",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "145",
+      "34": {
+        "Mutation Operator": "ROR",
+        "Original Operator Symbol": "==(java.lang.Object,java.lang.Object)",
+        "Replacement Operator Symbol": "FALSE(java.lang.Object,java.lang.Object)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@equals",
+        "Line Number In Original Source File": "145",
+        "Applied Transformation": "obj == this |==> false",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "146",
+      "35": {
+        "Mutation Operator": "LVR",
+        "Original Operator Symbol": "TRUE",
+        "Replacement Operator Symbol": "FALSE",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@equals",
+        "Line Number In Original Source File": "146",
+        "Applied Transformation": "true |==> false",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "149",
+      "36": {
+        "Mutation Operator": "LVR",
+        "Original Operator Symbol": "FALSE",
+        "Replacement Operator Symbol": "TRUE",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@equals",
+        "Line Number In Original Source File": "149",
+        "Applied Transformation": "false |==> true",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "151",
+      "37": {
+        "Mutation Operator": "STD",
+        "Original Operator Symbol": "ASSIGN",
+        "Replacement Operator Symbol": "<NO-OP>",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@equals",
+        "Line Number In Original Source File": "151",
+        "Applied Transformation": "(GrayPaintScale)obj |==> null",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "152",
+      "38": {
+        "Mutation Operator": "ROR",
+        "Original Operator Symbol": "!=(double,double)",
+        "Replacement Operator Symbol": "<(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@equals",
+        "Line Number In Original Source File": "152",
+        "Applied Transformation": "this.lowerBound != that.lowerBound |==> this.lowerBound < that.lowerBound",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "39": {
+        "Mutation Operator": "ROR",
+        "Original Operator Symbol": "!=(double,double)",
+        "Replacement Operator Symbol": ">(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@equals",
+        "Line Number In Original Source File": "152",
+        "Applied Transformation": "this.lowerBound != that.lowerBound |==> this.lowerBound > that.lowerBound",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "40": {
+        "Mutation Operator": "ROR",
+        "Original Operator Symbol": "!=(double,double)",
+        "Replacement Operator Symbol": "TRUE(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@equals",
+        "Line Number In Original Source File": "152",
+        "Applied Transformation": "this.lowerBound != that.lowerBound |==> true",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "153",
+      "41": {
+        "Mutation Operator": "LVR",
+        "Original Operator Symbol": "FALSE",
+        "Replacement Operator Symbol": "TRUE",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@equals",
+        "Line Number In Original Source File": "153",
+        "Applied Transformation": "false |==> true",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "155",
+      "42": {
+        "Mutation Operator": "ROR",
+        "Original Operator Symbol": "!=(double,double)",
+        "Replacement Operator Symbol": "<(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@equals",
+        "Line Number In Original Source File": "155",
+        "Applied Transformation": "this.upperBound != that.upperBound |==> this.upperBound < that.upperBound",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "43": {
+        "Mutation Operator": "ROR",
+        "Original Operator Symbol": "!=(double,double)",
+        "Replacement Operator Symbol": ">(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@equals",
+        "Line Number In Original Source File": "155",
+        "Applied Transformation": "this.upperBound != that.upperBound |==> this.upperBound > that.upperBound",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      },
+      "44": {
+        "Mutation Operator": "ROR",
+        "Original Operator Symbol": "!=(double,double)",
+        "Replacement Operator Symbol": "TRUE(double,double)",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@equals",
+        "Line Number In Original Source File": "155",
+        "Applied Transformation": "this.upperBound != that.upperBound |==> true",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "156",
+      "45": {
+        "Mutation Operator": "LVR",
+        "Original Operator Symbol": "FALSE",
+        "Replacement Operator Symbol": "TRUE",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@equals",
+        "Line Number In Original Source File": "156",
+        "Applied Transformation": "false |==> true",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "158",
+      "46": {
+        "Mutation Operator": "LVR",
+        "Original Operator Symbol": "TRUE",
+        "Replacement Operator Symbol": "FALSE",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@equals",
+        "Line Number In Original Source File": "158",
+        "Applied Transformation": "true |==> false",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "170",
+      "47": {
+        "Mutation Operator": "STD",
+        "Original Operator Symbol": "CALL",
+        "Replacement Operator Symbol": "<NO-OP>",
+        "Fully Qualified Name": "org.jfree.chart.renderer.GrayPaintScale@clone",
+        "Line Number In Original Source File": "170",
+        "Applied Transformation": "super.clone() |==> null",
+        "mkp": 0,
+        "mkf": 0,
+        "mnp": 14,
+        "mnf": 1
+      }
+    }
+  ]
+}

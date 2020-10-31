@@ -1,3 +1,0 @@
-org.jfree.data.category.DefaultIntervalCategoryDataset#207#                this.seriesKeys = null;
-org.jfree.data.category.DefaultIntervalCategoryDataset#208#                this.categoryKeys = null;
-org.jfree.data.category.DefaultIntervalCategoryDataset#338#        if (categoryKeys.length != this.startData[0].length) {

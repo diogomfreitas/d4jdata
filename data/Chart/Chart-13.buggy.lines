@@ -1,0 +1,1 @@
+org.jfree.chart.block.BorderArrangement#454#                    new Range(0.0, constraint.getWidth() - w[2]),//modificado de 455 para 454

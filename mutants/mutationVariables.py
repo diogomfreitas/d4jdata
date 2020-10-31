@@ -185,4 +185,10 @@ class mutationVariables:
 
 if __name__ == "__main__":
     mut = mutationVariables('/Users/diogofreitas/PycharmProjects/d4jdata/data/killmaps/', 'Chart', 2)
-    mut.readMutantsByLines('/Users/diogofreitas/PycharmProjects/d4jdata/data/killmaps/', 'Chart', 2)
+
+    print(mut.mutants)
+    print(mut.kp)
+    print(mut.kf)
+    print(mut.np)
+    print(mut.nf)
+    print(mut.mutantsByLines)
