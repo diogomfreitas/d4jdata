@@ -4,12 +4,12 @@ class Coverage(Spectrum):
     def __init__(self, program_dir, program, ver):
         self.code_lines = self.count_instrumented_elements(program_dir, program, ver)
 
-        super().__init__(program_dir, program, ver, self.code_lines, 'matrix')
+        super().__init__(program_dir, program, ver, self.code_lines, 'matrix', True)
 
-        self.ep = self.sum_elements(1, self.positive_tests)
-        self.ef = self.sum_elements(1, self.negative_tests)
-        self.np = self.sum_elements(0, self.positive_tests)
-        self.nf = self.sum_elements(0, self.negative_tests)
+        self.cep = self.sum_elements(1, self.positive_tests)
+        self.cef = self.sum_elements(1, self.negative_tests)
+        self.cnp = self.sum_elements(0, self.positive_tests)
+        self.cnf = self.sum_elements(0, self.negative_tests)
 
     def count_instrumented_elements(self, program_dir, program, ver):
 
@@ -20,11 +20,12 @@ class Coverage(Spectrum):
         return spectra
 
 if __name__ == "__main__":
-    mut = Coverage('/Users/diogofreitas/PycharmProjects/d4jdata/data/', 'Chart', 2)
+    cov = Coverage('/Users/diogofreitas/PycharmProjects/d4jdata/data/', 'Chart', 2)
 
-    print(mut.elements)
-    print(mut.ep)
-    print(mut.ef)
-    print(mut.np)
-    print(mut.nf)
-    print(mut.code_lines)
+    print(cov.elements)
+    print(cov.lines)
+    print(cov.cep)
+    print(cov.cef)
+    print(cov.cnp)
+    print(cov.cnf)
+    print(cov.code_lines)

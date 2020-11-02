@@ -4,7 +4,7 @@ class Mutation(Spectrum):
     def __init__(self, program_dir, program, ver):
         self.code_lines, self.mutants_by_lines, self.mutation_log= self.count_instrumented_elements(program_dir, program, ver)
 
-        super().__init__(program_dir, program, ver, self.code_lines, 'killage.csv')
+        super().__init__(program_dir, program, ver, self.code_lines, 'killage.csv', True)
 
         self.kp = self.sum_elements(1, self.positive_tests)
         self.kf = self.sum_elements(1, self.negative_tests)
@@ -52,7 +52,7 @@ class Mutation(Spectrum):
         return mutated_code_lines, mutants_by_lines, mutation_log
 
 if __name__ == "__main__":
-    mut = Mutation('/Users/diogofreitas/PycharmProjects/d4jdata/data/', 'Chart', 2)
+    mut = Mutation('/Users/diogofreitas/PycharmProjects/d4jdata/data/', 'Chart', 12)
 
     print(mut.elements)
     print(mut.kp)

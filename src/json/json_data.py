@@ -1,6 +1,8 @@
 import json
 
 from src.spectrum.mutation import Mutation
+from src.spectrum.coverage import Coverage
+from src.spectrum.data_flow import DataFlow
 
 
 def write_mutation_spectra_json(program_dir, program, versions):
@@ -23,7 +25,7 @@ def write_mutation_spectra_json(program_dir, program, versions):
             "type": "MUTANT",
             "elements": []
         }
-        for i in range(mut_variables_list.lines):
+        for i in range(mut_variables_list.elements):
             json_aux = {}
 
             # split_codelines = code_lines[i].split("#")
@@ -53,4 +55,75 @@ def write_mutation_spectra_json(program_dir, program, versions):
             # print (json_aux)
 
         with open(program_dir + program + '/' + str(ver) + "/mutation.json", 'w') as file:
+            file.write(json.dumps(root, indent=2))
+
+
+def write_control_flow_json(program_dir, program, versions):
+
+    for ver in versions:
+        control_flow_spectra = Coverage(program_dir, program, ver)
+
+        root = {
+            "version": program + "_" + ver + "b",
+            "type": "LINE",
+            "elements": []
+        }
+        for i in range(control_flow_spectra.lines):
+            json_aux = {}
+
+            # split_codelines = code_lines[i].split("#")
+            # json_aux["name"] = split_codelines[0]
+            # json_aux["location"] = split_codelines[1]
+
+            split_codelines = control_flow_spectra.code_lines[i].split("#")
+            json_aux["name"] = split_codelines[0]
+            json_aux["location"] = split_codelines[1]
+
+            json_aux["cep"] = control_flow_spectra.cep[i]
+            json_aux["cef"] = control_flow_spectra.cef[i]
+            json_aux["cnp"] = control_flow_spectra.cnp[i]
+            json_aux["cnf"] = control_flow_spectra.cnf[i]
+
+            root["elements"].append(json_aux)
+            # print (json_aux)
+
+        with open(program_dir + program + '/' + str(ver) + "/control_flow.json", 'w') as file:
+            file.write(json.dumps(root, indent=2))
+
+def write_data_flow_json(program_dir, program, versions):
+
+    for ver in versions:
+        data_flow_spectra = DataFlow(program_dir, program, ver)
+
+        root = {
+            "version": program + "_" + ver,
+            "type": "DUA",
+            "elements": []
+        }
+        for i in range(data_flow_spectra.lines):
+            json_aux = {}
+
+            # split_codelines = code_lines[i].split("#")
+            # json_aux["name"] = split_codelines[0]
+            # json_aux["location"] = split_codelines[1]
+
+            split_codelines = data_flow_spectra.code_lines[i].split("#")
+            json_aux["name"] = split_codelines[0]
+            json_aux["location"] = split_codelines[1]
+
+            json_aux["cep"] = data_flow_spectra.cep[i]
+            json_aux["cef"] = data_flow_spectra.cef[i]
+            json_aux["cnp"] = data_flow_spectra.cnp[i]
+            json_aux["cnf"] = data_flow_spectra.cnf[i]
+            json_aux["methods"] = json_aux.methods[i]
+            json_aux["var"] = json_aux.vars[i]
+            json_aux["def"] = json_aux.defs[i]
+            json_aux["use"] = json_aux.uses[i]
+
+
+
+            root["elements"].append(json_aux)
+            # print (json_aux)
+
+        with open(program_dir + program + '/' + str(ver) + "/data_flow.json", 'w') as file:
             file.write(json.dumps(root, indent=2))

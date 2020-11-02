@@ -9,15 +9,20 @@ import gc
 
 
 class Spectrum:
-    def __init__(self, program_dir, program, ver, code_lines, matrix_file_name):
+    def __init__(self, program_dir, program, ver, code_lines, matrix_file_name, read_faults):
         self.code_lines = code_lines #code_lines is initialized at the child class with count_elements_by_line
         # self.codeLines = self.count_elements_by_line(program_dir, program, ver)
 
+        if(self.code_lines[-1] == ''):
+            del self.code_lines[-1]
+        self.lines = len(self.code_lines)
+
+        if (read_faults):
+            self.faultyLines = self.read_faulty_lines(program_dir, program, ver, code_lines)
         self.read_coverage_matrix(program_dir, program, ver, self.code_lines, matrix_file_name)
 
         self.tests = len(self.positive_tests) + len(self.negative_tests)
 
-        self.lines = len(self.code_lines)
         self.elements = len(self.positive_tests[0])#elements in the coverage matrix column: commands; mutantes; etc...
 
     def count_instrumented_elements(self, program_dir, program, ver):
@@ -66,22 +71,30 @@ class Spectrum:
         print(faulty_lines)
         return faulty_lines
 
-    def read_coverage_matrix(self, program_dir, program, ver, code_lines, matrix_file_name):
+    def read_coverage_matrix(self, dataset_dir, program, ver, code_lines, matrix_file_name):
         self.negative_tests = list()
         self.positive_tests = list()
 
-        matrix_file = open(program_dir + program + '/' + str(ver) + '/' + matrix_file_name, 'r')
+        matrix_file = open(dataset_dir + program + '/' + str(ver) + '/' + matrix_file_name, 'r')
         CovMat = list(csv.reader(matrix_file, delimiter=' '))  # append all lines as a list
         matrix_file.close()
-        self.faultyLines = self.read_faulty_lines(program_dir, program, ver, code_lines)
+
+        zeros = [0] * self.lines
 
         for j in range(len(CovMat)):  # iterate over number of tests
-            if CovMat[j][-1] == '-':
-                del CovMat[j][-1]
-                self.negative_tests.append(list(map(int, CovMat[j])))
+            # trata a otimizacao de '=0 +' para linhas completamente preenchidas por zeros
+            if (len(CovMat[j]) == 2 and CovMat[j][0] == '=0'):
+                if CovMat[j][-1] == '-':
+                    self.negative_tests.append(zeros)
+                else:
+                    self.positive_tests.append(zeros)
             else:
-                del CovMat[j][-1]
-                self.positive_tests.append(list(map(int, CovMat[j])))
+                if CovMat[j][-1] == '-':
+                    del CovMat[j][-1]
+                    self.negative_tests.append(list(map(int, CovMat[j])))
+                else:
+                    del CovMat[j][-1]
+                    self.positive_tests.append(list(map(int, CovMat[j])))
 
         CovMat.clear()
         gc.collect()
