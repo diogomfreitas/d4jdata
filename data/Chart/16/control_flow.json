@@ -1,0 +1,2390 @@
+{
+  "version": "Chart_16b",
+  "type": "LINE",
+  "elements": [
+    {
+      "name": "org.jfree.data.UnknownKeyException",
+      "location": "54",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.UnknownKeyException",
+      "location": "55",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "91",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "93",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "107",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "108",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "126",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "128",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "145",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "147",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "148",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "150",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "152",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "153",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "155",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "156",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "157",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "161",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "163",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "166",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "168",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "169",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "174",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "177",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "179",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "183",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "184",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "185",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "189",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "191",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "192",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "193",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "197",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "200",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "202",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "205",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "207",
+      "cep": 6,
+      "cef": 8,
+      "cnp": 7,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "208",
+      "cep": 6,
+      "cef": 8,
+      "cnp": 7,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "212",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "223",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "224",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "225",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "227",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "241",
+      "cep": 3,
+      "cef": 2,
+      "cnp": 10,
+      "cnf": 6
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "242",
+      "cep": 3,
+      "cef": 2,
+      "cnp": 10,
+      "cnf": 6
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "243",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "244",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "245",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "248",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "261",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "262",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "264",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "277",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "278",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "280",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "281",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "284",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "285",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "286",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "296",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "297",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "298",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "299",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 9,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "302",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "316",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "317",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "320",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "335",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 13,
+      "cnf": 7
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "336",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "338",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 13,
+      "cnf": 7
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "339",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "342",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "343",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "344",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "349",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "350",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "351",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "367",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "368",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "369",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "371",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "372",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "373",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "375",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "392",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "407",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "408",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "409",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "411",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "412",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "413",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "415",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "432",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "433",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "438",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "439",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "445",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "460",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "461",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "462",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "464",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "465",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "466",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "468",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "482",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "483",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "488",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "489",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "494",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "510",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "511",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "517",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "518",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "519",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "525",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "526",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "528",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "543",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "544",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "550",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "551",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "552",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "558",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "559",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "561",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "573",
+      "cep": 4,
+      "cef": 2,
+      "cnp": 9,
+      "cnf": 6
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "574",
+      "cep": 4,
+      "cef": 2,
+      "cnp": 9,
+      "cnf": 6
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "575",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 9,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "576",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 9,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "577",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 9,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "580",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 9,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "593",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "595",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "596",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "597",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "599",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "612",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "625",
+      "cep": 3,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 7
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "626",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "628",
+      "cep": 3,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 7
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "641",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 13,
+      "cnf": 7
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "655",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "656",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "659",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "673",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "674",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "677",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "690",
+      "cep": 2,
+      "cef": 2,
+      "cnp": 11,
+      "cnf": 6
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "702",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 11,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "713",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "714",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "716",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "717",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "719",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "721",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "722",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "724",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "725",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "727",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "728",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "730",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "731",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "734",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "746",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 12,
+      "cnf": 7
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "748",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 12,
+      "cnf": 7
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "749",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "750",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "751",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "752",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "764",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "765",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "767",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "768",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "770",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "771",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "773",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "774",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "775",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "778",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 10,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "789",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "790",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "792",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "793",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "794",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "795",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "796",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "797",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.category.DefaultIntervalCategoryDataset",
+      "location": "799",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractSeriesDataset",
+      "location": "65",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.AbstractSeriesDataset",
+      "location": "66",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.AbstractSeriesDataset",
+      "location": "97",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractSeriesDataset",
+      "location": "98",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractSeriesDataset",
+      "location": "99",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractSeriesDataset",
+      "location": "100",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractSeriesDataset",
+      "location": "103",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractSeriesDataset",
+      "location": "112",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractSeriesDataset",
+      "location": "113",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "94",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "95",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "96",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "97",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "107",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "118",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "119",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "121",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "122",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "132",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "133",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "144",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "145",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "160",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "161",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "170",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "171",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "184",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "185",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "186",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "187",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "192",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "205",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 12,
+      "cnf": 7
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "206",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 12,
+      "cnf": 7
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "207",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 12,
+      "cnf": 7
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "218",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "219",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "231",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "232",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "233",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "235",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "255",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.AbstractDataset",
+      "location": "256",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 12,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "63",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "64",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "65",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "72",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "73",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "74",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "76",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "77",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "85",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "96",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "107",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "108",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "110",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "111",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "113",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "114",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "115",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetGroup",
+      "location": "117",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetChangeEvent",
+      "location": "71",
+      "cep": 6,
+      "cef": 0,
+      "cnp": 7,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetChangeEvent",
+      "location": "72",
+      "cep": 6,
+      "cef": 0,
+      "cnp": 7,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetChangeEvent",
+      "location": "73",
+      "cep": 6,
+      "cef": 0,
+      "cnp": 7,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.general.DatasetChangeEvent",
+      "location": "83",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.resources.DataPackageResources",
+      "location": "50",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.resources.DataPackageResources",
+      "location": "62",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.resources.DataPackageResources",
+      "location": "58",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "53",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "65",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "66",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "67",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "68",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "69",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "70",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "73",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "86",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "87",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "88",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "89",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "90",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "91",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "94",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "106",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "107",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "109",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "110",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "111",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "113",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "125",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "126",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "128",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "129",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "130",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "131",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 5,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "133",
+      "cep": 13,
+      "cef": 8,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "147",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "148",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "150",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "151",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "152",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "153",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "154",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "155",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "158",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "159",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "160",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "161",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "162",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "164",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    },
+    {
+      "name": "org.jfree.data.DataUtilities",
+      "location": "166",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 13,
+      "cnf": 8
+    }
+  ]
+}

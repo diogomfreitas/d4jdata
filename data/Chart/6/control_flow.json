@@ -1,0 +1,5414 @@
+{
+  "version": "Chart_6b",
+  "type": "LINE",
+  "elements": [
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "80",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "81",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "92",
+      "cep": 71,
+      "cef": 1,
+      "cnp": 406,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "109",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "110",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "112",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "113",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "114",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "115",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "116",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "117",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "119",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "120",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "121",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "122",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "123",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "124",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "125",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "126",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "127",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "130",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "145",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "146",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "148",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "149",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "150",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "151",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "152",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "154",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "155",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "156",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "157",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "158",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "159",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "160",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "161",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "162",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "163",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 470,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "166",
+      "cep": 15,
+      "cef": 0,
+      "cnp": 462,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "169",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "185",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "186",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "188",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "189",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "190",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "191",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "192",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "193",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "194",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "195",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "196",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "197",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "198",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "199",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "201",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "203",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "206",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "224",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "225",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "227",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "228",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "229",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "230",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "231",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "232",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "233",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "234",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "235",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "236",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "237",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "238",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "240",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "241",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "245",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "247",
+      "cep": 71,
+      "cef": 0,
+      "cnp": 406,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "263",
+      "cep": 70,
+      "cef": 1,
+      "cnp": 407,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "264",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "266",
+      "cep": 70,
+      "cef": 1,
+      "cnp": 407,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "267",
+      "cep": 70,
+      "cef": 1,
+      "cnp": 407,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "268",
+      "cep": 70,
+      "cef": 1,
+      "cnp": 407,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "269",
+      "cep": 70,
+      "cef": 1,
+      "cnp": 407,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "270",
+      "cep": 70,
+      "cef": 1,
+      "cnp": 407,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "271",
+      "cep": 15,
+      "cef": 1,
+      "cnp": 462,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "272",
+      "cep": 15,
+      "cef": 1,
+      "cnp": 462,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "273",
+      "cep": 15,
+      "cef": 1,
+      "cnp": 462,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "274",
+      "cep": 15,
+      "cef": 1,
+      "cnp": 462,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "275",
+      "cep": 15,
+      "cef": 1,
+      "cnp": 462,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "276",
+      "cep": 15,
+      "cef": 1,
+      "cnp": 462,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "277",
+      "cep": 70,
+      "cef": 1,
+      "cnp": 407,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "278",
+      "cep": 68,
+      "cef": 1,
+      "cnp": 409,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "279",
+      "cep": 68,
+      "cef": 1,
+      "cnp": 409,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "280",
+      "cep": 68,
+      "cef": 1,
+      "cnp": 409,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "281",
+      "cep": 68,
+      "cef": 1,
+      "cnp": 409,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "282",
+      "cep": 68,
+      "cef": 1,
+      "cnp": 409,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "283",
+      "cep": 68,
+      "cef": 1,
+      "cnp": 409,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "284",
+      "cep": 25,
+      "cef": 0,
+      "cnp": 452,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "285",
+      "cep": 19,
+      "cef": 0,
+      "cnp": 458,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "286",
+      "cep": 19,
+      "cef": 0,
+      "cnp": 458,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "287",
+      "cep": 19,
+      "cef": 0,
+      "cnp": 458,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "288",
+      "cep": 19,
+      "cef": 0,
+      "cnp": 458,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "289",
+      "cep": 19,
+      "cef": 0,
+      "cnp": 458,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "290",
+      "cep": 19,
+      "cef": 0,
+      "cnp": 458,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "291",
+      "cep": 25,
+      "cef": 0,
+      "cnp": 452,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "292",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "293",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "294",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "295",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "296",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "297",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "298",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "299",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "300",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "301",
+      "cep": 25,
+      "cef": 0,
+      "cnp": 452,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "302",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "303",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "304",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "305",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "306",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "307",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "308",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "310",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "312",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "313",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "315",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "316",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "318",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "320",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "322",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "323",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "325",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "326",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "328",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "331",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "332",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "333",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "334",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "335",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "337",
+      "cep": 21,
+      "cef": 0,
+      "cnp": 456,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "340",
+      "cep": 70,
+      "cef": 1,
+      "cnp": 407,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "355",
+      "cep": 70,
+      "cef": 1,
+      "cnp": 407,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "356",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "358",
+      "cep": 70,
+      "cef": 1,
+      "cnp": 407,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "359",
+      "cep": 70,
+      "cef": 1,
+      "cnp": 407,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "360",
+      "cep": 70,
+      "cef": 1,
+      "cnp": 407,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "361",
+      "cep": 15,
+      "cef": 1,
+      "cnp": 462,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "362",
+      "cep": 15,
+      "cef": 1,
+      "cnp": 462,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "363",
+      "cep": 15,
+      "cef": 1,
+      "cnp": 462,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "364",
+      "cep": 15,
+      "cef": 1,
+      "cnp": 462,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "365",
+      "cep": 15,
+      "cef": 1,
+      "cnp": 462,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "366",
+      "cep": 15,
+      "cef": 1,
+      "cnp": 462,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "367",
+      "cep": 15,
+      "cef": 1,
+      "cnp": 462,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "368",
+      "cep": 70,
+      "cef": 1,
+      "cnp": 407,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "369",
+      "cep": 68,
+      "cef": 1,
+      "cnp": 409,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "370",
+      "cep": 68,
+      "cef": 1,
+      "cnp": 409,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "371",
+      "cep": 68,
+      "cef": 1,
+      "cnp": 409,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "372",
+      "cep": 68,
+      "cef": 1,
+      "cnp": 409,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "373",
+      "cep": 68,
+      "cef": 1,
+      "cnp": 409,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "374",
+      "cep": 68,
+      "cef": 1,
+      "cnp": 409,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "375",
+      "cep": 68,
+      "cef": 1,
+      "cnp": 409,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "376",
+      "cep": 25,
+      "cef": 0,
+      "cnp": 452,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "377",
+      "cep": 19,
+      "cef": 0,
+      "cnp": 458,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "378",
+      "cep": 19,
+      "cef": 0,
+      "cnp": 458,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "379",
+      "cep": 19,
+      "cef": 0,
+      "cnp": 458,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "380",
+      "cep": 19,
+      "cef": 0,
+      "cnp": 458,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "381",
+      "cep": 19,
+      "cef": 0,
+      "cnp": 458,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "382",
+      "cep": 19,
+      "cef": 0,
+      "cnp": 458,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "383",
+      "cep": 19,
+      "cef": 0,
+      "cnp": 458,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "384",
+      "cep": 25,
+      "cef": 0,
+      "cnp": 452,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "385",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "386",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "387",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "388",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "389",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "390",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "391",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "392",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "393",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "394",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "395",
+      "cep": 25,
+      "cef": 0,
+      "cnp": 452,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "396",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "397",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "398",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "399",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "400",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "401",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "402",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "405",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "406",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "408",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "409",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "410",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "411",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "412",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "414",
+      "cep": 21,
+      "cef": 0,
+      "cnp": 456,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "415",
+      "cep": 21,
+      "cef": 0,
+      "cnp": 456,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "419",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "421",
+      "cep": 70,
+      "cef": 1,
+      "cnp": 407,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "436",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 469,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "437",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "439",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 469,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "440",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 469,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "441",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 469,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "442",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 469,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "443",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 469,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "444",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 469,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "446",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 469,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "461",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 469,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "462",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "464",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 469,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "465",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 469,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "466",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 469,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "467",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 469,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "470",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "472",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 469,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "490",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "491",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "493",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "494",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "495",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "497",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "498",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "499",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "500",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "501",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "502",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "503",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "504",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "505",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "506",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "507",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "509",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "523",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "524",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "526",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "527",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "528",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "531",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "532",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "533",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "534",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "535",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "537",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "540",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "541",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "542",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "546",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "549",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "550",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "553",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "554",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "555",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "556",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "559",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "560",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "563",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.SerialUtilities",
+      "location": "566",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "59",
+      "cep": 429,
+      "cef": 2,
+      "cnp": 48,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "60",
+      "cep": 429,
+      "cef": 2,
+      "cnp": 48,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "70",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 456,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "81",
+      "cep": 25,
+      "cef": 2,
+      "cnp": 452,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "82",
+      "cep": 25,
+      "cef": 2,
+      "cnp": 452,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "93",
+      "cep": 63,
+      "cef": 0,
+      "cnp": 414,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "105",
+      "cep": 221,
+      "cef": 2,
+      "cnp": 256,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "106",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "108",
+      "cep": 221,
+      "cef": 2,
+      "cnp": 256,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "109",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "111",
+      "cep": 221,
+      "cef": 2,
+      "cnp": 256,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "121",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 477,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "133",
+      "cep": 65,
+      "cef": 1,
+      "cnp": 412,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "134",
+      "cep": 65,
+      "cef": 1,
+      "cnp": 412,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "135",
+      "cep": 65,
+      "cef": 1,
+      "cnp": 412,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "136",
+      "cep": 65,
+      "cef": 1,
+      "cnp": 412,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "137",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 477,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "138",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 477,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "139",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 477,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "140",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 477,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "143",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 477,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "147",
+      "cep": 65,
+      "cef": 1,
+      "cnp": 412,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "160",
+      "cep": 65,
+      "cef": 1,
+      "cnp": 412,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "161",
+      "cep": 65,
+      "cef": 1,
+      "cnp": 412,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "162",
+      "cep": 65,
+      "cef": 1,
+      "cnp": 412,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "163",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 477,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "164",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 477,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "165",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 477,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeList",
+      "location": "169",
+      "cep": 65,
+      "cef": 1,
+      "cnp": 412,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "77",
+      "cep": 461,
+      "cef": 2,
+      "cnp": 16,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "78",
+      "cep": 461,
+      "cef": 2,
+      "cnp": 16,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "86",
+      "cep": 461,
+      "cef": 2,
+      "cnp": 16,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "87",
+      "cep": 461,
+      "cef": 2,
+      "cnp": 16,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "95",
+      "cep": 461,
+      "cef": 2,
+      "cnp": 16,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "68",
+      "cep": 461,
+      "cef": 2,
+      "cnp": 16,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "71",
+      "cep": 461,
+      "cef": 2,
+      "cnp": 16,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "96",
+      "cep": 461,
+      "cef": 2,
+      "cnp": 16,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "97",
+      "cep": 461,
+      "cef": 2,
+      "cnp": 16,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "98",
+      "cep": 461,
+      "cef": 2,
+      "cnp": 16,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "109",
+      "cep": 214,
+      "cef": 2,
+      "cnp": 263,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "110",
+      "cep": 214,
+      "cef": 2,
+      "cnp": 263,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "111",
+      "cep": 214,
+      "cef": 2,
+      "cnp": 263,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "113",
+      "cep": 214,
+      "cef": 2,
+      "cnp": 263,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "123",
+      "cep": 215,
+      "cef": 2,
+      "cnp": 262,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "124",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "126",
+      "cep": 215,
+      "cef": 2,
+      "cnp": 262,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "127",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 475,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "128",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 475,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "129",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 475,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "131",
+      "cep": 215,
+      "cef": 2,
+      "cnp": 262,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "132",
+      "cep": 215,
+      "cef": 2,
+      "cnp": 262,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "133",
+      "cep": 215,
+      "cef": 2,
+      "cnp": 262,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "139",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "140",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "141",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "149",
+      "cep": 394,
+      "cef": 2,
+      "cnp": 83,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "161",
+      "cep": 171,
+      "cef": 0,
+      "cnp": 306,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "162",
+      "cep": 171,
+      "cef": 0,
+      "cnp": 306,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "163",
+      "cep": 170,
+      "cef": 0,
+      "cnp": 307,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "166",
+      "cep": 85,
+      "cef": 0,
+      "cnp": 392,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "178",
+      "cep": 230,
+      "cef": 2,
+      "cnp": 247,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "179",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "182",
+      "cep": 230,
+      "cef": 2,
+      "cnp": 247,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "183",
+      "cep": 30,
+      "cef": 0,
+      "cnp": 447,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "186",
+      "cep": 230,
+      "cef": 2,
+      "cnp": 247,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "187",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "190",
+      "cep": 230,
+      "cef": 2,
+      "cnp": 247,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "191",
+      "cep": 230,
+      "cef": 2,
+      "cnp": 247,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "192",
+      "cep": 230,
+      "cef": 2,
+      "cnp": 247,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "193",
+      "cep": 50,
+      "cef": 2,
+      "cnp": 427,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "194",
+      "cep": 20,
+      "cef": 2,
+      "cnp": 457,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "197",
+      "cep": 230,
+      "cef": 0,
+      "cnp": 247,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "206",
+      "cep": 45,
+      "cef": 1,
+      "cnp": 432,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "207",
+      "cep": 45,
+      "cef": 1,
+      "cnp": 432,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "208",
+      "cep": 45,
+      "cef": 1,
+      "cnp": 432,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "211",
+      "cep": 45,
+      "cef": 1,
+      "cnp": 432,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "212",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 477,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "213",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 477,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "214",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 477,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "215",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 477,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "216",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 477,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "221",
+      "cep": 45,
+      "cef": 1,
+      "cnp": 432,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "235",
+      "cep": 69,
+      "cef": 0,
+      "cnp": 408,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "236",
+      "cep": 69,
+      "cef": 0,
+      "cnp": 408,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "237",
+      "cep": 69,
+      "cef": 0,
+      "cnp": 408,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "238",
+      "cep": 69,
+      "cef": 0,
+      "cnp": 408,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "241",
+      "cep": 69,
+      "cef": 0,
+      "cnp": 408,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "255",
+      "cep": 67,
+      "cef": 1,
+      "cnp": 410,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "256",
+      "cep": 67,
+      "cef": 1,
+      "cnp": 410,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "257",
+      "cep": 67,
+      "cef": 1,
+      "cnp": 410,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "258",
+      "cep": 67,
+      "cef": 1,
+      "cnp": 410,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "259",
+      "cep": 17,
+      "cef": 1,
+      "cnp": 460,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "260",
+      "cep": 17,
+      "cef": 1,
+      "cnp": 460,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "261",
+      "cep": 16,
+      "cef": 1,
+      "cnp": 461,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "262",
+      "cep": 16,
+      "cef": 1,
+      "cnp": 461,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "265",
+      "cep": 6,
+      "cef": 1,
+      "cnp": 471,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "269",
+      "cep": 67,
+      "cef": 1,
+      "cnp": 410,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "282",
+      "cep": 67,
+      "cef": 1,
+      "cnp": 410,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "283",
+      "cep": 67,
+      "cef": 1,
+      "cnp": 410,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "284",
+      "cep": 67,
+      "cef": 1,
+      "cnp": 410,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "285",
+      "cep": 67,
+      "cef": 1,
+      "cnp": 410,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "286",
+      "cep": 17,
+      "cef": 1,
+      "cnp": 460,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "287",
+      "cep": 17,
+      "cef": 1,
+      "cnp": 460,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "288",
+      "cep": 16,
+      "cef": 1,
+      "cnp": 461,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.AbstractObjectList",
+      "location": "292",
+      "cep": 67,
+      "cef": 1,
+      "cnp": 410,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "89",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "90",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "80",
+      "cep": 309,
+      "cef": 2,
+      "cnp": 168,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "99",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "113",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "114",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "125",
+      "cep": 254,
+      "cef": 2,
+      "cnp": 223,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "126",
+      "cep": 250,
+      "cef": 0,
+      "cnp": 227,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "128",
+      "cep": 247,
+      "cef": 2,
+      "cnp": 230,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "129",
+      "cep": 247,
+      "cef": 2,
+      "cnp": 230,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "132",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "145",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "146",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "147",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "149",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "162",
+      "cep": 68,
+      "cef": 0,
+      "cnp": 409,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "163",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "165",
+      "cep": 68,
+      "cef": 0,
+      "cnp": 409,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "166",
+      "cep": 67,
+      "cef": 0,
+      "cnp": 410,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "167",
+      "cep": 67,
+      "cef": 0,
+      "cnp": 410,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "171",
+      "cep": 67,
+      "cef": 0,
+      "cnp": 410,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "173",
+      "cep": 67,
+      "cef": 0,
+      "cnp": 410,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "174",
+      "cep": 67,
+      "cef": 0,
+      "cnp": 410,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "185",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "177",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "178",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "180",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "181",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "183",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "184",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "187",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "203",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "204",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "209",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "211",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "212",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "213",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "214",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "215",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "216",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "219",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "221",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "222",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "232",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "233",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "241",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "255",
+      "cep": 58,
+      "cef": 0,
+      "cnp": 419,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "256",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "258",
+      "cep": 58,
+      "cef": 0,
+      "cnp": 419,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "259",
+      "cep": 58,
+      "cef": 0,
+      "cnp": 419,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "261",
+      "cep": 58,
+      "cef": 0,
+      "cnp": 419,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "262",
+      "cep": 58,
+      "cef": 0,
+      "cnp": 419,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "267",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "268",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "269",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "272",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "285",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "286",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "287",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "289",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "300",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "301",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "302",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "303",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "305",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "319",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "321",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "325",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "326",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "329",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "330",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "331",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "332",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "335",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "336",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "349",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "350",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "351",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "355",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "357",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "358",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "372",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "373",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "374",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "378",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "380",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "381",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "396",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "397",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "398",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "400",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "401",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "421",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "422",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "423",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "424",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "429",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "427",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "428",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "430",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "439",
+      "cep": 58,
+      "cef": 0,
+      "cnp": 419,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "440",
+      "cep": 58,
+      "cef": 0,
+      "cnp": 419,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "442",
+      "cep": 58,
+      "cef": 0,
+      "cnp": 419,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "443",
+      "cep": 58,
+      "cef": 0,
+      "cnp": 419,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "445",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "446",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "448",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "455",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "458",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "459",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "462",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "463",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "464",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "466",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "467",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "472",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "473",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "476",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "477",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "478",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "479",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ObjectUtilities",
+      "location": "481",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "84",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "85",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "389",
+      "cep": 193,
+      "cef": 0,
+      "cnp": 284,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "103",
+      "cep": 62,
+      "cef": 0,
+      "cnp": 415,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "105",
+      "cep": 62,
+      "cef": 0,
+      "cnp": 415,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "107",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "110",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "111",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "128",
+      "cep": 107,
+      "cef": 0,
+      "cnp": 370,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "129",
+      "cep": 44,
+      "cef": 0,
+      "cnp": 433,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "131",
+      "cep": 77,
+      "cef": 0,
+      "cnp": 400,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "132",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "134",
+      "cep": 77,
+      "cef": 0,
+      "cnp": 400,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "135",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "137",
+      "cep": 77,
+      "cef": 0,
+      "cnp": 400,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "138",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "140",
+      "cep": 77,
+      "cef": 0,
+      "cnp": 400,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "141",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "145",
+      "cep": 65,
+      "cef": 0,
+      "cnp": 412,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "159",
+      "cep": 44,
+      "cef": 0,
+      "cnp": 433,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "160",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "162",
+      "cep": 44,
+      "cef": 0,
+      "cnp": 433,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "163",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "165",
+      "cep": 44,
+      "cef": 0,
+      "cnp": 433,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "166",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 473,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "168",
+      "cep": 44,
+      "cef": 0,
+      "cnp": 433,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "169",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "171",
+      "cep": 44,
+      "cef": 0,
+      "cnp": 433,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "184",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "185",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "187",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "188",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "190",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "191",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "193",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "206",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "207",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "209",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "210",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "212",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "213",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "215",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "216",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "218",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "219",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "221",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "222",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "224",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "237",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "238",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "240",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "241",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "243",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "244",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "246",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "247",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "249",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "250",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "252",
+      "cep": 37,
+      "cef": 0,
+      "cnp": 440,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "265",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "266",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "268",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "269",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "271",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "272",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "274",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "275",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "276",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "277",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "278",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "279",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "280",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "281",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "283",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "284",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "285",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "286",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "288",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "289",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "291",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "292",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "293",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "294",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "295",
+      "cep": 14,
+      "cef": 0,
+      "cnp": 463,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "310",
+      "cep": 6,
+      "cef": 0,
+      "cnp": 471,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "311",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "313",
+      "cep": 6,
+      "cef": 0,
+      "cnp": 471,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "315",
+      "cep": 6,
+      "cef": 0,
+      "cnp": 471,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "334",
+      "cep": 48,
+      "cef": 0,
+      "cnp": 429,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "335",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "337",
+      "cep": 48,
+      "cef": 0,
+      "cnp": 429,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "338",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "340",
+      "cep": 48,
+      "cef": 0,
+      "cnp": 429,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "342",
+      "cep": 48,
+      "cef": 0,
+      "cnp": 429,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "344",
+      "cep": 48,
+      "cef": 0,
+      "cnp": 429,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "360",
+      "cep": 32,
+      "cef": 0,
+      "cnp": 445,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "361",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "363",
+      "cep": 32,
+      "cef": 0,
+      "cnp": 445,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "364",
+      "cep": 32,
+      "cef": 0,
+      "cnp": 445,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "365",
+      "cep": 32,
+      "cef": 0,
+      "cnp": 445,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "380",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "381",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "382",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "383",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "384",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "386",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "400",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "401",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "402",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "403",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "404",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "405",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "406",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "407",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "408",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "409",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "410",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "411",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "412",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "413",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "414",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "426",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "427",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "428",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "429",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "430",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "431",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "432",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "433",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "434",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "435",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "436",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "437",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "438",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "439",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "440",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "451",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "452",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "453",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "454",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "455",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "456",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "457",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "468",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "469",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "470",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "471",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "472",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "473",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "484",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "485",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "486",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "487",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "488",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "489",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "503",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "504",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "505",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "506",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "507",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "508",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "509",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "510",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "511",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "512",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "513",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "514",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "515",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "516",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "517",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "520",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "521",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "522",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "523",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "524",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "526",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "545",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "546",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "547",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "562",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "563",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "564",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "565",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "566",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "567",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "569",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "587",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "588",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "590",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "591",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "592",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "593",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    },
+    {
+      "name": "org.jfree.chart.util.ShapeUtilities",
+      "location": "594",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 477,
+      "cnf": 2
+    }
+  ]
+}

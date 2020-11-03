@@ -1,0 +1,206 @@
+{
+  "version": "Chart_24b",
+  "type": "LINE",
+  "elements": [
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "72",
+      "cep": 8,
+      "cef": 1,
+      "cnp": 1,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "73",
+      "cep": 8,
+      "cef": 1,
+      "cnp": 1,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "84",
+      "cep": 9,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "85",
+      "cep": 9,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "86",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 9,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "89",
+      "cep": 9,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "90",
+      "cep": 9,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "91",
+      "cep": 9,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "101",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "112",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "124",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 9,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "125",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 9,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "126",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 9,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "128",
+      "cep": 0,
+      "cef": 1,
+      "cnp": 9,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "145",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 1,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "146",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "148",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 2,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "149",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "151",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 2,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "152",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 2,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "153",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "155",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 2,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "156",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "158",
+      "cep": 7,
+      "cef": 0,
+      "cnp": 2,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.chart.renderer.GrayPaintScale",
+      "location": "170",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 8,
+      "cnf": 1
+    }
+  ]
+}

@@ -1,0 +1,7630 @@
+{
+  "version": "Chart_9b",
+  "type": "LINE",
+  "elements": [
+    {
+      "name": "org.jfree.data.general.SeriesException",
+      "location": "61",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.SeriesException",
+      "location": "62",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.SeriesChangeEvent",
+      "location": "61",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.SeriesChangeEvent",
+      "location": "62",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "102",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "103",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "111",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "112",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "113",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "115",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "116",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "117",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "118",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "119",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "120",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "130",
+      "cep": 13,
+      "cef": 0,
+      "cnp": 18,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "142",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "143",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "145",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "146",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "147",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "148",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "158",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "170",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "171",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "172",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "174",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "185",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "197",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "198",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "199",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "201",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "212",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "241",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 26,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "242",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 26,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "243",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 26,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "244",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 26,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "256",
+      "cep": 10,
+      "cef": 0,
+      "cnp": 21,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "257",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "259",
+      "cep": 10,
+      "cef": 0,
+      "cnp": 21,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "260",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "262",
+      "cep": 10,
+      "cef": 0,
+      "cnp": 21,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "263",
+      "cep": 10,
+      "cef": 0,
+      "cnp": 21,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "264",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "266",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "267",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "269",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "279",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "280",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "282",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "295",
+      "cep": 12,
+      "cef": 0,
+      "cnp": 19,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "296",
+      "cep": 12,
+      "cef": 0,
+      "cnp": 19,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "305",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "306",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "313",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "314",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "316",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "326",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "327",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "328",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "329",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "334",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "342",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "343",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "351",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "352",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "363",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.general.Series",
+      "location": "365",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "74",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "75",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "83",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "84",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "91",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "92",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "93",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "101",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "113",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "121",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "122",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "123",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "124",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "126",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "135",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "136",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "137",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "138",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "140",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "151",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "152",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "153",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "156",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "167",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "186",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "187",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "188",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "189",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "190",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "193",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "194",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "197",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "200",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "204",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "206",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "213",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "216",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "226",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "238",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "247",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "258",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "267",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "278",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.FixedMillisecond",
+      "location": "287",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "70",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "161",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "85",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "87",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "89",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "94",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "92",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "95",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "107",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "108",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "110",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "111",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "113",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "114",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "116",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "117",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "119",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "120",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "122",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "123",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "125",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "126",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "129",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "182",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "194",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "254",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "255",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "256",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "268",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "269",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "270",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "279",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.RegularTimePeriod",
+      "location": "88",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimePeriodFormatException",
+      "location": "55",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimePeriodFormatException",
+      "location": "56",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "88",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "89",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "96",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "97",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "100",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "103",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "104",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "105",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "114",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "115",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "123",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "124",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "125",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "126",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "127",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "128",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "136",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "150",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "164",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "176",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "177",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "178",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "187",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "188",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "191",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "202",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "203",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "206",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "218",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "233",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "234",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "237",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "252",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "253",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "256",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "271",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "272",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "273",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "274",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "277",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "281",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "295",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "296",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "297",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "298",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "317",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "318",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "319",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "320",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "324",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "326",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "333",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "336",
+      "cep": 21,
+      "cef": 1,
+      "cnp": 10,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "346",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "364",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "368",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "366",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "367",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "372",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "374",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Year",
+      "location": "375",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "112",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "113",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "122",
+      "cep": 6,
+      "cef": 1,
+      "cnp": 25,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "123",
+      "cep": 6,
+      "cef": 1,
+      "cnp": 25,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "124",
+      "cep": 6,
+      "cef": 1,
+      "cnp": 25,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "125",
+      "cep": 6,
+      "cef": 1,
+      "cnp": 25,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "132",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "133",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "134",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "136",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "137",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "138",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "148",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "149",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "157",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "158",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "159",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "161",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "162",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "164",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "165",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "166",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "167",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "168",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "169",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "170",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "171",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "83",
+      "cep": 16,
+      "cef": 1,
+      "cnp": 15,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "88",
+      "cep": 16,
+      "cef": 1,
+      "cnp": 15,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "92",
+      "cep": 16,
+      "cef": 1,
+      "cnp": 15,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "96",
+      "cep": 16,
+      "cef": 1,
+      "cnp": 15,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "183",
+      "cep": 9,
+      "cef": 1,
+      "cnp": 22,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "192",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "201",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "210",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "224",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "238",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "250",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "251",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "252",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "262",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "263",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "264",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "265",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "268",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "270",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "284",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "285",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "286",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "287",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "290",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "292",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "302",
+      "cep": 8,
+      "cef": 1,
+      "cnp": 23,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "317",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "318",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "319",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "320",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "321",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "322",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "324",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "339",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "340",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "341",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "342",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "343",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "344",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "346",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "361",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "362",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "364",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "365",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "367",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "368",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "369",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "371",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "385",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "404",
+      "cep": 9,
+      "cef": 1,
+      "cnp": 22,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "405",
+      "cep": 9,
+      "cef": 1,
+      "cnp": 22,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "406",
+      "cep": 9,
+      "cef": 1,
+      "cnp": 22,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "407",
+      "cep": 9,
+      "cef": 1,
+      "cnp": 22,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "411",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "413",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "420",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "423",
+      "cep": 9,
+      "cef": 1,
+      "cnp": 22,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "433",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "450",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "452",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "454",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "456",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Day",
+      "location": "460",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "210",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "211",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "92",
+      "cep": 13,
+      "cef": 1,
+      "cnp": 18,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "137",
+      "cep": 13,
+      "cef": 1,
+      "cnp": 18,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "141",
+      "cep": 13,
+      "cef": 1,
+      "cnp": 18,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "145",
+      "cep": 13,
+      "cef": 1,
+      "cnp": 18,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "149",
+      "cep": 13,
+      "cef": 1,
+      "cnp": 18,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "156",
+      "cep": 13,
+      "cef": 1,
+      "cnp": 18,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "224",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "232",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "234",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "249",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "251",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "253",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "254",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "255",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "256",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "257",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "258",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "260",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "261",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "262",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "265",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "280",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "281",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "292",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "306",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "307",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "310",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "325",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "338",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "340",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "354",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "357",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "360",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "363",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "366",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "367",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "385",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "405",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "406",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "412",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "413",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "416",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "419",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "437",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "438",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "440",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "441",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "445",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "449",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "447",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "452",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "453",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "454",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "455",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "456",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "458",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "459",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "460",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "465",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "479",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "484",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "485",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "499",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "500",
+      "cep": 6,
+      "cef": 1,
+      "cnp": 25,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "502",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "503",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "505",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "506",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "509",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "526",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "527",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "528",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "529",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "544",
+      "cep": 13,
+      "cef": 1,
+      "cnp": 18,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "545",
+      "cep": 13,
+      "cef": 1,
+      "cnp": 18,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "546",
+      "cep": 13,
+      "cef": 1,
+      "cnp": 18,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "548",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "549",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "552",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "568",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "569",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "588",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "590",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "592",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "595",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "610",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "611",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "612",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "614",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "615",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "619",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "637",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "638",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "645",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "646",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "647",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "650",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "653",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "671",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "672",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "679",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "680",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "681",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "684",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "687",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "704",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "705",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "711",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "712",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "713",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "714",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "716",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "717",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "719",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "731",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "734",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "748",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "749",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "750",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "751",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "752",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "753",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "755",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "771",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "772",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "773",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "774",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "775",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "792",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "804",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "816",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "817",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "818",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "849",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "859",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "860",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "868",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "1005",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "1018",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SerialDate",
+      "location": "1029",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "92",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "93",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "94",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "96",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "97",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "98",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "107",
+      "cep": 24,
+      "cef": 1,
+      "cnp": 7,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "108",
+      "cep": 24,
+      "cef": 1,
+      "cnp": 7,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "116",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "125",
+      "cep": 6,
+      "cef": 0,
+      "cnp": 25,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "134",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "135",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "145",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 26,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "146",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "148",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 26,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "149",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "151",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 26,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "152",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 26,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "153",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 26,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "154",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "157",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "158",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "161",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 26,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "162",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 26,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "163",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "166",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "167",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "170",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 26,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "180",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "181",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "182",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "203",
+      "cep": 13,
+      "cef": 1,
+      "cnp": 18,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "204",
+      "cep": 13,
+      "cef": 1,
+      "cnp": 18,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "205",
+      "cep": 13,
+      "cef": 1,
+      "cnp": 18,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "206",
+      "cep": 13,
+      "cef": 1,
+      "cnp": 18,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "212",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "215",
+      "cep": 13,
+      "cef": 1,
+      "cnp": 18,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "226",
+      "cep": 6,
+      "cef": 0,
+      "cnp": 25,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "228",
+      "cep": 6,
+      "cef": 0,
+      "cnp": 25,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "232",
+      "cep": 6,
+      "cef": 0,
+      "cnp": 25,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "230",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "231",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeriesDataItem",
+      "location": "233",
+      "cep": 6,
+      "cef": 0,
+      "cnp": 25,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "107",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "109",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "110",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "113",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "118",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "120",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "123",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "128",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "129",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "132",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "136",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "138",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "146",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "148",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "149",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "152",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "158",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "160",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "161",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "162",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "164",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "166",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "167",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "170",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "171",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "172",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "173",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "175",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "178",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "180",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "183",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "184",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "189",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "190",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "191",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "192",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "193",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "195",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "198",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "201",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "211",
+      "cep": 9,
+      "cef": 1,
+      "cnp": 22,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "220",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "221",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "222",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "231",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "240",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "249",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "263",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "279",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "280",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "281",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "284",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "295",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "308",
+      "cep": 9,
+      "cef": 1,
+      "cnp": 22,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "320",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "333",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "346",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "359",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "372",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "385",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "399",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "417",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "418",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "419",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "420",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "422",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "423",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "424",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "426",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "427",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "429",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "430",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "433",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "449",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "450",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "451",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "452",
+      "cep": 7,
+      "cef": 1,
+      "cnp": 24,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "453",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "456",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.SpreadsheetDate",
+      "location": "457",
+      "cep": 10,
+      "cef": 1,
+      "cnp": 21,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "142",
+      "cep": 11,
+      "cef": 1,
+      "cnp": 20,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "144",
+      "cep": 11,
+      "cef": 1,
+      "cnp": 20,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "155",
+      "cep": 25,
+      "cef": 1,
+      "cnp": 6,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "157",
+      "cep": 25,
+      "cef": 1,
+      "cnp": 6,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "174",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "175",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "176",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "177",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "178",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "179",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "180",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "181",
+      "cep": 31,
+      "cef": 1,
+      "cnp": 0,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "191",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "204",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "205",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "206",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "207",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "217",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "229",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "230",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "231",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "232",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "240",
+      "cep": 28,
+      "cef": 1,
+      "cnp": 3,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "250",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "262",
+      "cep": 10,
+      "cef": 0,
+      "cnp": 21,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "277",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "278",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "280",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "281",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "282",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "283",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "285",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "295",
+      "cep": 10,
+      "cef": 0,
+      "cnp": 21,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "311",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "312",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "314",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "315",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "316",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "328",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "341",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "355",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "356",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "357",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "360",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "372",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "382",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "383",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "392",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "393",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "394",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "396",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "409",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "410",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "411",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "412",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "413",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "414",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "417",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "430",
+      "cep": 8,
+      "cef": 1,
+      "cnp": 23,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "431",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "433",
+      "cep": 8,
+      "cef": 1,
+      "cnp": 23,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "435",
+      "cep": 8,
+      "cef": 1,
+      "cnp": 23,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "446",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "459",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "460",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "461",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "464",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "478",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "479",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "491",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "492",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "494",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "495",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "496",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "497",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "498",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "499",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "500",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "501",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "502",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "506",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "507",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "508",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "509",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "510",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "513",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "514",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "515",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "516",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "519",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "520",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "521",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "522",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "525",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "526",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "527",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "528",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "529",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "530",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "531",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "532",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "536",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "538",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "539",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "542",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "545",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "546",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "550",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "561",
+      "cep": 20,
+      "cef": 1,
+      "cnp": 11,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "562",
+      "cep": 20,
+      "cef": 1,
+      "cnp": 11,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "574",
+      "cep": 20,
+      "cef": 1,
+      "cnp": 11,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "575",
+      "cep": 20,
+      "cef": 1,
+      "cnp": 11,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "576",
+      "cep": 20,
+      "cef": 1,
+      "cnp": 11,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "588",
+      "cep": 22,
+      "cef": 1,
+      "cnp": 9,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "589",
+      "cep": 22,
+      "cef": 1,
+      "cnp": 9,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "602",
+      "cep": 22,
+      "cef": 1,
+      "cnp": 9,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "603",
+      "cep": 22,
+      "cef": 1,
+      "cnp": 9,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "604",
+      "cep": 22,
+      "cef": 1,
+      "cnp": 9,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "614",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "615",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "616",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "617",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "618",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "619",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "620",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "622",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "627",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "636",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "637",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "638",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "639",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "650",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "652",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "653",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "654",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "656",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "657",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "660",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "677",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "695",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "696",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "698",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "700",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "701",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "702",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "703",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "705",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "706",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "707",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "710",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "711",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "713",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "716",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "717",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "720",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "723",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "725",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "740",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "741",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "742",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "744",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "745",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "746",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "748",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "749",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "752",
+      "cep": 27,
+      "cef": 1,
+      "cnp": 4,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "767",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "769",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "772",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "775",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "785",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "777",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "778",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "780",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "781",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "783",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "784",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "789",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "790",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "792",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "793",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "795",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "796",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "798",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "805",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "806",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "807",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "809",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "820",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "821",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "822",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "823",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "825",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "834",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "835",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "837",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "838",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "840",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "841",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "859",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "860",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "861",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "879",
+      "cep": 2,
+      "cef": 1,
+      "cnp": 29,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "880",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "882",
+      "cep": 2,
+      "cef": 1,
+      "cnp": 29,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "883",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "885",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "887",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "888",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "889",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "890",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "892",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "894",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "898",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "896",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "897",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "901",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "921",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "922",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "924",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "925",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "927",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "928",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "931",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "932",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "933",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "934",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "935",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "936",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "939",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "940",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "941",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "942",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "944",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "945",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "947",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "948",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "949",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "950",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "953",
+      "cep": 1,
+      "cef": 1,
+      "cnp": 30,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "966",
+      "cep": 10,
+      "cef": 0,
+      "cnp": 21,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "967",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "969",
+      "cep": 10,
+      "cef": 0,
+      "cnp": 21,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "970",
+      "cep": 4,
+      "cef": 0,
+      "cnp": 27,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "972",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "973",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "975",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "978",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "980",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "983",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "984",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "987",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "988",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "991",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "992",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "995",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "996",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "997",
+      "cep": 2,
+      "cef": 0,
+      "cnp": 29,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "999",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1000",
+      "cep": 5,
+      "cef": 0,
+      "cnp": 26,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1001",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1004",
+      "cep": 8,
+      "cef": 0,
+      "cnp": 23,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1013",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1014",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1016",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1017",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1021",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1022",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1023",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1024",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1026",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1027",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1028",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1030",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1031",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1032",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1034",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1035",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "1036",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.TimeSeries",
+      "location": "143",
+      "cep": 12,
+      "cef": 1,
+      "cnp": 19,
+      "cnf": 0
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "94",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "95",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "103",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "104",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "105",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "107",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "108",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "109",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "110",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "118",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "119",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "120",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "122",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "123",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "124",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "125",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "134",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "135",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "145",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "146",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "147",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "148",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "149",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "150",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "151",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "159",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "168",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "177",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "191",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "205",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "217",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "218",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "219",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "228",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "229",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "232",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "233",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "236",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "239",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "249",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "250",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "253",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "254",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "257",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "260",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "269",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "280",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "295",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "296",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "297",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "298",
+      "cep": 1,
+      "cef": 0,
+      "cnp": 30,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "302",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "306",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "321",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "322",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "323",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "324",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "342",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "343",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "344",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "345",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "346",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "348",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "352",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "354",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "361",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "364",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "380",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "381",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "384",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "399",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "400",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "401",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "404",
+      "cep": 3,
+      "cef": 0,
+      "cnp": 28,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "420",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "421",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "424",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "426",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "427",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "428",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "429",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "431",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "433",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "434",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "435",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "436",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "440",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "443",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "444",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "445",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "446",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "447",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "451",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "454",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "460",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "462",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "468",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "482",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "483",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "484",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "486",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "487",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "489",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "490",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "492",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "506",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "508",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "512",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "510",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    },
+    {
+      "name": "org.jfree.data.time.Month",
+      "location": "513",
+      "cep": 0,
+      "cef": 0,
+      "cnp": 31,
+      "cnf": 1
+    }
+  ]
+}
