@@ -7,7 +7,7 @@ from src.spectrum.spectrum import Spectrum
 class DataFlow(Spectrum):
     def __init__(self, dataset_dir, program, ver, file):
         self.code_lines, self.methods, self.vars, self.defs, self.uses = self.count_instrumented_elements(dataset_dir, program, ver, file)
-        super().__init__(dataset_dir, program, ver , self.code_lines, 'jaguar/.jaguar/matrix/org.jfree.chart.annotations.AbstractXYAnnotation.matrix', False)
+        super().__init__(dataset_dir, program, ver , self.code_lines, 'jaguar/.jaguar/matrix/' + file + '.matrix', False)
 
         self.cep = self.sum_elements(1, self.positive_tests)
         self.cef = self.sum_elements(1, self.negative_tests)
@@ -110,7 +110,7 @@ def read_spectra():
         vars.append(var_name)
 
 if __name__ == "__main__":
-    data = DataFlow('/Users/diogofreitas/PycharmProjects/d4jdata/data/', 'Chart', '12b', 'org.jfree.chart.annotations.AbstractXYAnnotation')
+    data = DataFlow('/Users/diogofreitas/PycharmProjects/d4jdata/data/', 'Chart', '1b', 'org.jfree.chart.BufferedImageRenderingSource')
     # "/Users/diogofreitas/PycharmProjects/jaguar-data-flow-experiments-main/dataset/Chart/12b/jaguar/.jaguar/spectra"
 
     print(data.elements)
@@ -119,6 +119,7 @@ if __name__ == "__main__":
     print(data.cnp)
     print(data.cnf)
     print(data.code_lines)
+    print(len(data.code_lines))
     print(data.methods)
     print(data.vars)
     print(data.defs)
