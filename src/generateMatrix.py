@@ -42,14 +42,52 @@ def unzipKillmaps(dataDir, program, versions):
                 tarinfo for tarinfo in tar.getmembers()
                 if tarinfo.name.endswith('killmap.csv.gz')
             ]
-            tar.extractall(members=subdir_and_files, path=dataDir)
+            def is_within_directory(directory, target):
+                
+                abs_directory = os.path.abspath(directory)
+                abs_target = os.path.abspath(target)
+            
+                prefix = os.path.commonprefix([abs_directory, abs_target])
+                
+                return prefix == abs_directory
+            
+            def safe_extract(tar, path=".", members=None, *, numeric_owner=False):
+            
+                for member in tar.getmembers():
+                    member_path = os.path.join(path, member.name)
+                    if not is_within_directory(path, member_path):
+                        raise Exception("Attempted Path Traversal in Tar File")
+            
+                tar.extractall(path, members, numeric_owner=numeric_owner) 
+                
+            
+            safe_extract(tar, members=subdir_and_files, path=dataDir)
 
         with tarfile.open(file_path + tarFileName) as tar:
             subdir_and_files = [
                 tarinfo for tarinfo in tar.getmembers()
                 if tarinfo.name.endswith("mutants.log")
             ]
-            tar.extractall(members=subdir_and_files, path=dataDir)
+            def is_within_directory(directory, target):
+                
+                abs_directory = os.path.abspath(directory)
+                abs_target = os.path.abspath(target)
+            
+                prefix = os.path.commonprefix([abs_directory, abs_target])
+                
+                return prefix == abs_directory
+            
+            def safe_extract(tar, path=".", members=None, *, numeric_owner=False):
+            
+                for member in tar.getmembers():
+                    member_path = os.path.join(path, member.name)
+                    if not is_within_directory(path, member_path):
+                        raise Exception("Attempted Path Traversal in Tar File")
+            
+                tar.extractall(path, members, numeric_owner=numeric_owner) 
+                
+            
+            safe_extract(tar, members=subdir_and_files, path=dataDir)
 
 
         if tarFileName.find("unoptimized") != -1:
@@ -84,7 +122,26 @@ def unzip_gzolgars(dataDir, program, versions):
                 tarinfo for tarinfo in tar.getmembers()
                 if tarinfo.name.endswith('matrix')
             ]
-            tar.extractall(members=subdir_and_files, path=dataDir)
+            def is_within_directory(directory, target):
+                
+                abs_directory = os.path.abspath(directory)
+                abs_target = os.path.abspath(target)
+            
+                prefix = os.path.commonprefix([abs_directory, abs_target])
+                
+                return prefix == abs_directory
+            
+            def safe_extract(tar, path=".", members=None, *, numeric_owner=False):
+            
+                for member in tar.getmembers():
+                    member_path = os.path.join(path, member.name)
+                    if not is_within_directory(path, member_path):
+                        raise Exception("Attempted Path Traversal in Tar File")
+            
+                tar.extractall(path, members, numeric_owner=numeric_owner) 
+                
+            
+            safe_extract(tar, members=subdir_and_files, path=dataDir)
 
         # move matrix file from gzolgars/ to data/ dir:
         shutil.move(ziped_file_path + "matrix", file_path + "matrix")
@@ -94,7 +151,26 @@ def unzip_gzolgars(dataDir, program, versions):
                 tarinfo for tarinfo in tar.getmembers()
                 if tarinfo.name.endswith("spectra")
             ]
-            tar.extractall(members=subdir_and_files, path=dataDir)
+            def is_within_directory(directory, target):
+                
+                abs_directory = os.path.abspath(directory)
+                abs_target = os.path.abspath(target)
+            
+                prefix = os.path.commonprefix([abs_directory, abs_target])
+                
+                return prefix == abs_directory
+            
+            def safe_extract(tar, path=".", members=None, *, numeric_owner=False):
+            
+                for member in tar.getmembers():
+                    member_path = os.path.join(path, member.name)
+                    if not is_within_directory(path, member_path):
+                        raise Exception("Attempted Path Traversal in Tar File")
+            
+                tar.extractall(path, members, numeric_owner=numeric_owner) 
+                
+            
+            safe_extract(tar, members=subdir_and_files, path=dataDir)
 
         # move spectra file from gzolgars/ to data/ dir:
         shutil.move(ziped_file_path + "spectra", file_path + "spectra")
